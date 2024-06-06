@@ -1,0 +1,18 @@
+[
+  {
+    "Value": 0,
+    "Name": "Male"
+  },
+  {
+    "Value": 1,
+    "Name": "Female"
+  },
+  {
+    "Value": 2,
+    "Name": "Unknown"
+  },
+  {
+    "Value": 3,
+    "Name": "Unknown"
+  }
+]

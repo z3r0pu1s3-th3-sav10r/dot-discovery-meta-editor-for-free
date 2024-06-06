@@ -1,0 +1,50 @@
+[
+  {
+    "Value": 0,
+    "Name": "None"
+  },
+  {
+    "Value": 1,
+    "Name": "Monochrome"
+  },
+  {
+    "Value": 2,
+    "Name": "Gold"
+  },
+  {
+    "Value": 3,
+    "Name": "Orange Sepia"
+  },
+  {
+    "Value": 4,
+    "Name": "Rose Sepia"
+  },
+  {
+    "Value": 5,
+    "Name": "Green"
+  },
+  {
+    "Value": 6,
+    "Name": "Blue"
+  },
+  {
+    "Value": 7,
+    "Name": "Red"
+  },
+  {
+    "Value": 8,
+    "Name": "Thermography"
+  },
+  {
+    "Value": 9,
+    "Name": "Dim Red"
+  },
+  {
+    "Value": 10,
+    "Name": "Lime Green"
+  },
+  {
+    "Value": 11,
+    "Name": "Sepia"
+  }
+]

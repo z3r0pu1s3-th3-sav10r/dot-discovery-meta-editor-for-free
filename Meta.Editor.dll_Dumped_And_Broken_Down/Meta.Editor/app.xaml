@@ -1,0 +1,16 @@
+<Application x:Class="MetaEditor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Application.Resources>
+    <ResourceDictionary>
+      <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/Themes/Generic.xaml"/>
+        <ResourceDictionary Source="/Controls/Flatbuffer/Themes/Generic.xaml"/>
+        <ResourceDictionary Source="/Controls/SDB/Themes/Generic.xaml"/>
+        <ResourceDictionary Source="/Controls/CreationSuite/Controls/Games/Editors/Themes/EditorCharacter.xaml"/>
+        <ResourceDictionary Source="/Controls/CreationSuite/Controls/Games/Editors/Themes/EditorMapping.xaml"/>
+        <ResourceDictionary Source="/Controls/CreationSuite/Controls/Games/Editors/Themes/EditorMotion.xaml"/>
+      </ResourceDictionary.MergedDictionaries>
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>

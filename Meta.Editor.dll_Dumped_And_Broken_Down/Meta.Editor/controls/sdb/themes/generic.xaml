@@ -1,0 +1,73 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Meta.Editor.Controls"
+                    xmlns:fb="clr-namespace:Meta.Structures.Flatbuffers;assembly=Meta.Structures.Flatbuffers"
+                    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes">
+  <ResourceDictionary.MergedDictionaries>
+    <ResourceDictionary Source="/Meta.Editor;component/Themes/Generic.xaml"/>
+  </ResourceDictionary.MergedDictionaries>
+  <Style TargetType="{x:Type local:MetaSDBControl}">
+    <Setter Property="Control.Template">
+      <Setter.Value>
+        <ControlTemplate TargetType="{x:Type local:MetaSDBControl}">
+          <Grid>
+            <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="{StaticResource ControlBackground}" BorderThickness="0" Margin="2,0,2,0"
+                    FocusManager.FocusedElement="{Binding ElementName=PART_DataGrid}">
+              <Grid>
+                <Grid.RowDefinitions>
+                  <RowDefinition Height="Auto"/>
+                  <RowDefinition Height="*"/>
+                  <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="0" Margin="1" BorderBrush="{StaticResource ListBackground}" BorderThickness="1">
+                  <local:MetaWatermarkTextbox x:Name="PART_FilterTextBox" WatermarkText="Filter" Padding="4,2,4,2"/>
+                </Border>
+                <DataGrid x:Name="PART_DataGrid" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False"
+                          CanUserDeleteRows="False" CanUserReorderColumns="False" ScrollViewer.CanContentScroll="True"
+                          SelectionMode="Single" ScrollViewer.VerticalScrollBarVisibility="Auto"
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                          VirtualizingPanel.IsVirtualizingWhenGrouping="False" VirtualizingPanel.IsVirtualizing="true"
+                          VirtualizingPanel.VirtualizationMode="Recycling" BorderBrush="{StaticResource ControlBackground}"
+                          HeadersVisibility="Column" GridLinesVisibility="All" SelectionUnit="FullRow" IsReadOnly="False"
+                          HorizontalAlignment="Stretch" Background="Transparent" Foreground="{StaticResource FontColor}">
+                  <DataGrid.Columns>
+                    <DataGridTextColumn Header="Index" Width="50" IsReadOnly="True" Visibility="Collapsed" Binding="{Binding Index}"/>
+                    <DataGridTextColumn Header="ID" Width=".7*" Binding="{Binding Id}">
+                      <DataGridBoundColumn.EditingElementStyle>
+                        <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource {x:Type TextBox}}"/>
+                      </DataGridBoundColumn.EditingElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Text (Assigned String Data)" Width="6*" Binding="{Binding String}">
+                      <DataGridBoundColumn.EditingElementStyle>
+                        <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource {x:Type TextBox}}"/>
+                      </DataGridBoundColumn.EditingElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Offset" Width="*" Visibility="Hidden" IsReadOnly="True" Binding="{Binding Offset}"/>
+                  </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="5">
+                  <Label Content="Text:" VerticalAlignment="Center"/>
+                  <TextBox x:Name="PART_StringText" Width="400" Margin="0,5,0,0"/>
+                  <Label Content="ID:" VerticalAlignment="Center"/>
+                  <TextBox x:Name="PART_StringID" Width="180" Margin="0,5,0,0"
+                           IsEnabled="{Binding ElementName=checkBox, Path=IsChecked}"/>
+                  <Label Content="Override ID" VerticalAlignment="Center"/>
+                  <CheckBox Name="checkBox" VerticalAlignment="Center" IsChecked="{Binding GUIDOverride}"/>
+                  <Button x:Name="PART_NewSDB" Margin="10,0,0,0" Width="200">
+                    <StackPanel Orientation="Horizontal">
+                      <PackIcon Kind="ArchiveArrowUp" FrameworkElement.Margin="0,0,5,0"/>
+                      <TextBlock Text="Add New"/>
+                    </StackPanel>
+                  </Button>
+                </StackPanel>
+              </Grid>
+            </Border>
+          </Grid>
+        </ControlTemplate>
+      </Setter.Value>
+    </Setter>
+  </Style>
+</ResourceDictionary>

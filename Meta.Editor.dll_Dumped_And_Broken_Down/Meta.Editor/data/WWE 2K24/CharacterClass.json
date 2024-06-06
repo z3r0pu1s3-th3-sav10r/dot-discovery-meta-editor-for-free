@@ -1,0 +1,18 @@
+[
+  {
+    "Value": 0,
+    "Name": "Striker"
+  },
+  {
+    "Value": 1,
+    "Name": "Technician"
+  },
+  {
+    "Value": 2,
+    "Name": "Powerhouse"
+  },
+  {
+    "Value": 3,
+    "Name": "High Flyer"
+  }
+]

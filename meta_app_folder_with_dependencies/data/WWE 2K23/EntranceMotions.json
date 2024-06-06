@@ -1,0 +1,3258 @@
+[
+    {
+        "Value": 100,
+        "Name": "THE ROCK"
+    },
+    {
+        "Value": 101,
+        "Name": "STONE COLD"
+    },
+    {
+        "Value": 102,
+        "Name": "TRIPLE H"
+    },
+    {
+        "Value": 103,
+        "Name": "THE UNDERTAKER"
+    },
+    {
+        "Value": 105,
+        "Name": "AJ STYLES"
+    },
+    {
+        "Value": 106,
+        "Name": "BREAK THE WALLS 1"
+    },
+    {
+        "Value": 107,
+        "Name": "KANE 1"
+    },
+    {
+        "Value": 108,
+        "Name": "BOOKER T 1"
+    },
+    {
+        "Value": 109,
+        "Name": "JEFF HARDY 2"
+    },
+    {
+        "Value": 110,
+        "Name": "EDGE"
+    },
+    {
+        "Value": 111,
+        "Name": "GOLD MEDALIST 2"
+    },
+    {
+        "Value": 112,
+        "Name": "GOLD MEDALIST 2"
+    },
+    {
+        "Value": 113,
+        "Name": "MR MONDAY NIGHT"
+    },
+    {
+        "Value": 114,
+        "Name": "JBL 1"
+    },
+    {
+        "Value": 115,
+        "Name": "MR MCMAHON"
+    },
+    {
+        "Value": 116,
+        "Name": "JEFF HARDY 1"
+    },
+    {
+        "Value": 117,
+        "Name": "VER. 1.0"
+    },
+    {
+        "Value": 118,
+        "Name": "BREAK THE WALLS 2"
+    },
+    {
+        "Value": 119,
+        "Name": "ANDRE THE GIANT"
+    },
+    {
+        "Value": 120,
+        "Name": "THUNDEROUS BOOM"
+    },
+    {
+        "Value": 121,
+        "Name": "GRIZZLED FISHERMAN"
+    },
+    {
+        "Value": 122,
+        "Name": "UNDISPUTED BUZZSAW"
+    },
+    {
+        "Value": 123,
+        "Name": "NEXT GENERATION OF GREAT 1"
+    },
+    {
+        "Value": 124,
+        "Name": "WOKEN 1"
+    },
+    {
+        "Value": 125,
+        "Name": "MASS DESTRUCTION"
+    },
+    {
+        "Value": 126,
+        "Name": "MISTER BORING"
+    },
+    {
+        "Value": 127,
+        "Name": "THE YES MOVEMENT 1"
+    },
+    {
+        "Value": 128,
+        "Name": "DANNY BURCH"
+    },
+    {
+        "Value": 129,
+        "Name": "RIC FLAIR '88"
+    },
+    {
+        "Value": 130,
+        "Name": "RIC FLAIR '91"
+    },
+    {
+        "Value": 131,
+        "Name": "MURPHY 2"
+    },
+    {
+        "Value": 132,
+        "Name": "TRENT SEVEN"
+    },
+    {
+        "Value": 133,
+        "Name": "MURPHY"
+    },
+    {
+        "Value": 134,
+        "Name": "EARTHS CHAMPION"
+    },
+    {
+        "Value": 135,
+        "Name": "KUSHIDA"
+    },
+    {
+        "Value": 136,
+        "Name": "BOBBY LASHLEY 2"
+    },
+    {
+        "Value": 137,
+        "Name": "HUMBERTO CARRILO"
+    },
+    {
+        "Value": 138,
+        "Name": "STAND AT ATTENTION"
+    },
+    {
+        "Value": 139,
+        "Name": "JOHN CENA 1"
+    },
+    {
+        "Value": 140,
+        "Name": "JOHN CENA 2"
+    },
+    {
+        "Value": 141,
+        "Name": "EDDIE GUERRERO '97"
+    },
+    {
+        "Value": 142,
+        "Name": "JOHN CENA '03"
+    },
+    {
+        "Value": 143,
+        "Name": "SLAM TO WIN"
+    },
+    {
+        "Value": 144,
+        "Name": "SHAWN MICHAELS '05"
+    },
+    {
+        "Value": 145,
+        "Name": "SHAWN MICHAELS DX"
+    },
+    {
+        "Value": 146,
+        "Name": "FAAROOQ"
+    },
+    {
+        "Value": 147,
+        "Name": "STEPHANIE MCMAHON"
+    },
+    {
+        "Value": 148,
+        "Name": "RONDA ROUSEY"
+    },
+    {
+        "Value": 149,
+        "Name": "ANGEL GARZA"
+    },
+    {
+        "Value": 150,
+        "Name": "BOBBY LASHLEY 1"
+    },
+    {
+        "Value": 151,
+        "Name": "REY MYSTERIO"
+    },
+    {
+        "Value": 152,
+        "Name": "SHANE MCMAHON"
+    },
+    {
+        "Value": 155,
+        "Name": "AUSTIN THEORY"
+    },
+    {
+        "Value": 156,
+        "Name": "EDDIE GUERRERO 2"
+    },
+    {
+        "Value": 157,
+        "Name": "EDDIE GUERRERO 1"
+    },
+    {
+        "Value": 158,
+        "Name": "ARYA DAIVARI"
+    },
+    {
+        "Value": 159,
+        "Name": "BATISTA"
+    },
+    {
+        "Value": 160,
+        "Name": "BATISTA '10"
+    },
+    {
+        "Value": 161,
+        "Name": "RANDY ORTON"
+    },
+    {
+        "Value": 162,
+        "Name": "DEXTER LUMIS"
+    },
+    {
+        "Value": 163,
+        "Name": "KEITH LEE"
+    },
+    {
+        "Value": 164,
+        "Name": "TYLER BATE"
+    },
+    {
+        "Value": 165,
+        "Name": "ONE HUNDREND SOULS"
+    },
+    {
+        "Value": 166,
+        "Name": "PUNJABI GIANT"
+    },
+    {
+        "Value": 167,
+        "Name": "CHAD GABLE 1"
+    },
+    {
+        "Value": 168,
+        "Name": "BUTCH"
+    },
+    {
+        "Value": 169,
+        "Name": "JERRY \"THE KING\" LAWLER"
+    },
+    {
+        "Value": 170,
+        "Name": "KANE 2"
+    },
+    {
+        "Value": 171,
+        "Name": "B-TEAMSTER 1"
+    },
+    {
+        "Value": 172,
+        "Name": "GENERIC SUPERSTAR 1"
+    },
+    {
+        "Value": 173,
+        "Name": "EIGHT PACK"
+    },
+    {
+        "Value": 174,
+        "Name": "SANTOS ESCOBAR"
+    },
+    {
+        "Value": 175,
+        "Name": "CRUZ DEL TORO"
+    },
+    {
+        "Value": 176,
+        "Name": "JOAQUINN WILDE"
+    },
+    {
+        "Value": 177,
+        "Name": "BRET \"THE HITMAN\" HART"
+    },
+    {
+        "Value": 178,
+        "Name": "ISAIAH \"SWERVE\" SCOTT"
+    },
+    {
+        "Value": 179,
+        "Name": "WORLD STRONGEST MAN"
+    },
+    {
+        "Value": 180,
+        "Name": "THE HARDCORE EXTREME"
+    },
+    {
+        "Value": 181,
+        "Name": "THE HARDCORE REVEREND"
+    },
+    {
+        "Value": 182,
+        "Name": "BIG E NEW DAY 1"
+    },
+    {
+        "Value": 183,
+        "Name": "KOFI KINGSTON NEW DAY 1"
+    },
+    {
+        "Value": 184,
+        "Name": "XAVIER WOODS NEW DAY 1"
+    },
+    {
+        "Value": 185,
+        "Name": "MUNITIONS SPECIALIST"
+    },
+    {
+        "Value": 186,
+        "Name": "BIG HOOT"
+    },
+    {
+        "Value": 187,
+        "Name": "RIDDLE"
+    },
+    {
+        "Value": 188,
+        "Name": "SAMI ZAYN 3"
+    },
+    {
+        "Value": 189,
+        "Name": "KING OF THE CRUISERS 1"
+    },
+    {
+        "Value": 190,
+        "Name": "MUSTFA ALI 2"
+    },
+    {
+        "Value": 191,
+        "Name": "TUCKER"
+    },
+    {
+        "Value": 192,
+        "Name": "OTIS"
+    },
+    {
+        "Value": 193,
+        "Name": "LEGIT BOSS 1"
+    },
+    {
+        "Value": 194,
+        "Name": "BLUDGEON BROTHER 2"
+    },
+    {
+        "Value": 195,
+        "Name": "ROSE GOLD 1"
+    },
+    {
+        "Value": 196,
+        "Name": "BLUDGEON BROTHER 2"
+    },
+    {
+        "Value": 197,
+        "Name": "MACHO MAN RANDY SAVAGE"
+    },
+    {
+        "Value": 198,
+        "Name": "ROSE GOLD 2"
+    },
+    {
+        "Value": 199,
+        "Name": "HERE SHE GOES AGAIN"
+    },
+    {
+        "Value": 200,
+        "Name": "POWER OF LOVE"
+    },
+    {
+        "Value": 201,
+        "Name": "MILAN MIRACLE"
+    },
+    {
+        "Value": 202,
+        "Name": "RURAL HARDCORE"
+    },
+    {
+        "Value": 203,
+        "Name": "BETH PHOENIX"
+    },
+    {
+        "Value": 204,
+        "Name": "AUSTIN THEORY 2"
+    },
+    {
+        "Value": 205,
+        "Name": "JOHNNY GARGANO 1"
+    },
+    {
+        "Value": 206,
+        "Name": "THE FREAK 2"
+    },
+    {
+        "Value": 207,
+        "Name": "DREAM OVER"
+    },
+    {
+        "Value": 208,
+        "Name": "THE FREAK 1"
+    },
+    {
+        "Value": 209,
+        "Name": "CRIMSON REBELLION"
+    },
+    {
+        "Value": 210,
+        "Name": "BIG EVIL BIKE"
+    },
+    {
+        "Value": 211,
+        "Name": "BIG EVIL"
+    },
+    {
+        "Value": 212,
+        "Name": "ENGLISH POWERHOUSE 1"
+    },
+    {
+        "Value": 213,
+        "Name": "SHELTON BENJAMIN 2"
+    },
+    {
+        "Value": 214,
+        "Name": "ROCK & ROLL 1"
+    },
+    {
+        "Value": 215,
+        "Name": "ROCK & ROLL 2"
+    },
+    {
+        "Value": 216,
+        "Name": "ENGLISH POWERHOUSE 2"
+    },
+    {
+        "Value": 217,
+        "Name": "THE MIZ & MARYSE MANAGER (HIDDEN)"
+    },
+    {
+        "Value": 218,
+        "Name": "THE MIZ"
+    },
+    {
+        "Value": 219,
+        "Name": "LONG ISLAND BROSKI"
+    },
+    {
+        "Value": 220,
+        "Name": "AUSTIN THEORY 1"
+    },
+    {
+        "Value": 221,
+        "Name": "JOHN MORRISON"
+    },
+    {
+        "Value": 222,
+        "Name": "ROBERT ROODE 1"
+    },
+    {
+        "Value": 223,
+        "Name": "ROBERT ROODE 2"
+    },
+    {
+        "Value": 224,
+        "Name": "THE BRIAN KENDRICK"
+    },
+    {
+        "Value": 225,
+        "Name": "JOHNNY GARGANO 2"
+    },
+    {
+        "Value": 226,
+        "Name": "CIAMPA 2"
+    },
+    {
+        "Value": 227,
+        "Name": "CHARM CITY"
+    },
+    {
+        "Value": 228,
+        "Name": "MOLLY HOLLY"
+    },
+    {
+        "Value": 229,
+        "Name": "CEDRIC ALEXANDER"
+    },
+    {
+        "Value": 230,
+        "Name": "DEFEATED"
+    },
+    {
+        "Value": 231,
+        "Name": "GRAN METALIK 1"
+    },
+    {
+        "Value": 232,
+        "Name": "LINCE DORADO"
+    },
+    {
+        "Value": 233,
+        "Name": "TOTAL PACKAGE 2"
+    },
+    {
+        "Value": 235,
+        "Name": "PROUD HERITAGE"
+    },
+    {
+        "Value": 236,
+        "Name": "THE MODEL 2"
+    },
+    {
+        "Value": 237,
+        "Name": "THE MODEL 1"
+    },
+    {
+        "Value": 238,
+        "Name": "BIG BOSS MAN 1"
+    },
+    {
+        "Value": 239,
+        "Name": "BIG BOSS MAN 2"
+    },
+    {
+        "Value": 240,
+        "Name": "JORDAN DEVLIN"
+    },
+    {
+        "Value": 241,
+        "Name": "BEEFCAKE BARBER"
+    },
+    {
+        "Value": 242,
+        "Name": "ALBA FYRE"
+    },
+    {
+        "Value": 243,
+        "Name": "BEAST FROM THE EAST"
+    },
+    {
+        "Value": 244,
+        "Name": "PAPA SHANGO"
+    },
+    {
+        "Value": 245,
+        "Name": "RIKISHI"
+    },
+    {
+        "Value": 246,
+        "Name": "TRUE PLAYER"
+    },
+    {
+        "Value": 247,
+        "Name": "DIRE INTENTIONS"
+    },
+    {
+        "Value": 248,
+        "Name": "FREEDOM BIRDS 1"
+    },
+    {
+        "Value": 249,
+        "Name": "PEARLECENT LEGEND"
+    },
+    {
+        "Value": 250,
+        "Name": "MS. TEXAS"
+    },
+    {
+        "Value": 251,
+        "Name": "FREDDOM BIRDS 2"
+    },
+    {
+        "Value": 252,
+        "Name": "FREEDOM BIRDS 3"
+    },
+    {
+        "Value": 253,
+        "Name": "BIG TEXAN"
+    },
+    {
+        "Value": 254,
+        "Name": "WCCW BROTHERHOOD 1"
+    },
+    {
+        "Value": 255,
+        "Name": "WCCW BROTHERHOOD 2"
+    },
+    {
+        "Value": 256,
+        "Name": "KING BOOKER"
+    },
+    {
+        "Value": 257,
+        "Name": "SAMOAN DYNASTY"
+    },
+    {
+        "Value": 258,
+        "Name": "JAPANESE BUZZSAW"
+    },
+    {
+        "Value": 260,
+        "Name": "TED DBIASE"
+    },
+    {
+        "Value": 261,
+        "Name": "HARCORE ICON"
+    },
+    {
+        "Value": 262,
+        "Name": "HALL OF FAM INDUCTEE"
+    },
+    {
+        "Value": 263,
+        "Name": "CHANSAW"
+    },
+    {
+        "Value": 264,
+        "Name": "MR RED WHITE & BLUE"
+    },
+    {
+        "Value": 265,
+        "Name": "ANGELO DAWKINS"
+    },
+    {
+        "Value": 266,
+        "Name": "MONTEZ FORD"
+    },
+    {
+        "Value": 267,
+        "Name": "REPEAT AFTER ME"
+    },
+    {
+        "Value": 268,
+        "Name": "WHAT A RASCALZ"
+    },
+    {
+        "Value": 269,
+        "Name": "THUMBS UP, THUMBS DOWN"
+    },
+    {
+        "Value": 270,
+        "Name": "SPIRITUAL DRAGON"
+    },
+    {
+        "Value": 271,
+        "Name": "SHELTON BENJAMIN 1"
+    },
+    {
+        "Value": 272,
+        "Name": "RECKONING"
+    },
+    {
+        "Value": 273,
+        "Name": "DOLPH ZIGGLER"
+    },
+    {
+        "Value": 274,
+        "Name": "HAPPY CORBIN"
+    },
+    {
+        "Value": 275,
+        "Name": "DOLPH ZIGGLER '09"
+    },
+    {
+        "Value": 276,
+        "Name": "CAPTAIN CHARISMA"
+    },
+    {
+        "Value": 277,
+        "Name": "SONYA DEVILLE 1"
+    },
+    {
+        "Value": 278,
+        "Name": "DREW MCINTYRE 2"
+    },
+    {
+        "Value": 279,
+        "Name": "SHEAMUS"
+    },
+    {
+        "Value": 280,
+        "Name": "DREW MCINTYRE 1"
+    },
+    {
+        "Value": 281,
+        "Name": "LIKE A DIAMOND"
+    },
+    {
+        "Value": 282,
+        "Name": "POISON PIXIE 1"
+    },
+    {
+        "Value": 283,
+        "Name": "RAQUEL RODRIGUEZ"
+    },
+    {
+        "Value": 284,
+        "Name": "OUTBACK DUNDEE 1"
+    },
+    {
+        "Value": 285,
+        "Name": "SCOTTISH SUPERNOVA"
+    },
+    {
+        "Value": 286,
+        "Name": "ICONIC 1"
+    },
+    {
+        "Value": 287,
+        "Name": "CARMELLA 1"
+    },
+    {
+        "Value": 288,
+        "Name": "MATT RIDDLE 1"
+    },
+    {
+        "Value": 289,
+        "Name": "NATALYA 1"
+    },
+    {
+        "Value": 290,
+        "Name": "NATALYA 2"
+    },
+    {
+        "Value": 291,
+        "Name": "ALEXA BLISS 4"
+    },
+    {
+        "Value": 292,
+        "Name": "BAYLEY 1"
+    },
+    {
+        "Value": 293,
+        "Name": "GIGI DOLIN"
+    },
+    {
+        "Value": 294,
+        "Name": "BAYLEY 2"
+    },
+    {
+        "Value": 295,
+        "Name": "JACY JAYNE"
+    },
+    {
+        "Value": 296,
+        "Name": "CHARLOTTE FLAIR 2"
+    },
+    {
+        "Value": 297,
+        "Name": "DANA BROOKE"
+    },
+    {
+        "Value": 298,
+        "Name": "CHARLOTTE FLAIR 1"
+    },
+    {
+        "Value": 299,
+        "Name": "TAMINA"
+    },
+    {
+        "Value": 300,
+        "Name": "KNIGHT RIDER"
+    },
+    {
+        "Value": 301,
+        "Name": "SHOTZI"
+    },
+    {
+        "Value": 302,
+        "Name": "LEGIT BOSS 2"
+    },
+    {
+        "Value": 303,
+        "Name": "BECKY LYNCH 3"
+    },
+    {
+        "Value": 304,
+        "Name": "NOT LIKE MOST"
+    },
+    {
+        "Value": 305,
+        "Name": "CARMELLA 2"
+    },
+    {
+        "Value": 306,
+        "Name": "ASUKA"
+    },
+    {
+        "Value": 307,
+        "Name": "ICONIC 2"
+    },
+    {
+        "Value": 308,
+        "Name": "BRON BREAKKER"
+    },
+    {
+        "Value": 309,
+        "Name": "MARYSE"
+    },
+    {
+        "Value": 310,
+        "Name": "AMAZING GLOW"
+    },
+    {
+        "Value": 311,
+        "Name": "POISON FLOWER"
+    },
+    {
+        "Value": 312,
+        "Name": "THE ONE AND ONLY 1"
+    },
+    {
+        "Value": 313,
+        "Name": "THE ONE AND ONLY 2"
+    },
+    {
+        "Value": 314,
+        "Name": "SEISMIC ACTIVITY"
+    },
+    {
+        "Value": 315,
+        "Name": "THE LIVING LEGEND 2"
+    },
+    {
+        "Value": 316,
+        "Name": "DREW GULAK 2"
+    },
+    {
+        "Value": 317,
+        "Name": "THE DRAGON"
+    },
+    {
+        "Value": 318,
+        "Name": "FABIAN AICHER"
+    },
+    {
+        "Value": 319,
+        "Name": "INNOVITE DRAGON"
+    },
+    {
+        "Value": 320,
+        "Name": "TROPICAL CYCLONE"
+    },
+    {
+        "Value": 321,
+        "Name": "FULL MOON 1"
+    },
+    {
+        "Value": 322,
+        "Name": "LIV MORGAN"
+    },
+    {
+        "Value": 323,
+        "Name": "SKY PIRATE"
+    },
+    {
+        "Value": 324,
+        "Name": "NO! NO! NO!"
+    },
+    {
+        "Value": 325,
+        "Name": "FULL MOON 2"
+    },
+    {
+        "Value": 326,
+        "Name": "LUDWIG KAISER"
+    },
+    {
+        "Value": 327,
+        "Name": "NEXUS ORIGINAL"
+    },
+    {
+        "Value": 328,
+        "Name": "GUNTHER 1"
+    },
+    {
+        "Value": 329,
+        "Name": "WRESTLING GENIUS"
+    },
+    {
+        "Value": 330,
+        "Name": "INSANITY"
+    },
+    {
+        "Value": 331,
+        "Name": "ALEXA BLISS 3"
+    },
+    {
+        "Value": 332,
+        "Name": "ALEXANDER WOLFE"
+    },
+    {
+        "Value": 333,
+        "Name": "AKIRA TOWAZWA"
+    },
+    {
+        "Value": 334,
+        "Name": "RAZOR RAMON"
+    },
+    {
+        "Value": 335,
+        "Name": "DIESEL"
+    },
+    {
+        "Value": 336,
+        "Name": "THE DRAGON '94"
+    },
+    {
+        "Value": 337,
+        "Name": "DARK RITUAL"
+    },
+    {
+        "Value": 338,
+        "Name": "ELIAS"
+    },
+    {
+        "Value": 339,
+        "Name": "ONE MAN BAND"
+    },
+    {
+        "Value": 340,
+        "Name": "MUSTAFA ALI 1"
+    },
+    {
+        "Value": 341,
+        "Name": "DOMINIK MYSTERIO"
+    },
+    {
+        "Value": 342,
+        "Name": "FACELESS"
+    },
+    {
+        "Value": 343,
+        "Name": "BROCK LESNAR"
+    },
+    {
+        "Value": 344,
+        "Name": "THE ROCK '98  (HIDDEN)"
+    },
+    {
+        "Value": 345,
+        "Name": "ROWDY RODDY PIPER"
+    },
+    {
+        "Value": 346,
+        "Name": "BECKY LYNCH 2"
+    },
+    {
+        "Value": 347,
+        "Name": "BREAK THE WALLS 3"
+    },
+    {
+        "Value": 348,
+        "Name": "KANE '08"
+    },
+    {
+        "Value": 349,
+        "Name": "THE LONE STAR COWBOY"
+    },
+    {
+        "Value": 350,
+        "Name": "THE BEST KEPT SECRET"
+    },
+    {
+        "Value": 351,
+        "Name": "REY MYSTERIO JR."
+    },
+    {
+        "Value": 352,
+        "Name": "REY MYSTERIO '06"
+    },
+    {
+        "Value": 353,
+        "Name": "B-TEAMASTER 2"
+    },
+    {
+        "Value": 354,
+        "Name": "REY MYSYERIO '08"
+    },
+    {
+        "Value": 355,
+        "Name": "MACE"
+    },
+    {
+        "Value": 356,
+        "Name": "AUSSIE AGGRESSION"
+    },
+    {
+        "Value": 357,
+        "Name": "LITA"
+    },
+    {
+        "Value": 358,
+        "Name": "CESARO 2"
+    },
+    {
+        "Value": 359,
+        "Name": "CESARO 1"
+    },
+    {
+        "Value": 360,
+        "Name": "ROAD DOGG JESSE JAMES"
+    },
+    {
+        "Value": 361,
+        "Name": "GOLDBERG"
+    },
+    {
+        "Value": 362,
+        "Name": "SHINSUKE NAKAMURA 2"
+    },
+    {
+        "Value": 363,
+        "Name": "T- BAR"
+    },
+    {
+        "Value": 364,
+        "Name": "SHINSUKE NAKAMURA 1"
+    },
+    {
+        "Value": 365,
+        "Name": "GOING HARD 2"
+    },
+    {
+        "Value": 366,
+        "Name": "GOING HARD 1"
+    },
+    {
+        "Value": 367,
+        "Name": "THE SHIELD'S LUNATIC"
+    },
+    {
+        "Value": 368,
+        "Name": "ROMAN REIGNS SHIELD"
+    },
+    {
+        "Value": 369,
+        "Name": "SETH ROLLINS SHIELD"
+    },
+    {
+        "Value": 370,
+        "Name": "THE LUNATIC"
+    },
+    {
+        "Value": 371,
+        "Name": "SETH ROLLINS 3"
+    },
+    {
+        "Value": 372,
+        "Name": "SETH ROLLINS 2"
+    },
+    {
+        "Value": 373,
+        "Name": "MVP"
+    },
+    {
+        "Value": 374,
+        "Name": "KING CORBIN"
+    },
+    {
+        "Value": 375,
+        "Name": "BARON CORBIN"
+    },
+    {
+        "Value": 376,
+        "Name": "THE ROCKSTAR"
+    },
+    {
+        "Value": 377,
+        "Name": "ROMAN REIGNS 2"
+    },
+    {
+        "Value": 378,
+        "Name": "ROMAN REIGNS 1"
+    },
+    {
+        "Value": 379,
+        "Name": "CIAMPA 1"
+    },
+    {
+        "Value": 380,
+        "Name": "SAMI ZAYN 2"
+    },
+    {
+        "Value": 381,
+        "Name": "KARRION KROSS"
+    },
+    {
+        "Value": 382,
+        "Name": "BRAUN STROWMAN 1"
+    },
+    {
+        "Value": 383,
+        "Name": "PAINFUL LITERATURE"
+    },
+    {
+        "Value": 384,
+        "Name": "BIG E"
+    },
+    {
+        "Value": 385,
+        "Name": "CHA CHA WITH ME 2"
+    },
+    {
+        "Value": 386,
+        "Name": "BRIE BELLA"
+    },
+    {
+        "Value": 387,
+        "Name": "NIKKI BELLA"
+    },
+    {
+        "Value": 388,
+        "Name": "AMERICAN DREAM"
+    },
+    {
+        "Value": 389,
+        "Name": "SUMMER DAYS"
+    },
+    {
+        "Value": 390,
+        "Name": "THE LIVING LEGEND 1"
+    },
+    {
+        "Value": 391,
+        "Name": "APOLLO CREWS 2"
+    },
+    {
+        "Value": 392,
+        "Name": "JAKE THE SNAKE ROBERTS"
+    },
+    {
+        "Value": 393,
+        "Name": "CHAD GABLE 2"
+    },
+    {
+        "Value": 394,
+        "Name": "JEY USO"
+    },
+    {
+        "Value": 395,
+        "Name": "KEVIN NASH 1"
+    },
+    {
+        "Value": 396,
+        "Name": "SCOTT HALL 1"
+    },
+    {
+        "Value": 397,
+        "Name": "THE GENESIS OF..."
+    },
+    {
+        "Value": 398,
+        "Name": "FIREFLY CULTIST 2"
+    },
+    {
+        "Value": 399,
+        "Name": "FIREFLY CULTIST 1"
+    },
+    {
+        "Value": 400,
+        "Name": "HARD NOX"
+    },
+    {
+        "Value": 401,
+        "Name": "STORM WARNING"
+    },
+    {
+        "Value": 402,
+        "Name": "BRAUN STROWMAN 2"
+    },
+    {
+        "Value": 403,
+        "Name": "TRINIDAD ROSE"
+    },
+    {
+        "Value": 404,
+        "Name": "GUNTHER 2"
+    },
+    {
+        "Value": 405,
+        "Name": "BLOODY SCORPION"
+    },
+    {
+        "Value": 406,
+        "Name": "RHEA RIPLEY"
+    },
+    {
+        "Value": 407,
+        "Name": "VENICE SURFER"
+    },
+    {
+        "Value": 408,
+        "Name": "CORVUS ICONICUS"
+    },
+    {
+        "Value": 409,
+        "Name": "CODY RHODES 1"
+    },
+    {
+        "Value": 410,
+        "Name": "NO NONSENSE"
+    },
+    {
+        "Value": 411,
+        "Name": "THE UNDERTAKER '03"
+    },
+    {
+        "Value": 412,
+        "Name": "SYXX"
+    },
+    {
+        "Value": 413,
+        "Name": "NIKKI CROSS"
+    },
+    {
+        "Value": 414,
+        "Name": "JBL 2"
+    },
+    {
+        "Value": 415,
+        "Name": "ERIC BISCHOFF"
+    },
+    {
+        "Value": 416,
+        "Name": "REAL MAN"
+    },
+    {
+        "Value": 417,
+        "Name": "GREATEST RIB"
+    },
+    {
+        "Value": 418,
+        "Name": "X-PAC"
+    },
+    {
+        "Value": 419,
+        "Name": "BUBBLY PERSONALITY 1"
+    },
+    {
+        "Value": 420,
+        "Name": "XAVIER WOODS"
+    },
+    {
+        "Value": 421,
+        "Name": "CAMERON GRIMES 2"
+    },
+    {
+        "Value": 422,
+        "Name": "MAN.SOOR 2"
+    },
+    {
+        "Value": 423,
+        "Name": "THE ICON"
+    },
+    {
+        "Value": 424,
+        "Name": "BULGARIAN BRUTE 1"
+    },
+    {
+        "Value": 425,
+        "Name": "SHAWN MICHAELS '97"
+    },
+    {
+        "Value": 426,
+        "Name": "CODY RHODES 2"
+    },
+    {
+        "Value": 427,
+        "Name": "BULGARIAN BRUTE"
+    },
+    {
+        "Value": 428,
+        "Name": "OUTBACK DUNDEE 2"
+    },
+    {
+        "Value": 429,
+        "Name": "SAMI ZAYN 1"
+    },
+    {
+        "Value": 430,
+        "Name": "CHA CHA WITH ME 1"
+    },
+    {
+        "Value": 431,
+        "Name": "DREW GULAK 1"
+    },
+    {
+        "Value": 432,
+        "Name": "THE MONSTER AMONG MEN"
+    },
+    {
+        "Value": 433,
+        "Name": "ALEXA BLISS 2"
+    },
+    {
+        "Value": 434,
+        "Name": "UNLEASH THE DEMON 2"
+    },
+    {
+        "Value": 435,
+        "Name": "KEVIN OWENS 1"
+    },
+    {
+        "Value": 436,
+        "Name": "KAYDEN CARTER"
+    },
+    {
+        "Value": 437,
+        "Name": "FINN BALOR"
+    },
+    {
+        "Value": 438,
+        "Name": "UNLEASH THE DEMON 1"
+    },
+    {
+        "Value": 439,
+        "Name": "DEMON BALOR (HIDDEN BUT SAME ANIMATION)"
+    },
+    {
+        "Value": 440,
+        "Name": "KATANA CHANCE"
+    },
+    {
+        "Value": 441,
+        "Name": "JINDER MAHAL 1"
+    },
+    {
+        "Value": 442,
+        "Name": "CLASSIC VILAIN"
+    },
+    {
+        "Value": 443,
+        "Name": "BROCK LESNAR & PAUL HEYMAN  (HIDDEN)"
+    },
+    {
+        "Value": 444,
+        "Name": "KEVIN OWENS 2"
+    },
+    {
+        "Value": 445,
+        "Name": "SHEAMUS 1"
+    },
+    {
+        "Value": 446,
+        "Name": "NIKKI A.S.H"
+    },
+    {
+        "Value": 447,
+        "Name": "RIDGE HOLLAND"
+    },
+    {
+        "Value": 448,
+        "Name": "GET HYPE"
+    },
+    {
+        "Value": 449,
+        "Name": "MUSTAFA ALI 3"
+    },
+    {
+        "Value": 450,
+        "Name": "APOLLO CREWS 2"
+    },
+    {
+        "Value": 451,
+        "Name": "SHAYNA BASZLER"
+    },
+    {
+        "Value": 452,
+        "Name": "FOXY"
+    },
+    {
+        "Value": 453,
+        "Name": "BIG E NEW DAY 2"
+    },
+    {
+        "Value": 454,
+        "Name": "XAVIER WOODS NEW DAY 2"
+    },
+    {
+        "Value": 455,
+        "Name": "DECA DANCE"
+    },
+    {
+        "Value": 456,
+        "Name": "THE YES MOVEMENT 2"
+    },
+    {
+        "Value": 458,
+        "Name": "FORGOTTEN SON"
+    },
+    {
+        "Value": 459,
+        "Name": "TYLER BREEZE"
+    },
+    {
+        "Value": 460,
+        "Name": "THE USOS '14"
+    },
+    {
+        "Value": 461,
+        "Name": "JIMMY USO"
+    },
+    {
+        "Value": 462,
+        "Name": "UNDERTAKER '98"
+    },
+    {
+        "Value": 463,
+        "Name": "THE UNDERTAKER '95"
+    },
+    {
+        "Value": 464,
+        "Name": "BATISTA EVOLUTION"
+    },
+    {
+        "Value": 465,
+        "Name": "RANDY ORTON EVOLUTION"
+    },
+    {
+        "Value": 466,
+        "Name": "OMOS"
+    },
+    {
+        "Value": 467,
+        "Name": "UMAGA"
+    },
+    {
+        "Value": 468,
+        "Name": "YOKOZUNA"
+    },
+    {
+        "Value": 470,
+        "Name": "BUBBLY PERSONALITY 2"
+    },
+    {
+        "Value": 471,
+        "Name": "BECKY LYNCH 1"
+    },
+    {
+        "Value": 472,
+        "Name": "APOLLO CREWS 1"
+    },
+    {
+        "Value": 473,
+        "Name": "TITUS O'NEIL"
+    },
+    {
+        "Value": 474,
+        "Name": "GORE"
+    },
+    {
+        "Value": 475,
+        "Name": "SETH ROLLINS 1"
+    },
+    {
+        "Value": 476,
+        "Name": "KING OF CRUSIER 2"
+    },
+    {
+        "Value": 477,
+        "Name": "DOINK THE CLOWN"
+    },
+    {
+        "Value": 478,
+        "Name": "KNOCK OUT ARTIST"
+    },
+    {
+        "Value": 479,
+        "Name": "BELIEVER"
+    },
+    {
+        "Value": 480,
+        "Name": "COREY GRAVES"
+    },
+    {
+        "Value": 481,
+        "Name": "DOUDROP"
+    },
+    {
+        "Value": 482,
+        "Name": "GENERIC SUPERSTAR 4"
+    },
+    {
+        "Value": 483,
+        "Name": "SEEING RED"
+    },
+    {
+        "Value": 484,
+        "Name": "ECW LEGEND"
+    },
+    {
+        "Value": 485,
+        "Name": "CARRIBEAN SENSATION"
+    },
+    {
+        "Value": 486,
+        "Name": "RICK BOOGS"
+    },
+    {
+        "Value": 487,
+        "Name": "STUNNINGLY HOLLYWOOD"
+    },
+    {
+        "Value": 488,
+        "Name": "RESPECT THE NATION 2"
+    },
+    {
+        "Value": 489,
+        "Name": "THE LOW DOWN"
+    },
+    {
+        "Value": 491,
+        "Name": "WRESTLING ARTIST"
+    },
+    {
+        "Value": 492,
+        "Name": "BOOK HIM"
+    },
+    {
+        "Value": 493,
+        "Name": "ONE TWO TRE"
+    },
+    {
+        "Value": 494,
+        "Name": "ALEXA BLISS 1"
+    },
+    {
+        "Value": 495,
+        "Name": "THE MILLENNIUM MAN"
+    },
+    {
+        "Value": 496,
+        "Name": "PERSONALITY DISORDER 1"
+    },
+    {
+        "Value": 497,
+        "Name": "PERSONALITY DISORDER 4"
+    },
+    {
+        "Value": 498,
+        "Name": "CACTUS JACK"
+    },
+    {
+        "Value": 499,
+        "Name": "PERSONALITY DISORDER 3"
+    },
+    {
+        "Value": 500,
+        "Name": "CAMERON GRIMES 1"
+    },
+    {
+        "Value": 501,
+        "Name": "ROCK THE PROMO CHAMP"
+    },
+    {
+        "Value": 502,
+        "Name": "HE IS A MACHINE"
+    },
+    {
+        "Value": 503,
+        "Name": "LACEY EVANS 2"
+    },
+    {
+        "Value": 504,
+        "Name": "GENERIC SUPERSTAR 2"
+    },
+    {
+        "Value": 505,
+        "Name": "GENERIC SUPERSTAR 3"
+    },
+    {
+        "Value": 506,
+        "Name": "HOT MESS"
+    },
+    {
+        "Value": 507,
+        "Name": "ULTIMATE WARRIOR"
+    },
+    {
+        "Value": 508,
+        "Name": "SHAKE, RATTLE & ROLL"
+    },
+    {
+        "Value": 509,
+        "Name": "WELCOME TO WASTELAND 1"
+    },
+    {
+        "Value": 510,
+        "Name": "WELCOME TO WASTELAND 2"
+    },
+    {
+        "Value": 511,
+        "Name": "RED BEARD"
+    },
+    {
+        "Value": 512,
+        "Name": "DARK ONE"
+    },
+    {
+        "Value": 513,
+        "Name": "THE COOLEST"
+    },
+    {
+        "Value": 514,
+        "Name": "RESPECT THE NATION 1"
+    },
+    {
+        "Value": 515,
+        "Name": "BOOGEYMAN"
+    },
+    {
+        "Value": 516,
+        "Name": "JIM THE ANVIL NEIDHART"
+    },
+    {
+        "Value": 517,
+        "Name": "ILJA"
+    },
+    {
+        "Value": 518,
+        "Name": "LUCHA LUCHA 1"
+    },
+    {
+        "Value": 519,
+        "Name": "DUKES UP"
+    },
+    {
+        "Value": 520,
+        "Name": "ALL RED EVERYTHING"
+    },
+    {
+        "Value": 521,
+        "Name": "TRIPLE H DX"
+    },
+    {
+        "Value": 522,
+        "Name": "FOREVER"
+    },
+    {
+        "Value": 523,
+        "Name": "INDI HARTWELL"
+    },
+    {
+        "Value": 524,
+        "Name": "WAR MACHINE"
+    },
+    {
+        "Value": 525,
+        "Name": "HURRICANE"
+    },
+    {
+        "Value": 526,
+        "Name": "PRINCESS"
+    },
+    {
+        "Value": 527,
+        "Name": "SHINNING STAR"
+    },
+    {
+        "Value": 528,
+        "Name": "HULA DANCER"
+    },
+    {
+        "Value": 529,
+        "Name": "BOXER"
+    },
+    {
+        "Value": 530,
+        "Name": "SMOOTH C"
+    },
+    {
+        "Value": 531,
+        "Name": "THE PHEMON OF CAMERON, NC"
+    },
+    {
+        "Value": 532,
+        "Name": "INTERNATIONAL SENSATION"
+    },
+    {
+        "Value": 533,
+        "Name": "BAD ATTITUDE"
+    },
+    {
+        "Value": 534,
+        "Name": "ROYAL FLUSH"
+    },
+    {
+        "Value": 535,
+        "Name": "KNOCK EM' DOWN"
+    },
+    {
+        "Value": 536,
+        "Name": "MARTIAL ARTIST"
+    },
+    {
+        "Value": 537,
+        "Name": "NO WAY JOSE (HIDDEN)"
+    },
+    {
+        "Value": 538,
+        "Name": "NO DUMMIES ALLOWED"
+    },
+    {
+        "Value": 539,
+        "Name": "SIGN OF TIMES"
+    },
+    {
+        "Value": 540,
+        "Name": "MR ATHLETIC"
+    },
+    {
+        "Value": 541,
+        "Name": "DANCING SUPERSTAR"
+    },
+    {
+        "Value": 542,
+        "Name": "THE GURU"
+    },
+    {
+        "Value": 543,
+        "Name": "SMOOTHSHOT"
+    },
+    {
+        "Value": 544,
+        "Name": "SUPER HERO"
+    },
+    {
+        "Value": 545,
+        "Name": "FIL AM FLASH"
+    },
+    {
+        "Value": 546,
+        "Name": "UNDEAD"
+    },
+    {
+        "Value": 547,
+        "Name": "ITS ALL ABOUT THE MAC"
+    },
+    {
+        "Value": 548,
+        "Name": "BIG BULL"
+    },
+    {
+        "Value": 549,
+        "Name": "STACY KEIBLER"
+    },
+    {
+        "Value": 550,
+        "Name": "R-TRUTH 1"
+    },
+    {
+        "Value": 551,
+        "Name": "GOLDEN ONE 1"
+    },
+    {
+        "Value": 552,
+        "Name": "GOLDEN ONE 2"
+    },
+    {
+        "Value": 553,
+        "Name": "BAYAMONS FINEST"
+    },
+    {
+        "Value": 554,
+        "Name": "RUTHLESS"
+    },
+    {
+        "Value": 555,
+        "Name": "THE PERFECT ONE"
+    },
+    {
+        "Value": 556,
+        "Name": "THE DOCTOR IS IN"
+    },
+    {
+        "Value": 557,
+        "Name": "SECOND GENERATION"
+    },
+    {
+        "Value": 558,
+        "Name": "ONE MAN ARMY"
+    },
+    {
+        "Value": 559,
+        "Name": "BLACK SUN"
+    },
+    {
+        "Value": 560,
+        "Name": "HUMAN SUPLEX MACHINE"
+    },
+    {
+        "Value": 561,
+        "Name": "CHAIR SWINGING"
+    },
+    {
+        "Value": 562,
+        "Name": "LOOSE CANNON"
+    },
+    {
+        "Value": 563,
+        "Name": "SELF HIGH FIVE 2"
+    },
+    {
+        "Value": 564,
+        "Name": "SELF HIGH FIVE 1"
+    },
+    {
+        "Value": 565,
+        "Name": "TOTAL PACKAGE 1"
+    },
+    {
+        "Value": 566,
+        "Name": "ANONYMO"
+    },
+    {
+        "Value": 567,
+        "Name": "GIOVANNI VINCI 1"
+    },
+    {
+        "Value": 568,
+        "Name": "THE MASTODON 1"
+    },
+    {
+        "Value": 569,
+        "Name": "THE TOP ENFORCER"
+    },
+    {
+        "Value": 570,
+        "Name": "VADER"
+    },
+    {
+        "Value": 571,
+        "Name": "SHES ON FIRE"
+    },
+    {
+        "Value": 572,
+        "Name": "SHEEPERDING KIWIS"
+    },
+    {
+        "Value": 573,
+        "Name": "BOOKER T 2"
+    },
+    {
+        "Value": 574,
+        "Name": "DAMIEN PRIEST"
+    },
+    {
+        "Value": 575,
+        "Name": "AXIOM"
+    },
+    {
+        "Value": 576,
+        "Name": "TRISH STRATUS"
+    },
+    {
+        "Value": 577,
+        "Name": "TWIN MAGIC 2"
+    },
+    {
+        "Value": 578,
+        "Name": "LA KNIGHT"
+    },
+    {
+        "Value": 579,
+        "Name": "KAIJU KILLER"
+    },
+    {
+        "Value": 580,
+        "Name": "FEARLESS"
+    },
+    {
+        "Value": 581,
+        "Name": "FEAR HER"
+    },
+    {
+        "Value": 582,
+        "Name": "MAGIC MONSTER"
+    },
+    {
+        "Value": 583,
+        "Name": "GENERIC TAG 5 (TAG TEAM)"
+    },
+    {
+        "Value": 584,
+        "Name": "XIA LI"
+    },
+    {
+        "Value": 585,
+        "Name": "LOGAN PAUL"
+    },
+    {
+        "Value": 586,
+        "Name": "JOHN CENA 1"
+    },
+    {
+        "Value": 587,
+        "Name": "UNDERTAKER"
+    },
+    {
+        "Value": 588,
+        "Name": "ZOMBIE"
+    },
+    {
+        "Value": 589,
+        "Name": "QUEEN ZELINA"
+    },
+    {
+        "Value": 590,
+        "Name": "BUSINESS SUIT"
+    },
+    {
+        "Value": 591,
+        "Name": "ALPHA OMEGA"
+    },
+    {
+        "Value": 592,
+        "Name": "DISCO DANCER"
+    },
+    {
+        "Value": 593,
+        "Name": "HAPPY GO LCUKY"
+    },
+    {
+        "Value": 594,
+        "Name": "STARRY EYED WRESTLER"
+    },
+    {
+        "Value": 595,
+        "Name": "WARRIOR PRINCESS"
+    },
+    {
+        "Value": 596,
+        "Name": "DAKOTA KAI 1"
+    },
+    {
+        "Value": 597,
+        "Name": "LUCHA SUPERSTAR"
+    },
+    {
+        "Value": 598,
+        "Name": "ALL HAIL"
+    },
+    {
+        "Value": 599,
+        "Name": "THE MACHISMO IS LETHAL"
+    },
+    {
+        "Value": 600,
+        "Name": "BIANCA BELAIR"
+    },
+    {
+        "Value": 601,
+        "Name": "POISON PIXIE 2"
+    },
+    {
+        "Value": 602,
+        "Name": "DAKOTA KAI 2"
+    },
+    {
+        "Value": 603,
+        "Name": "THE ONE PERCENT"
+    },
+    {
+        "Value": 604,
+        "Name": "IVAR"
+    },
+    {
+        "Value": 605,
+        "Name": "LACEY EVANS 1"
+    },
+    {
+        "Value": 606,
+        "Name": "HYPE MAN"
+    },
+    {
+        "Value": 607,
+        "Name": "ERIK"
+    },
+    {
+        "Value": 608,
+        "Name": "RICOCHET 1"
+    },
+    {
+        "Value": 609,
+        "Name": "UNDISPUTED STRENGTH"
+    },
+    {
+        "Value": 610,
+        "Name": "KOFI KINGSTON '12"
+    },
+    {
+        "Value": 611,
+        "Name": "RAVISHING"
+    },
+    {
+        "Value": 612,
+        "Name": "ONE OF TWO"
+    },
+    {
+        "Value": 613,
+        "Name": "R-TRUTH 2"
+    },
+    {
+        "Value": 614,
+        "Name": "THE MIZ '11"
+    },
+    {
+        "Value": 615,
+        "Name": "SETH ROLLINS SHIELD (HIDDEN)"
+    },
+    {
+        "Value": 616,
+        "Name": "DEAN AMBROSE SHIELD (HIDDEN)"
+    },
+    {
+        "Value": 617,
+        "Name": "ROMAN REIGNS SHIELD (HIDDEN)"
+    },
+    {
+        "Value": 618,
+        "Name": "RICOCHET 2"
+    },
+    {
+        "Value": 619,
+        "Name": "JINDER MAHAL 2"
+    },
+    {
+        "Value": 620,
+        "Name": "LUCHA LUCHA 2"
+    },
+    {
+        "Value": 621,
+        "Name": "GOLDEN 2"
+    },
+    {
+        "Value": 622,
+        "Name": "BIG METAL 2"
+    },
+    {
+        "Value": 623,
+        "Name": "CHYNA 1"
+    },
+    {
+        "Value": 624,
+        "Name": "CHYNA 2"
+    },
+    {
+        "Value": 625,
+        "Name": "BADDIE IN CHARGE"
+    },
+    {
+        "Value": 626,
+        "Name": "SONYA DEVILLE 2"
+    },
+    {
+        "Value": 627,
+        "Name": "ROWDY REBEL 2"
+    },
+    {
+        "Value": 628,
+        "Name": "IYO SKY 2"
+    },
+    {
+        "Value": 629,
+        "Name": "GENERIC SUPERSTAR 7"
+    },
+    {
+        "Value": 630,
+        "Name": "HULK HOGAN"
+    },
+    {
+        "Value": 631,
+        "Name": "THE WANDERER"
+    },
+    {
+        "Value": 632,
+        "Name": "HOLLLYWOOD HOGAN"
+    },
+    {
+        "Value": 633,
+        "Name": "IYO SKY 1"
+    },
+    {
+        "Value": 634,
+        "Name": "ULTIMATE FINESSER"
+    },
+    {
+        "Value": 635,
+        "Name": "BIANCA BELAIR"
+    },
+    {
+        "Value": 636,
+        "Name": "WES LEE"
+    },
+    {
+        "Value": 637,
+        "Name": "COMMANDER AZEEZ"
+    },
+    {
+        "Value": 638,
+        "Name": "EVIL DOINK THE CLOWN"
+    },
+    {
+        "Value": 639,
+        "Name": "THE RIDER"
+    },
+    {
+        "Value": 640,
+        "Name": "WASTELAND CREATURE"
+    },
+    {
+        "Value": 641,
+        "Name": "VEER MAHAAN"
+    },
+    {
+        "Value": 642,
+        "Name": "ALIYAH"
+    },
+    {
+        "Value": 643,
+        "Name": "SAMURAI SISTER"
+    },
+    {
+        "Value": 644,
+        "Name": "NATTIE HARTLAND"
+    },
+    {
+        "Value": 645,
+        "Name": "SHE LADY"
+    },
+    {
+        "Value": 646,
+        "Name": "CAVEWOMAN"
+    },
+    {
+        "Value": 647,
+        "Name": "MAINFRAME GUARDIAN"
+    },
+    {
+        "Value": 648,
+        "Name": "BAY LEE BILLIONAIRE"
+    },
+    {
+        "Value": 649,
+        "Name": "PERTH PREPPIES SOLO (HIDDEN)"
+    },
+    {
+        "Value": 650,
+        "Name": "ALL SMILES"
+    },
+    {
+        "Value": 651,
+        "Name": "THE BAD GIRL"
+    },
+    {
+        "Value": 653,
+        "Name": "CYBER GLOW"
+    },
+    {
+        "Value": 654,
+        "Name": "QUEEN OF AEROBIC STYLE"
+    },
+    {
+        "Value": 655,
+        "Name": "PINK DREAM"
+    },
+    {
+        "Value": 657,
+        "Name": "NOT LIKE MOST BOTS"
+    },
+    {
+        "Value": 658,
+        "Name": "TECH CHAIRWOMAN"
+    },
+    {
+        "Value": 661,
+        "Name": "THE BANKER"
+    },
+    {
+        "Value": 662,
+        "Name": "HULK HOGAN AGAIN (HIDDEN)"
+    },
+    {
+        "Value": 663,
+        "Name": "FIENDISH"
+    },
+    {
+        "Value": 664,
+        "Name": "DAMIEN PRIEST 2"
+    },
+    {
+        "Value": 665,
+        "Name": "FEAST YOUR EYES"
+    },
+    {
+        "Value": 666,
+        "Name": "FUNHOUSE FRIEND"
+    },
+    {
+        "Value": 667,
+        "Name": "JUSTINE"
+    },
+    {
+        "Value": 669,
+        "Name": "MADCAP MOSS"
+    },
+    {
+        "Value": 671,
+        "Name": "BRUTUS CREED"
+    },
+    {
+        "Value": 672,
+        "Name": "JULIUS CREED"
+    },
+    {
+        "Value": 673,
+        "Name": "SEA CREATURE"
+    },
+    {
+        "Value": 674,
+        "Name": "CARMELO HAYES"
+    },
+    {
+        "Value": 675,
+        "Name": "GRAYSON WALLER"
+    },
+    {
+        "Value": 676,
+        "Name": "GENERIC SUPERSTAR 6"
+    },
+    {
+        "Value": 677,
+        "Name": "SOLO SIKOA"
+    },
+    {
+        "Value": 678,
+        "Name": "ZOEY STARK"
+    },
+    {
+        "Value": 679,
+        "Name": "JOHN CENA '02"
+    },
+    {
+        "Value": 680,
+        "Name": "MA.CE"
+    },
+    {
+        "Value": 681,
+        "Name": "MAN.SOOR"
+    },
+    {
+        "Value": 682,
+        "Name": "SHANKY"
+    },
+    {
+        "Value": 683,
+        "Name": "MIGHTY MOLLY"
+    },
+    {
+        "Value": 684,
+        "Name": "RHEA RIPLEY 1"
+    },
+    {
+        "Value": 685,
+        "Name": "NIKKITA LYONS"
+    },
+    {
+        "Value": 686,
+        "Name": "ALBA FYRE 1"
+    },
+    {
+        "Value": 687,
+        "Name": "ROXANNE PEREZ"
+    },
+    {
+        "Value": 688,
+        "Name": "CORA JADE"
+    },
+    {
+        "Value": 689,
+        "Name": "WENDY CHOO"
+    },
+    {
+        "Value": 690,
+        "Name": "TIFFANY STRATTON"
+    },
+    {
+        "Value": 691,
+        "Name": "JEAN-PAUL LEVESQUE"
+    },
+    {
+        "Value": 693,
+        "Name": "IVY NILE"
+    },
+    {
+        "Value": 694,
+        "Name": "BRUNO SAMMARTINO"
+    },
+    {
+        "Value": 695,
+        "Name": "REGGIE"
+    },
+    {
+        "Value": 696,
+        "Name": "BIG POPPA PUMP"
+    },
+    {
+        "Value": 697,
+        "Name": "RANDY ORTON '09"
+    },
+    {
+        "Value": 699,
+        "Name": "CRASHED"
+    },
+    {
+        "Value": 700,
+        "Name": "HULK HOGAN WM5 2"
+    },
+    {
+        "Value": 701,
+        "Name": "JOHN CENA '14"
+    },
+    {
+        "Value": 702,
+        "Name": "JOHN CENA '16"
+    },
+    {
+        "Value": 703,
+        "Name": "JOHN CENA"
+    },
+    {
+        "Value": 704,
+        "Name": "LEVIATHAN"
+    },
+    {
+        "Value": 705,
+        "Name": "BROCK LESNER '01"
+    },
+    {
+        "Value": 706,
+        "Name": "RANDY ORTON '02"
+    },
+    {
+        "Value": 707,
+        "Name": "BAD BUNNY"
+    },
+    {
+        "Value": 708,
+        "Name": "RICK STEINER"
+    },
+    {
+        "Value": 709,
+        "Name": "SCOTT STEINER"
+    },
+    {
+        "Value": 710,
+        "Name": "TOP DOLLA"
+    },
+    {
+        "Value": 711,
+        "Name": "ASHANTE  \"THEE\" ADONIS"
+    },
+    {
+        "Value": 712,
+        "Name": "KIT WILSON"
+    },
+    {
+        "Value": 713,
+        "Name": "ELTON PRINCE"
+    },
+    {
+        "Value": 714,
+        "Name": "LUKE GALLOWS 1"
+    },
+    {
+        "Value": 715,
+        "Name": "KARL ANDERSON 1"
+    },
+    {
+        "Value": 716,
+        "Name": "TONY D'ANGELO"
+    },
+    {
+        "Value": 717,
+        "Name": "TRICK WILLIAMS 1"
+    },
+    {
+        "Value": 718,
+        "Name": "TRICK WILLIAMS 2"
+    },
+    {
+        "Value": 719,
+        "Name": "HARLEY RACE"
+    },
+    {
+        "Value": 720,
+        "Name": "JOE GACY"
+    },
+    {
+        "Value": 721,
+        "Name": "BRAY WYATT"
+    },
+    {
+        "Value": 722,
+        "Name": "VALHALLA"
+    },
+    {
+        "Value": 723,
+        "Name": "BLAIR DAVENPORT"
+    },
+    {
+        "Value": 724,
+        "Name": "ZEUS"
+    },
+    {
+        "Value": 725,
+        "Name": "UNCLE HOWDY"
+    },
+    {
+        "Value": 989,
+        "Name": "THE ROCK (NO LIGHTS (HIDDEN))"
+    },
+    {
+        "Value": 995,
+        "Name": "SPINNING AROUND THE RING (HIDDEN)"
+    },
+    {
+        "Value": 996,
+        "Name": "CAMERA IN THE RING  (HIDDEN)"
+    },
+    {
+        "Value": 997,
+        "Name": "THE ROCK DOUBLE? (HIDDEN)"
+    },
+    {
+        "Value": 998,
+        "Name": "MOTIONS TEST (HIDDEN)"
+    },
+    {
+        "Value": 999,
+        "Name": "CAMERA IN THE RING (HIDDEN)"
+    },
+    {
+        "Value": 1000,
+        "Name": "JOHN CENA CHAMPION 1"
+    },
+    {
+        "Value": 1001,
+        "Name": "JOHN CENA CHAMPION 2"
+    },
+    {
+        "Value": 1002,
+        "Name": "RANDY ORTON CHAMPION"
+    },
+    {
+        "Value": 1003,
+        "Name": "KEITH LEE CHAMPION"
+    },
+    {
+        "Value": 1004,
+        "Name": "GOLD MEDALIST CHAMPION"
+    },
+    {
+        "Value": 1005,
+        "Name": "WORLD STRONGEST CHAMPION"
+    },
+    {
+        "Value": 1006,
+        "Name": "THE ROCK CHAMPION 2"
+    },
+    {
+        "Value": 1007,
+        "Name": "THE ROCK CHAMPION 1"
+    },
+    {
+        "Value": 1008,
+        "Name": "THE MIZ CHAMPION"
+    },
+    {
+        "Value": 1009,
+        "Name": "KNIGHT RIDER"
+    },
+    {
+        "Value": 1010,
+        "Name": "DOLPH ZIGGLER CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1011,
+        "Name": "KEVIN OWENS CHAMPION"
+    },
+    {
+        "Value": 1012,
+        "Name": "ALEXA BLISS CHAMPION"
+    },
+    {
+        "Value": 1013,
+        "Name": "KING CORBIN CHAMPION"
+    },
+    {
+        "Value": 1014,
+        "Name": "GENERIC CHAMPION 3 (BIG BOSSMAN)"
+    },
+    {
+        "Value": 1015,
+        "Name": "BATISTA CHAMPION"
+    },
+    {
+        "Value": 1017,
+        "Name": "THE YES MOVEMENT CHAMPION"
+    },
+    {
+        "Value": 1018,
+        "Name": "STEVE AUSTIN CHAMPION"
+    },
+    {
+        "Value": 1019,
+        "Name": "STEVE AUSTIN '96 CHAMPION"
+    },
+    {
+        "Value": 1020,
+        "Name": "PETE DUNNE CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1021,
+        "Name": "SAMOA JOE CHAMPION"
+    },
+    {
+        "Value": 1022,
+        "Name": "DREW MCINTYRE CHAMPION 2"
+    },
+    {
+        "Value": 1023,
+        "Name": "GENERIC CHAMPION 1"
+    },
+    {
+        "Value": 1025,
+        "Name": "GENERIC CHAMPION 2"
+    },
+    {
+        "Value": 1026,
+        "Name": "JINDER MAHAL CHAMPION"
+    },
+    {
+        "Value": 1027,
+        "Name": "JINDER MAHAL CHAMPION W SINGH BROS (HIDDEN)"
+    },
+    {
+        "Value": 1028,
+        "Name": "KYLE O'REILLY CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1029,
+        "Name": "ROMAN REIGNS CHAMPION FACE"
+    },
+    {
+        "Value": 1030,
+        "Name": "CIAMPA CHAMPION"
+    },
+    {
+        "Value": 1031,
+        "Name": "BECKY LYNCH CHAMPION"
+    },
+    {
+        "Value": 1032,
+        "Name": "SKY PIRATE CHAMPION"
+    },
+    {
+        "Value": 1033,
+        "Name": "SANTOS ESCOBAR CHAMPION"
+    },
+    {
+        "Value": 1034,
+        "Name": "ROWDY REBEL CHAMPION"
+    },
+    {
+        "Value": 1035,
+        "Name": "NIA JAX CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1036,
+        "Name": "DREW MCINTYRE CHAMPION 1"
+    },
+    {
+        "Value": 1037,
+        "Name": "ADAM COLE CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1039,
+        "Name": "JORDAN DELVIN CHAMPION"
+    },
+    {
+        "Value": 1040,
+        "Name": "FIENDISH CHAMPION"
+    },
+    {
+        "Value": 1041,
+        "Name": "KAY LEE RAY CHAMPION"
+    },
+    {
+        "Value": 1042,
+        "Name": "REY MYSTERIO CHAMPION"
+    },
+    {
+        "Value": 1043,
+        "Name": "EDDIE GUERRERO '97 CHAMPION"
+    },
+    {
+        "Value": 1044,
+        "Name": "HOLLYWO0D HOGAN CHAMPION"
+    },
+    {
+        "Value": 1045,
+        "Name": "SASHA BANKS CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1046,
+        "Name": "YOKOZUNA CHAMPION"
+    },
+    {
+        "Value": 1047,
+        "Name": "BRON BREAKKER CHAMPION"
+    },
+    {
+        "Value": 1048,
+        "Name": "MANDY ROSE CHAMPION"
+    },
+    {
+        "Value": 1049,
+        "Name": "ROMAN REIGNS W HEYMAN CHAMPION (HIDDEN)"
+    },
+    {
+        "Value": 1203,
+        "Name": "THE USOS CHAMPIONS (HIDDEN TAG)"
+    },
+    {
+        "Value": 1208,
+        "Name": "GENERIC MAN DOUBLE TITLE"
+    },
+    {
+        "Value": 1209,
+        "Name": "GENERIC WOMEN'S DOUBLE TITLE"
+    },
+    {
+        "Value": 1212,
+        "Name": "IMPERIUM CHAMPIONS"
+    },
+    {
+        "Value": 1213,
+        "Name": "IMPERIUM CHAMPIONS"
+    },
+    {
+        "Value": 1300,
+        "Name": "D-GENERATION X"
+    },
+    {
+        "Value": 1301,
+        "Name": "TEAM EXTREME"
+    },
+    {
+        "Value": 1302,
+        "Name": "BROTHERS OF DESTRUCTION 2"
+    },
+    {
+        "Value": 1303,
+        "Name": "BROTHERS OF DESTRUCTION 1"
+    },
+    {
+        "Value": 1304,
+        "Name": "GENERIC TAG 6"
+    },
+    {
+        "Value": 1305,
+        "Name": "THE B-TEAM"
+    },
+    {
+        "Value": 1306,
+        "Name": "THE HOLLYWOOD BLONDS"
+    },
+    {
+        "Value": 1307,
+        "Name": "THE LUCHA DRAGONS"
+    },
+    {
+        "Value": 1308,
+        "Name": "FISTS IN THE AIR"
+    },
+    {
+        "Value": 1309,
+        "Name": "THE NEW DAY KOFI & WOODS"
+    },
+    {
+        "Value": 1310,
+        "Name": "STRONGMEN & GENTLEMEN"
+    },
+    {
+        "Value": 1311,
+        "Name": "BROTHERS OF HARDCORE"
+    },
+    {
+        "Value": 1312,
+        "Name": "GET HYPE 1"
+    },
+    {
+        "Value": 1313,
+        "Name": "THE A-LISTERS"
+    },
+    {
+        "Value": 1314,
+        "Name": "THE BELLA TWINS"
+    },
+    {
+        "Value": 1315,
+        "Name": "MILLION DOLLAR MOVES"
+    },
+    {
+        "Value": 1316,
+        "Name": "THE FUNKADACTYLS"
+    },
+    {
+        "Value": 1317,
+        "Name": "GENERIC TAG 1"
+    },
+    {
+        "Value": 1318,
+        "Name": "GENERIC TAG 2"
+    },
+    {
+        "Value": 1320,
+        "Name": "GENERIC TAG 3"
+    },
+    {
+        "Value": 1321,
+        "Name": "GENERIC TAG 4"
+    },
+    {
+        "Value": 1322,
+        "Name": "EDGE & LITA"
+    },
+    {
+        "Value": 1323,
+        "Name": "PAINFUL LITERATURE 1"
+    },
+    {
+        "Value": 1324,
+        "Name": "THE USOS 1"
+    },
+    {
+        "Value": 1325,
+        "Name": "IMPERIUM TAG"
+    },
+    {
+        "Value": 1326,
+        "Name": "AUSSIE AGGRESSION"
+    },
+    {
+        "Value": 1327,
+        "Name": "THE WASTELAND"
+    },
+    {
+        "Value": 1328,
+        "Name": "UNDERTAKER WITH MANAGER 1"
+    },
+    {
+        "Value": 1329,
+        "Name": "KANE WITH MANAGER"
+    },
+    {
+        "Value": 1330,
+        "Name": "THE DREAM TEAM"
+    },
+    {
+        "Value": 1331,
+        "Name": "GALLOWS & ANDERSON 2"
+    },
+    {
+        "Value": 1332,
+        "Name": "FREEDOM BIRDS 1"
+    },
+    {
+        "Value": 1333,
+        "Name": "FREEDOM BIRDS 2"
+    },
+    {
+        "Value": 1334,
+        "Name": "DIAMOND IN THE ROUGH"
+    },
+    {
+        "Value": 1335,
+        "Name": "WORLD CLASS SIBLINGS"
+    },
+    {
+        "Value": 1336,
+        "Name": "PRETTY DANCERS"
+    },
+    {
+        "Value": 1337,
+        "Name": "LEGADO DEL FANTASMA"
+    },
+    {
+        "Value": 1338,
+        "Name": "FAMILIA MYSTERIO"
+    },
+    {
+        "Value": 1339,
+        "Name": "THE USOS '14"
+    },
+    {
+        "Value": 1340,
+        "Name": "THE OUTSIDERS"
+    },
+    {
+        "Value": 1341,
+        "Name": "ONE AND TWO"
+    },
+    {
+        "Value": 1342,
+        "Name": "THE NEW DAY BIG E & KOFI"
+    },
+    {
+        "Value": 1343,
+        "Name": "JUST FISTS"
+    },
+    {
+        "Value": 1344,
+        "Name": "I GOT KIDS"
+    },
+    {
+        "Value": 1345,
+        "Name": "THE PRIDE OF PUERTO RICO"
+    },
+    {
+        "Value": 1346,
+        "Name": "THE WAY - LeRAE & HARTWELL"
+    },
+    {
+        "Value": 1348,
+        "Name": "SONS OF THE BAYOU"
+    },
+    {
+        "Value": 1349,
+        "Name": "LAST NAMES ONLY"
+    },
+    {
+        "Value": 1350,
+        "Name": "THE BULL FIGHTERS"
+    },
+    {
+        "Value": 1351,
+        "Name": "ROCK & ROLL"
+    },
+    {
+        "Value": 1352,
+        "Name": "SHEEPHERDING KIWIS"
+    },
+    {
+        "Value": 1353,
+        "Name": "EXTREME WEATHER CONDITIONS"
+    },
+    {
+        "Value": 1354,
+        "Name": "GENERIC TAG 7"
+    },
+    {
+        "Value": 1355,
+        "Name": "THE HART FOUNDATION"
+    },
+    {
+        "Value": 1356,
+        "Name": "WHISKER WISTERIA"
+    },
+    {
+        "Value": 1357,
+        "Name": "WORLDS GREATEST TEAM"
+    },
+    {
+        "Value": 1358,
+        "Name": "TAG TEAM EXTREME PARTY"
+    },
+    {
+        "Value": 1359,
+        "Name": "ALEXA BLISS & NIKKI CROSS"
+    },
+    {
+        "Value": 1360,
+        "Name": "WRESTLING DRAGONS"
+    },
+    {
+        "Value": 1361,
+        "Name": "SHELTON BENJAMIN & CHAD GABLE"
+    },
+    {
+        "Value": 1362,
+        "Name": "THE BAR"
+    },
+    {
+        "Value": 1363,
+        "Name": "ALL NIGHT"
+    },
+    {
+        "Value": 1364,
+        "Name": "THE STREET PROFITS"
+    },
+    {
+        "Value": 1365,
+        "Name": "THE HOOLIGANZ"
+    },
+    {
+        "Value": 1366,
+        "Name": "KATANA CHANCE & KAYDEN CARTER"
+    },
+    {
+        "Value": 1367,
+        "Name": "THE BLUDGEON BROTHERS"
+    },
+    {
+        "Value": 1368,
+        "Name": "THE ICONS"
+    },
+    {
+        "Value": 1369,
+        "Name": "LOVELY COUPLE"
+    },
+    {
+        "Value": 1370,
+        "Name": "ONE HUNDRED SOULS"
+    },
+    {
+        "Value": 1371,
+        "Name": "THE CREED BROTHERS"
+    },
+    {
+        "Value": 1372,
+        "Name": "THE HURT BUSINESS TAG"
+    },
+    {
+        "Value": 1373,
+        "Name": "FIRE & DESIRE"
+    },
+    {
+        "Value": 1374,
+        "Name": "THE DELETERS OF WORLDS"
+    },
+    {
+        "Value": 1375,
+        "Name": "THE MIZTOURAGE"
+    },
+    {
+        "Value": 1376,
+        "Name": "R-TRUTH & KOFI KINGSTON"
+    },
+    {
+        "Value": 1377,
+        "Name": "GENERIC TAG 8"
+    },
+    {
+        "Value": 1378,
+        "Name": "THE NEW DAY BIG E & WOODS"
+    },
+    {
+        "Value": 1379,
+        "Name": "ZIGGLER & McINTYRE"
+    },
+    {
+        "Value": 1380,
+        "Name": "VIKING RAIDERS TAG"
+    },
+    {
+        "Value": 1381,
+        "Name": "THE SAMI & KEVIN SHOW"
+    },
+    {
+        "Value": 1382,
+        "Name": "DISPUTED AGE"
+    },
+    {
+        "Value": 1383,
+        "Name": "KARRION KROSS W/ SCARLETT"
+    },
+    {
+        "Value": 1384,
+        "Name": "MESSIAH AND DISCIPLE"
+    },
+    {
+        "Value": 1385,
+        "Name": "BRITISH BULLDOGS"
+    },
+    {
+        "Value": 1386,
+        "Name": "THE USOS 2"
+    },
+    {
+        "Value": 1387,
+        "Name": "LOVEBIRDS"
+    },
+    {
+        "Value": 1388,
+        "Name": "MIX TAG 1"
+    },
+    {
+        "Value": 1389,
+        "Name": "MIX TAG 2"
+    },
+    {
+        "Value": 1390,
+        "Name": "MIX TAG 3"
+    },
+    {
+        "Value": 1391,
+        "Name": "MIX TAG 4"
+    },
+    {
+        "Value": 1392,
+        "Name": "GENERIC TAG 10"
+    },
+    {
+        "Value": 1393,
+        "Name": "GENERIC TAG 9"
+    },
+    {
+        "Value": 1394,
+        "Name": "ALPHA ACADEMY"
+    },
+    {
+        "Value": 1395,
+        "Name": "PACKAGE DEAL"
+    },
+    {
+        "Value": 1396,
+        "Name": "NEVER DEFEATED"
+    },
+    {
+        "Value": 1397,
+        "Name": "THE ROCK 'N' SOCK CONNECTION"
+    },
+    {
+        "Value": 1399,
+        "Name": "BANKER & THE CREATURE"
+    },
+    {
+        "Value": 1400,
+        "Name": "MA.CE & MANAGER"
+    },
+    {
+        "Value": 1401,
+        "Name": "MAN.SOOR & MANAGER"
+    },
+    {
+        "Value": 1402,
+        "Name": "PERTH PREPPIES"
+    },
+    {
+        "Value": 1403,
+        "Name": "BANKER & THE CREATURE 1"
+    },
+    {
+        "Value": 1404,
+        "Name": "TOXIC ATTRACTION (TAG)"
+    },
+    {
+        "Value": 1405,
+        "Name": "CYBER LINK UP"
+    },
+    {
+        "Value": 1407,
+        "Name": "THE STEINER BROTHERS"
+    },
+    {
+        "Value": 1408,
+        "Name": "MAXIMUM MALE MODELS 2"
+    },
+    {
+        "Value": 1409,
+        "Name": "GALLOWS & ANDERSON 1"
+    },
+    {
+        "Value": 1410,
+        "Name": "PRETTY DEADLY"
+    },
+    {
+        "Value": 1412,
+        "Name": "HIT ROW"
+    },
+    {
+        "Value": 1413,
+        "Name": "CARMELO HAYES & TRICK WILLIAMS 1"
+    },
+    {
+        "Value": 1414,
+        "Name": "CARMELO HAYES & TRICK WILLIAMS 2"
+    },
+    {
+        "Value": 1800,
+        "Name": "GENERIC TRIO 2"
+    },
+    {
+        "Value": 1801,
+        "Name": "EVOLUTION"
+    },
+    {
+        "Value": 1802,
+        "Name": "GENERIC TRIO 1"
+    },
+    {
+        "Value": 1803,
+        "Name": "THE O.C."
+    },
+    {
+        "Value": 1804,
+        "Name": "PAINFUL LITERATURE 2"
+    },
+    {
+        "Value": 1805,
+        "Name": "THE SHIELD"
+    },
+    {
+        "Value": 1806,
+        "Name": "THE NEW DAY 1"
+    },
+    {
+        "Value": 1808,
+        "Name": "LEGADO DEL FANTASMA"
+    },
+    {
+        "Value": 1809,
+        "Name": "THE NEW DAY 2"
+    },
+    {
+        "Value": 1811,
+        "Name": "THE HURT BUSINESS TRIO"
+    },
+    {
+        "Value": 1813,
+        "Name": "JINDER MAHAL WITH BOLLYWOOD BRO 1"
+    },
+    {
+        "Value": 1814,
+        "Name": "ABSOLUTION"
+    },
+    {
+        "Value": 1816,
+        "Name": "TITUS WORLDWIDE"
+    },
+    {
+        "Value": 1817,
+        "Name": "RETRIBUTION TRIO"
+    },
+    {
+        "Value": 1818,
+        "Name": "GENERIC TRIO 4"
+    },
+    {
+        "Value": 1819,
+        "Name": "IMPERIUM TRIO"
+    },
+    {
+        "Value": 1821,
+        "Name": "MIZTOURAGE TRIO"
+    },
+    {
+        "Value": 1822,
+        "Name": "MIZTOURAGE TRIO"
+    },
+    {
+        "Value": 1824,
+        "Name": "GENERIC STABLE 1"
+    },
+    {
+        "Value": 1825,
+        "Name": "GENERIC STABLE 2"
+    },
+    {
+        "Value": 1826,
+        "Name": "IMPERIUM"
+    },
+    {
+        "Value": 1827,
+        "Name": "JINDER MAHAL WITH BOLLYWOOD BRO 2"
+    },
+    {
+        "Value": 1828,
+        "Name": "LUCHA HOUSE PARTY"
+    },
+    {
+        "Value": 1829,
+        "Name": "GENERIC TRIO 3"
+    },
+    {
+        "Value": 1832,
+        "Name": "THE HURT BUSINESS QUAD"
+    },
+    {
+        "Value": 1833,
+        "Name": "RETRIBUTION QUAD"
+    },
+    {
+        "Value": 1834,
+        "Name": "NEW WORLD ORDER QUAD"
+    },
+    {
+        "Value": 1835,
+        "Name": "NEW WORLD ORDER TRIO"
+    },
+    {
+        "Value": 1836,
+        "Name": "THE BRAWLING BRUTES"
+    },
+    {
+        "Value": 1837,
+        "Name": "TOXIC ATTRACTION (TRIO)"
+    },
+    {
+        "Value": 1838,
+        "Name": "THE JUDGMENT DAY"
+    },
+    {
+        "Value": 1839,
+        "Name": "THE BLOODLINE"
+    },
+    {
+        "Value": 1840,
+        "Name": "MAXIMUM MALE MODELS 1"
+    },
+    {
+        "Value": 1841,
+        "Name": "HIT ROW"
+    },
+    {
+        "Value": 1842,
+        "Name": "DAMAGE CTRL"
+    },
+    {
+        "Value": 1843,
+        "Name": "VIKING RAIDERS TRIO"
+    }
+]

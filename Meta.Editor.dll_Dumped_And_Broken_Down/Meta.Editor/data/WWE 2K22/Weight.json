@@ -1,0 +1,22 @@
+[
+  {
+    "Value": 0,
+    "Name": "Featherweight"
+  },
+  {
+    "Value": 1,
+    "Name": "Cruiserweight"
+  },
+  {
+    "Value": 2,
+    "Name": "Light Heavyweight"
+  },
+  {
+    "Value": 3,
+    "Name": "Heavyweight"
+  },
+  {
+    "Value": 4,
+    "Name": "SuperHeavyweight"
+  }
+]

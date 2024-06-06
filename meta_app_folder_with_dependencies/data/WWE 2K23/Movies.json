@@ -1,0 +1,1442 @@
+[
+    {
+        "Value": 96,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 97,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 98,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 99,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 100,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 101,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 102,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 103,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 104,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 105,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 106,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 107,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 108,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 109,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 110,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 111,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": false
+    },
+    {
+        "Value": 112,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 113,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 114,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 115,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 116,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 117,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 118,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 119,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 120,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 121,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 122,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 123,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 124,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 125,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 126,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 127,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": false
+    },
+    {
+        "Value": 128,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 129,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 130,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 131,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 132,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 133,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 134,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 135,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 136,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 137,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 138,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 139,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 140,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 141,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 142,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 143,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 144,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 145,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 146,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 147,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 148,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 149,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 150,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 151,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 152,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 153,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 154,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 155,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 156,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 157,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 158,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 159,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 160,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 161,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 162,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 163,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 164,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 165,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 166,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 167,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 168,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 169,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 170,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 171,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 172,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 173,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 174,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 175,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 176,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 177,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 178,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 179,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 180,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 181,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 182,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 183,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 184,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 185,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 186,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 187,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 188,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 189,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 190,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 191,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 192,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 193,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 194,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 195,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 196,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 197,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 198,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 199,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 200,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 201,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 202,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 203,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 204,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 205,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 206,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 207,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 208,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 209,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 210,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 211,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 212,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 213,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 214,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 215,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 216,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 217,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 218,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 219,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 220,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 221,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 222,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 223,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 224,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 225,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 226,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 227,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 228,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 229,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 230,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 231,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 232,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 233,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 234,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 235,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 236,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 237,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 238,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 239,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": false,
+        "Barricade": true
+    },
+    {
+        "Value": 240,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 241,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 242,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 243,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 244,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 245,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 246,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 247,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": false,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 248,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 249,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 250,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 251,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": false,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 252,
+        "Titantron": false,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 253,
+        "Titantron": true,
+        "Banner": false,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 254,
+        "Titantron": false,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    },
+    {
+        "Value": 255,
+        "Titantron": true,
+        "Banner": true,
+        "Stage": true,
+        "Apron": true,
+        "Post": true,
+        "Barricade": true
+    }
+]

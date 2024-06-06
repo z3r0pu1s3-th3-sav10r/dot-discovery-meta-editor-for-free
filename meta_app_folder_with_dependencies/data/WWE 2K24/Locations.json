@@ -1,0 +1,6438 @@
+[
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE RED-LIGHT DISTRICT",
+        "country_group": 59,
+        "callname": 3903468899,
+        "index": 782
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "LAREDO",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 387058406,
+        "index": 788
+    },
+    {
+        "country": "NIGERIA",
+        "state": " ",
+        "city": "BENUE STATE",
+        "country_group": 64,
+        "callname": 3424106366,
+        "index": 765
+    },
+    {
+        "country": " ",
+        "state": " ",
+        "city": " ",
+        "callname": 1581399567
+    },
+    {
+        "country": "AFGHANISTAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 1,
+        "callname": 2621200130,
+        "index": 1
+    },
+    {
+        "country": "AFGHANISTAN",
+        "state": " ",
+        "city": "KABUL",
+        "country_group": 1,
+        "callname": 1470413223,
+        "index": 2
+    },
+    {
+        "country": "ALBANIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 2,
+        "callname": 3791308099,
+        "index": 3
+    },
+    {
+        "country": "ALGERIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 3,
+        "callname": 2493629177,
+        "index": 4
+    },
+    {
+        "country": "ALGERIA",
+        "state": " ",
+        "city": "ALGIERS",
+        "country_group": 3,
+        "callname": 3855191106,
+        "index": 5
+    },
+    {
+        "country": "ARGENTINA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 4,
+        "callname": 2687480310,
+        "index": 6
+    },
+    {
+        "country": "ARGENTINA",
+        "state": " ",
+        "city": "BUENOS AIRES",
+        "country_group": 4,
+        "callname": 2473997498,
+        "index": 7
+    },
+    {
+        "country": "ARMENIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 5,
+        "callname": 1052397296,
+        "index": 8
+    },
+    {
+        "country": "ARMENIA",
+        "state": " ",
+        "city": "YEREVAN",
+        "country_group": 5,
+        "callname": 2384350747,
+        "index": 9
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 6,
+        "callname": 3892367623,
+        "index": 10
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": " ",
+        "city": "BRISBANE",
+        "country_group": 6,
+        "callname": 118755414,
+        "index": 11
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": " ",
+        "city": "MELBOURNE",
+        "country_group": 6,
+        "callname": 1504625017,
+        "index": 12
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": " ",
+        "city": "SYDNEY",
+        "country_group": 6,
+        "callname": 2346654178,
+        "index": 13
+    },
+    {
+        "country": "AUSTRIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 7,
+        "callname": 2161984807,
+        "index": 14
+    },
+    {
+        "country": "AUSTRIA",
+        "state": " ",
+        "city": "VIENNA",
+        "country_group": 7,
+        "callname": 3062663761,
+        "index": 15
+    },
+    {
+        "country": "BANGLADESH",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 8,
+        "callname": 2509810989,
+        "index": 16
+    },
+    {
+        "country": "BANGLADESH",
+        "state": " ",
+        "city": "DHAKA",
+        "country_group": 8,
+        "callname": 45908943,
+        "index": 17
+    },
+    {
+        "country": "BELGIUM",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 9,
+        "callname": 2456044362,
+        "index": 18
+    },
+    {
+        "country": "BELGIUM",
+        "state": " ",
+        "city": "BRUSSELS",
+        "country_group": 9,
+        "callname": 1212106123,
+        "index": 19
+    },
+    {
+        "country": "BOLIVIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 10,
+        "callname": 2264150289,
+        "index": 20
+    },
+    {
+        "country": "BOLIVIA",
+        "state": " ",
+        "city": "SUCRE",
+        "country_group": 10,
+        "callname": 2670090051,
+        "index": 21
+    },
+    {
+        "country": "BRAZIL",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 11,
+        "callname": 4143299084,
+        "index": 22
+    },
+    {
+        "country": "BRAZIL",
+        "state": " ",
+        "city": "BELO HORIZONTE",
+        "country_group": 11,
+        "callname": 3241850447,
+        "index": 23
+    },
+    {
+        "country": "BRAZIL",
+        "state": " ",
+        "city": "RIO DE JANEIRO",
+        "country_group": 11,
+        "callname": 355786079,
+        "index": 24
+    },
+    {
+        "country": "BRAZIL",
+        "state": " ",
+        "city": "S\u00c3\u0081O PAULO",
+        "country_group": 11,
+        "callname": 1767637224,
+        "index": 25
+    },
+    {
+        "country": "BULGARIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 12,
+        "callname": 3149827586,
+        "index": 26
+    },
+    {
+        "country": "BULGARIA",
+        "state": " ",
+        "city": "SOFIA",
+        "country_group": 12,
+        "callname": 1887201648,
+        "index": 27
+    },
+    {
+        "country": "CAMBODIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 13,
+        "callname": 1867484254,
+        "index": 28
+    },
+    {
+        "country": "CAMBODIA",
+        "state": " ",
+        "city": "PHNOM PENH",
+        "country_group": 13,
+        "callname": 3784199786,
+        "index": 29
+    },
+    {
+        "country": "CANADA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 14,
+        "callname": 3965267682,
+        "index": 30
+    },
+    {
+        "country": "CANADA",
+        "state": " ",
+        "city": "NIAGARA FALLS",
+        "country_group": 14,
+        "callname": 3763621421,
+        "index": 31
+    },
+    {
+        "country": "CANADA",
+        "state": "ALBERTA",
+        "city": "CALGARY",
+        "city_group": 1,
+        "country_group": 14,
+        "callname": 2007123071,
+        "index": 32
+    },
+    {
+        "country": "CANADA",
+        "state": "BRITISH COLUMBIA",
+        "city": "ABBOTSFORD",
+        "city_group": 2,
+        "country_group": 14,
+        "callname": 368099818,
+        "index": 33
+    },
+    {
+        "country": "CANADA",
+        "state": "BRITISH COLUMBIA",
+        "city": "BURNABY",
+        "city_group": 2,
+        "country_group": 14,
+        "callname": 3115971212,
+        "index": 34
+    },
+    {
+        "country": "CANADA",
+        "state": "BRITISH COLUMBIA",
+        "city": "COQUITLAM",
+        "city_group": 2,
+        "country_group": 14,
+        "callname": 2036826309,
+        "index": 35
+    },
+    {
+        "country": "CANADA",
+        "state": "BRITISH COLUMBIA",
+        "city": "VANCOUVER",
+        "city_group": 2,
+        "country_group": 14,
+        "callname": 4207480957,
+        "index": 36
+    },
+    {
+        "country": "CANADA",
+        "state": "BRITISH COLUMBIA",
+        "city": "VICTORIA",
+        "city_group": 2,
+        "country_group": 14,
+        "callname": 936600587,
+        "index": 744
+    },
+    {
+        "country": "CANADA",
+        "state": "MANITOBA",
+        "city": "WINNIPEG",
+        "city_group": 3,
+        "country_group": 14,
+        "callname": 1269422378,
+        "index": 37
+    },
+    {
+        "country": "CANADA",
+        "state": "ONTARIO",
+        "city": "TORONTO",
+        "city_group": 4,
+        "country_group": 14,
+        "callname": 3036029609,
+        "index": 38
+    },
+    {
+        "country": "CANADA",
+        "state": "ONTARIO",
+        "city": "WINDSOR",
+        "city_group": 4,
+        "country_group": 14,
+        "callname": 2671320380,
+        "index": 39
+    },
+    {
+        "country": "CANADA",
+        "state": "QUEBEC",
+        "city": "MARIEVILLE",
+        "city_group": 5,
+        "country_group": 14,
+        "callname": 3541619374,
+        "index": 40
+    },
+    {
+        "country": "CANADA",
+        "state": "QUEBEC",
+        "city": "MONTREAL",
+        "city_group": 5,
+        "country_group": 14,
+        "callname": 3427577083,
+        "index": 41
+    },
+    {
+        "country": "CHAD",
+        "state": " ",
+        "city": "N'DJAMENA",
+        "country_group": 15,
+        "callname": 2376795624,
+        "index": 42
+    },
+    {
+        "country": "CHAD",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 15,
+        "callname": 4005361412,
+        "index": 43
+    },
+    {
+        "country": "CHILE",
+        "state": " ",
+        "city": "SANTIAGO",
+        "country_group": 17,
+        "callname": 1436214414,
+        "index": 44
+    },
+    {
+        "country": "CHILE",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 17,
+        "callname": 1685783226,
+        "index": 45
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "ANHUI",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 2750583041,
+        "index": 46
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "BEIJING",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 558089425,
+        "index": 47
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "HONG KONG",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 767433406,
+        "index": 48
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "SHANGHAI",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 3091573627,
+        "index": 49
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "TIANJIN",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 2174093184,
+        "index": 50
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "NONE",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 2225382731,
+        "index": 51
+    },
+    {
+        "country": "COLOMBIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 19,
+        "callname": 3360786766,
+        "index": 52
+    },
+    {
+        "country": "COLOMBIA",
+        "state": " ",
+        "city": "BOGOTA",
+        "country_group": 19,
+        "callname": 394552302,
+        "index": 53
+    },
+    {
+        "country": "COSTA RICA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 20,
+        "callname": 2621296727,
+        "index": 54
+    },
+    {
+        "country": "COSTA RICA",
+        "state": " ",
+        "city": "SAN JOSE",
+        "country_group": 20,
+        "callname": 3617106105,
+        "index": 55
+    },
+    {
+        "country": "CROATIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 21,
+        "callname": 3793807497,
+        "index": 56
+    },
+    {
+        "country": "CROATIA",
+        "state": " ",
+        "city": "ZAGREB",
+        "country_group": 21,
+        "callname": 1798220039,
+        "index": 57
+    },
+    {
+        "country": "CUBA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 22,
+        "callname": 2630237866,
+        "index": 58
+    },
+    {
+        "country": "CUBA",
+        "state": " ",
+        "city": "HAVANA",
+        "country_group": 22,
+        "callname": 2404270722,
+        "index": 59
+    },
+    {
+        "country": "CZECH REPUBLIC",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 23,
+        "callname": 1219244144,
+        "index": 60
+    },
+    {
+        "country": "CZECH REPUBLIC",
+        "state": " ",
+        "city": "PRAGUE",
+        "country_group": 23,
+        "callname": 335859863,
+        "index": 61
+    },
+    {
+        "country": "DENMARK",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 24,
+        "callname": 3122548828,
+        "index": 62
+    },
+    {
+        "country": "DENMARK",
+        "state": " ",
+        "city": "COPENHAGEN",
+        "country_group": 24,
+        "callname": 2231983604,
+        "index": 63
+    },
+    {
+        "country": "DOMINICAN REPUBLIC",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 25,
+        "callname": 486619338,
+        "index": 64
+    },
+    {
+        "country": "DOMINICAN REPUBLIC",
+        "state": " ",
+        "city": "SANTO DOMINGO",
+        "country_group": 25,
+        "callname": 241702249,
+        "index": 65
+    },
+    {
+        "country": "EGYPT",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 26,
+        "callname": 1704252029,
+        "index": 67
+    },
+    {
+        "country": "EGYPT",
+        "state": " ",
+        "city": "ALEXANDRIA",
+        "country_group": 26,
+        "callname": 3304163660,
+        "index": 68
+    },
+    {
+        "country": "EGYPT",
+        "state": " ",
+        "city": "CAIRO",
+        "country_group": 26,
+        "callname": 804082910,
+        "index": 69
+    },
+    {
+        "country": "EL SALVADOR",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 27,
+        "callname": 343830573,
+        "index": 70
+    },
+    {
+        "country": "EL SALVADOR",
+        "state": " ",
+        "city": "SAN SALVADOR",
+        "country_group": 27,
+        "callname": 4258593918,
+        "index": 71
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 28,
+        "callname": 349965845,
+        "index": 72
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "BLACKPOOL",
+        "country_group": 28,
+        "callname": 1098519784,
+        "index": 73
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "CHELSEA",
+        "country_group": 28,
+        "callname": 614362040,
+        "index": 74
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "DUDLEY",
+        "country_group": 28,
+        "callname": 1380181679,
+        "index": 75
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "LEEDS",
+        "country_group": 28,
+        "callname": 11449293,
+        "index": 76
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "LONDON",
+        "country_group": 28,
+        "callname": 1059148928,
+        "index": 77
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "MANCHESTER",
+        "country_group": 28,
+        "callname": 2865755425,
+        "index": 78
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "NEWCASTLE UPON TYNE",
+        "country_group": 28,
+        "callname": 1967645859,
+        "index": 79
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "NORWICH",
+        "country_group": 28,
+        "callname": 810413323,
+        "index": 80
+    },
+    {
+        "country": "ETHIOPIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 29,
+        "callname": 3011500377,
+        "index": 82
+    },
+    {
+        "country": "ETHIOPIA",
+        "state": " ",
+        "city": "ADDIS ABABA",
+        "country_group": 29,
+        "callname": 735987490,
+        "index": 83
+    },
+    {
+        "country": "FIJI",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 31,
+        "callname": 4215396803,
+        "index": 113
+    },
+    {
+        "country": "FIJI",
+        "state": " ",
+        "city": "SUVA",
+        "country_group": 31,
+        "callname": 679373650,
+        "index": 114
+    },
+    {
+        "country": "FINLAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 32,
+        "callname": 3622233053,
+        "index": 115
+    },
+    {
+        "country": "FINLAND",
+        "state": " ",
+        "city": "HELSINKI",
+        "country_group": 32,
+        "callname": 567916539,
+        "index": 116
+    },
+    {
+        "country": "FRANCE",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 33,
+        "callname": 1755282545,
+        "index": 117
+    },
+    {
+        "country": "FRANCE",
+        "state": " ",
+        "city": "GRENOBLE",
+        "country_group": 33,
+        "callname": 3181193904,
+        "index": 118
+    },
+    {
+        "country": "FRANCE",
+        "state": " ",
+        "city": "PARIS",
+        "country_group": 33,
+        "callname": 864797320,
+        "index": 119
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 34,
+        "callname": 3039106443,
+        "index": 120
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "BERLIN",
+        "country_group": 34,
+        "callname": 1686342376,
+        "index": 121
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "COLOGNE",
+        "country_group": 34,
+        "callname": 120455493,
+        "index": 122
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "DRESDEN",
+        "country_group": 34,
+        "callname": 773529497,
+        "index": 123
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "FRANKFURT",
+        "country_group": 34,
+        "callname": 39570661,
+        "index": 124
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "MUNICH",
+        "country_group": 34,
+        "callname": 279503928,
+        "index": 125
+    },
+    {
+        "country": "GHANA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 35,
+        "callname": 1555047742,
+        "index": 126
+    },
+    {
+        "country": "GHANA",
+        "state": " ",
+        "city": "ACCRA",
+        "country_group": 35,
+        "callname": 3232756401,
+        "index": 127
+    },
+    {
+        "country": "GREECE",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 37,
+        "callname": 787666989,
+        "index": 128
+    },
+    {
+        "country": "GREECE",
+        "state": " ",
+        "city": "ATHENS",
+        "country_group": 37,
+        "callname": 391861456,
+        "index": 129
+    },
+    {
+        "country": "GUATEMALA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 38,
+        "callname": 1675077355,
+        "index": 130
+    },
+    {
+        "country": "GUATEMALA",
+        "state": " ",
+        "city": "GUATEMALA CITY",
+        "country_group": 38,
+        "callname": 654789660,
+        "index": 131
+    },
+    {
+        "country": "HAITI",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 39,
+        "callname": 767331688,
+        "index": 132
+    },
+    {
+        "country": "HAITI",
+        "state": " ",
+        "city": "PORT-AU-PRINCE",
+        "country_group": 39,
+        "callname": 1517725217,
+        "index": 133
+    },
+    {
+        "country": "HUNGARY",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 41,
+        "callname": 697937695,
+        "index": 134
+    },
+    {
+        "country": "HUNGARY",
+        "state": " ",
+        "city": "BUDAPEST",
+        "country_group": 41,
+        "callname": 2164059507,
+        "index": 135
+    },
+    {
+        "country": "ICELAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 42,
+        "callname": 3002117566,
+        "index": 136
+    },
+    {
+        "country": "ICELAND",
+        "state": " ",
+        "city": "REYKJAVIK",
+        "country_group": 42,
+        "callname": 2224033444,
+        "index": 137
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 43,
+        "callname": 2349310484,
+        "index": 138
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "KOLKATA",
+        "country_group": 43,
+        "callname": 3923629270,
+        "index": 140
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "DELHI",
+        "country_group": 43,
+        "callname": 72381054,
+        "index": 141
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "HARYANA",
+        "country_group": 43,
+        "callname": 1528341150,
+        "index": 142
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "MUMBAI",
+        "country_group": 43,
+        "callname": 2781921454,
+        "index": 143
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "PUNJAB",
+        "country_group": 43,
+        "callname": 3496004542,
+        "index": 144
+    },
+    {
+        "country": "INDONESIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 44,
+        "callname": 3042165348,
+        "index": 145
+    },
+    {
+        "country": "INDONESIA",
+        "state": " ",
+        "city": "JAKARTA",
+        "country_group": 44,
+        "callname": 2717166075,
+        "index": 146
+    },
+    {
+        "country": "IRAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 45,
+        "callname": 3420556825,
+        "index": 147
+    },
+    {
+        "country": "IRAN",
+        "state": " ",
+        "city": "TEHRAN",
+        "country_group": 45,
+        "callname": 1210463066,
+        "index": 148
+    },
+    {
+        "country": "IRAQ",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 46,
+        "callname": 2242671954,
+        "index": 149
+    },
+    {
+        "country": "IRAQ",
+        "state": " ",
+        "city": "BAGHDAD",
+        "country_group": 46,
+        "callname": 820675328,
+        "index": 150
+    },
+    {
+        "country": "IRELAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 47,
+        "callname": 2647455385,
+        "index": 151
+    },
+    {
+        "country": "IRELAND",
+        "state": " ",
+        "city": "BELFAST",
+        "country_group": 47,
+        "callname": 734473339,
+        "index": 152
+    },
+    {
+        "country": "IRELAND",
+        "state": " ",
+        "city": "CORK",
+        "country_group": 47,
+        "callname": 2218198856,
+        "index": 153
+    },
+    {
+        "country": "IRELAND",
+        "state": " ",
+        "city": "DUBLIN",
+        "country_group": 47,
+        "callname": 2880120271,
+        "index": 154
+    },
+    {
+        "country": "IRELAND",
+        "state": " ",
+        "city": "LIMERICK",
+        "country_group": 47,
+        "callname": 1953249512,
+        "index": 155
+    },
+    {
+        "country": "IRELAND",
+        "state": "COUNTY WICKLOW",
+        "city": "BRAY",
+        "city_group": 6,
+        "country_group": 47,
+        "callname": 525933212,
+        "index": 156
+    },
+    {
+        "country": "ISRAEL",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 48,
+        "callname": 1616584505,
+        "index": 157
+    },
+    {
+        "country": "ISRAEL",
+        "state": " ",
+        "city": "JERUSALEM",
+        "country_group": 48,
+        "callname": 1052388119,
+        "index": 158
+    },
+    {
+        "country": "ITALY",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 49,
+        "callname": 3497001761,
+        "index": 159
+    },
+    {
+        "country": "ITALY",
+        "state": " ",
+        "city": "ABRUZZO",
+        "country_group": 49,
+        "callname": 3178526501,
+        "index": 796
+    },
+    {
+        "country": "ITALY",
+        "state": " ",
+        "city": "MILAN",
+        "country_group": 49,
+        "callname": 272438971,
+        "index": 160
+    },
+    {
+        "country": "ITALY",
+        "state": " ",
+        "city": "NAPLES",
+        "country_group": 49,
+        "callname": 716085177,
+        "index": 161
+    },
+    {
+        "country": "ITALY",
+        "state": " ",
+        "city": "ROME",
+        "country_group": 49,
+        "callname": 3812019421,
+        "index": 162
+    },
+    {
+        "country": "JAMAICA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 50,
+        "callname": 2309069779,
+        "index": 163
+    },
+    {
+        "country": "JAMAICA",
+        "state": " ",
+        "city": "KINGSTON",
+        "country_group": 50,
+        "callname": 1722242554,
+        "index": 164
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 51,
+        "callname": 101445568,
+        "index": 165
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "KOBE",
+        "country_group": 51,
+        "callname": 2367055701,
+        "index": 166
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "KYOTO",
+        "country_group": 51,
+        "callname": 2870497740,
+        "index": 167
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "NIIGATA",
+        "country_group": 51,
+        "callname": 2671583612,
+        "index": 771
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "OITA",
+        "country_group": 51,
+        "callname": 265731782,
+        "index": 168
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "OSAKA",
+        "country_group": 51,
+        "callname": 2758773282,
+        "index": 169
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "TOKYO",
+        "country_group": 51,
+        "callname": 2040188606,
+        "index": 170
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "YAMAGUCHI",
+        "country_group": 51,
+        "callname": 4142104761,
+        "index": 171
+    },
+    {
+        "country": "JAPAN",
+        "state": " ",
+        "city": "YOKOHAMA",
+        "country_group": 51,
+        "callname": 2351896297,
+        "index": 818
+    },
+    {
+        "country": "JORDAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 52,
+        "callname": 1791567710,
+        "index": 172
+    },
+    {
+        "country": "JORDAN",
+        "state": " ",
+        "city": "AMMAN",
+        "country_group": 52,
+        "callname": 1169125526,
+        "index": 173
+    },
+    {
+        "country": "KENYA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 53,
+        "callname": 548932314,
+        "index": 174
+    },
+    {
+        "country": "LAOS",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 54,
+        "callname": 2896671133,
+        "index": 175
+    },
+    {
+        "country": "LAOS",
+        "state": " ",
+        "city": "VIENTIANE",
+        "country_group": 54,
+        "callname": 2662342817,
+        "index": 176
+    },
+    {
+        "country": "LEBANON",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 55,
+        "callname": 3672035097,
+        "index": 177
+    },
+    {
+        "country": "LEBANON",
+        "state": " ",
+        "city": "BEIRUT",
+        "country_group": 55,
+        "callname": 2348065732,
+        "index": 178
+    },
+    {
+        "country": "MADAGASCAR",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 56,
+        "callname": 466594162,
+        "index": 179
+    },
+    {
+        "country": "MADAGASCAR",
+        "state": " ",
+        "city": "ANTANANARIVO",
+        "country_group": 56,
+        "callname": 1508863896,
+        "index": 180
+    },
+    {
+        "country": "MALI",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 57,
+        "callname": 1052335339,
+        "index": 181
+    },
+    {
+        "country": "MALI",
+        "state": " ",
+        "city": "BAMAKO",
+        "country_group": 57,
+        "callname": 3125532591,
+        "index": 182
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 58,
+        "callname": 3322344465,
+        "index": 183
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "GUADALAJARA",
+        "country_group": 58,
+        "callname": 1577842415,
+        "index": 184
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "HIDALGO",
+        "country_group": 58,
+        "callname": 4041803924,
+        "index": 185
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "MEXICO CITY",
+        "country_group": 58,
+        "callname": 1442672771,
+        "index": 186
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "SAN LUIS POTOSI",
+        "country_group": 58,
+        "callname": 2041222106,
+        "index": 187
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "TIJUANA",
+        "country_group": 58,
+        "callname": 1844021422,
+        "index": 188
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "TOCULA",
+        "country_group": 58,
+        "callname": 2911976341,
+        "index": 817
+    },
+    {
+        "country": "MEXICO",
+        "state": "CHIHUAHUA",
+        "city": "JUAREZ",
+        "city_group": 7,
+        "country_group": 58,
+        "callname": 2405465446,
+        "index": 189
+    },
+    {
+        "country": "MEXICO",
+        "state": "DURANGO",
+        "city": "GOMEZ PALACIO",
+        "city_group": 8,
+        "country_group": 58,
+        "callname": 3469590475,
+        "index": 190
+    },
+    {
+        "country": "MEXICO",
+        "state": "JALISCO",
+        "city": "GUADALAJARA",
+        "city_group": 9,
+        "country_group": 58,
+        "callname": 2735665867,
+        "index": 191
+    },
+    {
+        "country": "MOROCCO",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 60,
+        "callname": 2521784972,
+        "index": 277
+    },
+    {
+        "country": "MOROCCO",
+        "state": " ",
+        "city": "RABAT",
+        "country_group": 60,
+        "callname": 2688952892,
+        "index": 278
+    },
+    {
+        "country": "MYANMAR",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 61,
+        "callname": 1153289497,
+        "index": 279
+    },
+    {
+        "country": "MYANMAR",
+        "state": " ",
+        "city": "NAYPYITAW",
+        "country_group": 61,
+        "callname": 746196229,
+        "index": 280
+    },
+    {
+        "country": "NEPAL",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 62,
+        "callname": 2086080628,
+        "index": 281
+    },
+    {
+        "country": "NEPAL",
+        "state": " ",
+        "city": "KATHMANDU",
+        "country_group": 62,
+        "callname": 2270432732,
+        "index": 282
+    },
+    {
+        "country": "NEW ZEALAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 63,
+        "callname": 3943882634,
+        "index": 283
+    },
+    {
+        "country": "NEW ZEALAND",
+        "state": " ",
+        "city": "WELLINGTON",
+        "country_group": 63,
+        "callname": 3750888877,
+        "index": 284
+    },
+    {
+        "country": "NIGERIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 64,
+        "callname": 2595017549,
+        "index": 286
+    },
+    {
+        "country": "NIGERIA",
+        "state": " ",
+        "city": "LAGOS",
+        "country_group": 64,
+        "callname": 2128262710,
+        "index": 287
+    },
+    {
+        "country": "NORTH KOREA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 65,
+        "callname": 19968609,
+        "index": 288
+    },
+    {
+        "country": "NORTH KOREA",
+        "state": " ",
+        "city": "PYONGYANG",
+        "country_group": 65,
+        "callname": 101547404,
+        "index": 289
+    },
+    {
+        "country": "PAKISTAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 66,
+        "callname": 66539372,
+        "index": 290
+    },
+    {
+        "country": "PAKISTAN",
+        "state": " ",
+        "city": "ISLAMABAD",
+        "country_group": 66,
+        "callname": 4131485667,
+        "index": 291
+    },
+    {
+        "country": "PAKISTAN",
+        "state": " ",
+        "city": "KARACHI",
+        "country_group": 66,
+        "callname": 2065207273,
+        "index": 292
+    },
+    {
+        "country": "PAKISTAN",
+        "state": " ",
+        "city": "LAHORE",
+        "country_group": 66,
+        "callname": 2743640679,
+        "index": 293
+    },
+    {
+        "country": "PERU",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 67,
+        "callname": 2401491669,
+        "index": 294
+    },
+    {
+        "country": "PERU",
+        "state": " ",
+        "city": "LIMA",
+        "country_group": 67,
+        "callname": 3676781240,
+        "index": 295
+    },
+    {
+        "country": "PHILIPPINES",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 68,
+        "callname": 3107399520,
+        "index": 296
+    },
+    {
+        "country": "PHILIPPINES",
+        "state": " ",
+        "city": "MANILA",
+        "country_group": 68,
+        "callname": 1150171647,
+        "index": 297
+    },
+    {
+        "country": "POLAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 69,
+        "callname": 2100198324,
+        "index": 298
+    },
+    {
+        "country": "POLAND",
+        "state": " ",
+        "city": "WARSAW",
+        "country_group": 69,
+        "callname": 2983525025,
+        "index": 299
+    },
+    {
+        "country": "POLAND",
+        "state": " ",
+        "city": "WROCLAW",
+        "country_group": 69,
+        "callname": 3372425934,
+        "index": 300
+    },
+    {
+        "country": "PORTUGAL",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 70,
+        "callname": 1524959588,
+        "index": 301
+    },
+    {
+        "country": "PORTUGAL",
+        "state": " ",
+        "city": "LISBON",
+        "country_group": 70,
+        "callname": 3569097883,
+        "index": 302
+    },
+    {
+        "country": "PUERTO RICO",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 71,
+        "callname": 2110117320,
+        "index": 762
+    },
+    {
+        "country": "PUERTO RICO",
+        "state": " ",
+        "city": "SAN JUAN",
+        "country_group": 71,
+        "callname": 3695293742,
+        "index": 303
+    },
+    {
+        "country": "PUERTO RICO",
+        "state": " ",
+        "city": "VEGA BAJA",
+        "country_group": 71,
+        "callname": 2569587938,
+        "index": 761
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "DRAPER",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 2990916595,
+        "index": 802
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "APPLE VALLEY",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 3794020934,
+        "index": 801
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "FRANKLINVILLE",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3072811981,
+        "index": 800
+    },
+    {
+        "country": "CHANNEL ISLANDS",
+        "state": " ",
+        "city": "JERSEY",
+        "country_group": 16,
+        "callname": 865460824,
+        "index": 803
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "PRESTON",
+        "country_group": 28,
+        "callname": 4172920600,
+        "index": 772
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "GRAYS",
+        "country_group": 28,
+        "callname": 680705006,
+        "index": 799
+    },
+    {
+        "country": "ROMANIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 72,
+        "callname": 2617869490,
+        "index": 304
+    },
+    {
+        "country": "ROMANIA",
+        "state": " ",
+        "city": "BUCHAREST",
+        "country_group": 72,
+        "callname": 518483490,
+        "index": 305
+    },
+    {
+        "country": "ROMANIA",
+        "state": " ",
+        "city": "TRANSYLVANIA",
+        "country_group": 72,
+        "callname": 966053010,
+        "index": 306
+    },
+    {
+        "country": "RUSSIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 73,
+        "callname": 3937728162,
+        "index": 307
+    },
+    {
+        "country": "RUSSIA",
+        "state": " ",
+        "city": "MOSCOW",
+        "country_group": 73,
+        "callname": 2133805870,
+        "index": 308
+    },
+    {
+        "country": "RUSSIA",
+        "state": " ",
+        "city": "ST. PETERSBURG",
+        "country_group": 73,
+        "callname": 1520045376,
+        "index": 309
+    },
+    {
+        "country": "SAUDI ARABIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 74,
+        "callname": 4100396642,
+        "index": 310
+    },
+    {
+        "country": "SAUDI ARABIA",
+        "state": " ",
+        "city": "RIYADH",
+        "country_group": 74,
+        "callname": 185948026,
+        "index": 311
+    },
+    {
+        "country": "SCOTLAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 75,
+        "callname": 3923189382,
+        "index": 312
+    },
+    {
+        "country": "SCOTLAND",
+        "state": " ",
+        "city": "ABERDEEN",
+        "country_group": 75,
+        "callname": 2538801708,
+        "index": 313
+    },
+    {
+        "country": "SCOTLAND",
+        "state": " ",
+        "city": "AYR",
+        "country_group": 75,
+        "callname": 1031205467,
+        "index": 314
+    },
+    {
+        "country": "SCOTLAND",
+        "state": " ",
+        "city": "EDINBURGH",
+        "country_group": 75,
+        "callname": 3658213765,
+        "index": 315
+    },
+    {
+        "country": "SCOTLAND",
+        "state": " ",
+        "city": "GLASGOW",
+        "country_group": 75,
+        "callname": 2293628812,
+        "index": 316
+    },
+    {
+        "country": "SERBIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 76,
+        "callname": 2181085476,
+        "index": 317
+    },
+    {
+        "country": "SERBIA",
+        "state": " ",
+        "city": "BELGRADE",
+        "country_group": 76,
+        "callname": 2358390417,
+        "index": 318
+    },
+    {
+        "country": "SINGAPORE",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 77,
+        "callname": 878511580,
+        "index": 319
+    },
+    {
+        "country": "SOMALIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 78,
+        "callname": 3144022647,
+        "index": 320
+    },
+    {
+        "country": "SOMALIA",
+        "state": " ",
+        "city": "MOGADISHU",
+        "country_group": 78,
+        "callname": 1034300190,
+        "index": 321
+    },
+    {
+        "country": "SOUTH AFRICA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 79,
+        "callname": 1659553451,
+        "index": 322
+    },
+    {
+        "country": "SOUTH AFRICA",
+        "state": " ",
+        "city": "CAPE TOWN",
+        "country_group": 79,
+        "callname": 1223919411,
+        "index": 323
+    },
+    {
+        "country": "SOUTH AFRICA",
+        "state": " ",
+        "city": "PRETORIA",
+        "country_group": 79,
+        "callname": 1392903195,
+        "index": 324
+    },
+    {
+        "country": "SOUTH KOREA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 80,
+        "callname": 3627910229,
+        "index": 325
+    },
+    {
+        "country": "SOUTH KOREA",
+        "state": " ",
+        "city": "PUSAN",
+        "country_group": 80,
+        "callname": 896510225,
+        "index": 326
+    },
+    {
+        "country": "SOUTH KOREA",
+        "state": " ",
+        "city": "SEOUL",
+        "country_group": 80,
+        "callname": 1284957709,
+        "index": 327
+    },
+    {
+        "country": "SPAIN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 81,
+        "callname": 143252967,
+        "index": 328
+    },
+    {
+        "country": "SPAIN",
+        "state": " ",
+        "city": "BARCELONA",
+        "country_group": 81,
+        "callname": 3326272353,
+        "index": 329
+    },
+    {
+        "country": "SPAIN",
+        "state": " ",
+        "city": "MADRID",
+        "country_group": 81,
+        "callname": 329458486,
+        "index": 330
+    },
+    {
+        "country": "SPAIN",
+        "state": " ",
+        "city": "VALENCIA",
+        "country_group": 81,
+        "callname": 3437488039,
+        "index": 331
+    },
+    {
+        "country": "SRI LANKA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 82,
+        "callname": 1256749736,
+        "index": 332
+    },
+    {
+        "country": "SRI LANKA",
+        "state": " ",
+        "city": "COLOMBO",
+        "country_group": 82,
+        "callname": 3868568273,
+        "index": 333
+    },
+    {
+        "country": "SUDAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 83,
+        "callname": 140882800,
+        "index": 334
+    },
+    {
+        "country": "SUDAN",
+        "state": " ",
+        "city": "KHARTOUM",
+        "country_group": 83,
+        "callname": 2025276820,
+        "index": 335
+    },
+    {
+        "country": "SWITZERLAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 84,
+        "callname": 1023722371,
+        "index": 336
+    },
+    {
+        "country": "SWITZERLAND",
+        "state": " ",
+        "city": "GENEVA",
+        "country_group": 84,
+        "callname": 654846586,
+        "index": 337
+    },
+    {
+        "country": "SWITZERLAND",
+        "state": " ",
+        "city": "ZURICH",
+        "country_group": 84,
+        "callname": 1680810763,
+        "index": 338
+    },
+    {
+        "country": "SWITZERLAND",
+        "state": " ",
+        "city": "LUCERNE",
+        "country_group": 84,
+        "callname": 366584779,
+        "index": 339
+    },
+    {
+        "country": "SYRIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 85,
+        "callname": 3877082468,
+        "index": 340
+    },
+    {
+        "country": "SYRIA",
+        "state": " ",
+        "city": "DAMASCUS",
+        "country_group": 85,
+        "callname": 913048878,
+        "index": 341
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "TAIWAN",
+        "city": "NONE",
+        "city_group": 12,
+        "country_group": 36,
+        "callname": 288625833,
+        "index": 342
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "TAIWAN",
+        "city": "TAIPEI",
+        "city_group": 12,
+        "country_group": 36,
+        "callname": 848897636,
+        "index": 343
+    },
+    {
+        "country": "TANZANIA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 87,
+        "callname": 715537450,
+        "index": 344
+    },
+    {
+        "country": "TANZANIA",
+        "state": " ",
+        "city": "DODOMA",
+        "country_group": 87,
+        "callname": 2517682614,
+        "index": 345
+    },
+    {
+        "country": "THAILAND",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 88,
+        "callname": 2127079292,
+        "index": 346
+    },
+    {
+        "country": "THAILAND",
+        "state": " ",
+        "city": "BANGKOK",
+        "country_group": 88,
+        "callname": 2220508046,
+        "index": 347
+    },
+    {
+        "country": "THE NETHERLANDS",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 89,
+        "callname": 3736875653,
+        "index": 348
+    },
+    {
+        "country": "THE NETHERLANDS",
+        "state": " ",
+        "city": "AMSTERDAM",
+        "country_group": 89,
+        "callname": 4259635333,
+        "index": 349
+    },
+    {
+        "country": "THE VIRGIN ISLANDS",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 90,
+        "callname": 1398040331,
+        "index": 350
+    },
+    {
+        "country": "THE VIRGIN ISLANDS",
+        "state": " ",
+        "city": "SAINT THOMAS",
+        "country_group": 90,
+        "callname": 2596867168,
+        "index": 351
+    },
+    {
+        "country": "TURKEY",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 92,
+        "callname": 1600304421,
+        "index": 353
+    },
+    {
+        "country": "TURKEY",
+        "state": " ",
+        "city": "ISTANBUL",
+        "country_group": 92,
+        "callname": 908876469,
+        "index": 354
+    },
+    {
+        "country": "UGANDA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 93,
+        "callname": 1991141632,
+        "index": 355
+    },
+    {
+        "country": "UGANDA",
+        "state": " ",
+        "city": "KAMPALA",
+        "country_group": 93,
+        "callname": 3030708500,
+        "index": 356
+    },
+    {
+        "country": "UKRAINE",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 94,
+        "callname": 405626233,
+        "index": 357
+    },
+    {
+        "country": "UKRAINE",
+        "state": " ",
+        "city": "KYIV",
+        "country_group": 94,
+        "callname": 3823369466,
+        "index": 358
+    },
+    {
+        "country": "URUGUAY",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 95,
+        "callname": 1466820448,
+        "index": 359
+    },
+    {
+        "country": "URUGUAY",
+        "state": " ",
+        "city": "MONTEVIDEO",
+        "country_group": 95,
+        "callname": 942720116,
+        "index": 360
+    },
+    {
+        "country": "USA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 96,
+        "callname": 3505982535,
+        "index": 361
+    },
+    {
+        "country": "USA",
+        "state": " ",
+        "city": "WASHINGTON, D.C.",
+        "country_group": 96,
+        "callname": 1333440063,
+        "index": 362
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "NONE",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 3807457937,
+        "index": 363
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "-",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 2517289369,
+        "index": 814
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "BIRMINGHAM",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 3042435889,
+        "index": 364
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "HUNTSVILLE",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 892422601,
+        "index": 365
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "MOBILE",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 2729049727,
+        "index": 366
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "MONTGOMERY",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 3869207743,
+        "index": 367
+    },
+    {
+        "country": "USA",
+        "state": "ALASKA",
+        "city": "NONE",
+        "city_group": 14,
+        "country_group": 96,
+        "callname": 4205550324,
+        "index": 368
+    },
+    {
+        "country": "USA",
+        "state": "ALASKA",
+        "city": "ANCHORAGE",
+        "city_group": 14,
+        "country_group": 96,
+        "callname": 1653212430,
+        "index": 369
+    },
+    {
+        "country": "USA",
+        "state": "ALASKA",
+        "city": "FAIRBANKS",
+        "city_group": 14,
+        "country_group": 96,
+        "callname": 1395998449,
+        "index": 370
+    },
+    {
+        "country": "USA",
+        "state": "ALASKA",
+        "city": "JUNEAU",
+        "city_group": 14,
+        "country_group": 96,
+        "callname": 112891474,
+        "index": 371
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "NONE",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 3908742798,
+        "index": 372
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "BULLHEAD CITY",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 2073683384,
+        "index": 813
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "GLENDALE",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 3851204050,
+        "index": 373
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "MESA",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 1026059992,
+        "index": 374
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "PARADISE VALLEY",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 1099675615,
+        "index": 812
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "PHOENIX",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 1626911542,
+        "index": 375
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "SCOTTSDALE",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 1356483296,
+        "index": 376
+    },
+    {
+        "country": "USA",
+        "state": "ARIZONA",
+        "city": "TUCSON",
+        "city_group": 15,
+        "country_group": 96,
+        "callname": 3370314927,
+        "index": 377
+    },
+    {
+        "country": "USA",
+        "state": "ARKANSAS",
+        "city": "NONE",
+        "city_group": 16,
+        "country_group": 96,
+        "callname": 2536841522,
+        "index": 378
+    },
+    {
+        "country": "USA",
+        "state": "ARKANSAS",
+        "city": "LITTLE ROCK",
+        "city_group": 16,
+        "country_group": 96,
+        "callname": 1650992938,
+        "index": 379
+    },
+    {
+        "country": "USA",
+        "state": "ARKANSAS",
+        "city": "WEST MEMPHIS",
+        "city_group": 16,
+        "country_group": 96,
+        "callname": 3471295411,
+        "index": 380
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "NONE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 2126040122,
+        "index": 381
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "ONTARIO",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 3314132971,
+        "index": 815
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "ANAHEIM",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 720249068,
+        "index": 382
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "BEVERLY HILLS",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 4253396812,
+        "index": 383
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "CONCORD",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 1466028159,
+        "index": 384
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "FRESNO",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 56086499,
+        "index": 385
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "HOLLYWOOD",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 3011868561,
+        "index": 386
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "HUNTINGTON BEACH",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 4076841934,
+        "index": 387
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "LONG BEACH",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 1444908108,
+        "index": 388
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "LOS ANGELES",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 1930170115,
+        "index": 389
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "NORTHRIDGE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 3750010313,
+        "index": 390
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "REDONDO BEACH",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 1679238242,
+        "index": 703
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "OAKLAND",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 2771616776,
+        "index": 391
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "RIO LINDA",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 2424289841,
+        "index": 392
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "SACRAMENTO",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 1805465920,
+        "index": 393
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "SAN DIEGO",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 2565470650,
+        "index": 394
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "SAN FRANCISCO",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 4068858315,
+        "index": 395
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "SAN JOSE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 223879751,
+        "index": 396
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "SUSANVILLE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 4069618745,
+        "index": 816
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "VENICE BEACH",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 2904693676,
+        "index": 397
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "WEST HOLLYWOOD",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 3595957591,
+        "index": 398
+    },
+    {
+        "country": "USA",
+        "state": "COLORADO",
+        "city": "WESTMINISTER",
+        "city_group": 18,
+        "country_group": 96,
+        "callname": 4014101210,
+        "index": 400
+    },
+    {
+        "country": "USA",
+        "state": "COLORADO",
+        "city": "NONE",
+        "city_group": 18,
+        "country_group": 96,
+        "callname": 1770542373,
+        "index": 401
+    },
+    {
+        "country": "USA",
+        "state": "COLORADO",
+        "city": "AURORA",
+        "city_group": 18,
+        "country_group": 96,
+        "callname": 489053705,
+        "index": 402
+    },
+    {
+        "country": "USA",
+        "state": "COLORADO",
+        "city": "COLORADO SPRINGS",
+        "city_group": 18,
+        "country_group": 96,
+        "callname": 1352318517,
+        "index": 403
+    },
+    {
+        "country": "USA",
+        "state": "COLORADO",
+        "city": "DENVER",
+        "city_group": 18,
+        "country_group": 96,
+        "callname": 1258676555,
+        "index": 404
+    },
+    {
+        "country": "USA",
+        "state": "COLORADO",
+        "city": "SOUTH PARK",
+        "city_group": 18,
+        "country_group": 96,
+        "callname": 790425632,
+        "index": 405
+    },
+    {
+        "country": "USA",
+        "state": "CONNECTICUT",
+        "city": "NONE",
+        "city_group": 19,
+        "country_group": 96,
+        "callname": 110373849,
+        "index": 406
+    },
+    {
+        "country": "USA",
+        "state": "CONNECTICUT",
+        "city": "FAIRFIELD",
+        "city_group": 19,
+        "country_group": 96,
+        "callname": 4234004141,
+        "index": 407
+    },
+    {
+        "country": "USA",
+        "state": "CONNECTICUT",
+        "city": "GREENWICH",
+        "city_group": 19,
+        "country_group": 96,
+        "callname": 1597496115,
+        "index": 408
+    },
+    {
+        "country": "USA",
+        "state": "CONNECTICUT",
+        "city": "HARTFORD",
+        "city_group": 19,
+        "country_group": 96,
+        "callname": 3505613531,
+        "index": 409
+    },
+    {
+        "country": "USA",
+        "state": "DELAWARE",
+        "city": "NONE",
+        "city_group": 20,
+        "country_group": 96,
+        "callname": 2278613958,
+        "index": 410
+    },
+    {
+        "country": "USA",
+        "state": "DELAWARE",
+        "city": "DOVER",
+        "city_group": 20,
+        "country_group": 96,
+        "callname": 3324977330,
+        "index": 411
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "BROOKSVILLE",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 1287242186,
+        "index": 412
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "HOLLYWOOD",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 729726388,
+        "index": 413
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "LIVE OAK",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 518897237,
+        "index": 414
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "PALM BEACH",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 1193675174,
+        "index": 415
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "PENSACOLA",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 1409073113,
+        "index": 416
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "PONTE VEDRA BEACH",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 467142891,
+        "index": 417
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "NONE",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3335521249,
+        "index": 418
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "BOCA RATON",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3542470893,
+        "index": 419
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "CELEBRATION",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3749805699,
+        "index": 420
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "COCOA BEACH",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3286778239,
+        "index": 421
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "WINTER PARK",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 500474708,
+        "index": 791
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "JACKSONVILLE",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 1078133090,
+        "index": 422
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "MIAMI",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3822591269,
+        "index": 423
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "ORLANDO",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 2285646248,
+        "index": 424
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "PALATKA",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 2645856380,
+        "index": 425
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "SARASOTA",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3403255377,
+        "index": 426
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "TAMPA",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 4293002653,
+        "index": 427
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "WEST PALM BEACH",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 2260999889,
+        "index": 428
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "NONE",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 3659874792,
+        "index": 431
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "ATLANTA",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2267961797,
+        "index": 432
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "WOODSTOCK",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2923340424,
+        "index": 792
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "AUSTELL",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 992505920,
+        "index": 433
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "BADSTREET, ATLANTA",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 777575769,
+        "index": 434
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "COBB COUNTY",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 1968480963,
+        "index": 435
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "COLUMBUS",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2538829267,
+        "index": 436
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "GAINESVILLE",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2589438172,
+        "index": 437
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "MARIETTA",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2602738273,
+        "index": 438
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "STONE MOUNTAIN",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2822887441,
+        "index": 439
+    },
+    {
+        "country": "USA",
+        "state": "GEORGIA",
+        "city": "WARNER ROBINS",
+        "city_group": 22,
+        "country_group": 96,
+        "callname": 2576155870,
+        "index": 440
+    },
+    {
+        "country": "USA",
+        "state": "HAWAII",
+        "city": "NONE",
+        "city_group": 23,
+        "country_group": 96,
+        "callname": 2147521856,
+        "index": 441
+    },
+    {
+        "country": "USA",
+        "state": "HAWAII",
+        "city": "HONOLULU",
+        "city_group": 23,
+        "country_group": 96,
+        "callname": 3940644250,
+        "index": 442
+    },
+    {
+        "country": "USA",
+        "state": "HAWAII",
+        "city": "KONA",
+        "city_group": 23,
+        "country_group": 96,
+        "callname": 3114187380,
+        "index": 443
+    },
+    {
+        "country": "USA",
+        "state": "IDAHO",
+        "city": "NONE",
+        "city_group": 24,
+        "country_group": 96,
+        "callname": 904681465,
+        "index": 444
+    },
+    {
+        "country": "USA",
+        "state": "IDAHO",
+        "city": "BOISE",
+        "city_group": 24,
+        "country_group": 96,
+        "callname": 343417813,
+        "index": 445
+    },
+    {
+        "country": "USA",
+        "state": "IDAHO",
+        "city": "NAMPA",
+        "city_group": 24,
+        "country_group": 96,
+        "callname": 758428590,
+        "index": 446
+    },
+    {
+        "country": "USA",
+        "state": "IDAHO",
+        "city": "TWIN FALLS",
+        "city_group": 24,
+        "country_group": 96,
+        "callname": 3839135360,
+        "index": 447
+    },
+    {
+        "country": "USA",
+        "state": "ILLINOIS",
+        "city": "OAK PARK",
+        "city_group": 25,
+        "country_group": 96,
+        "callname": 2734402923,
+        "index": 448
+    },
+    {
+        "country": "USA",
+        "state": "ILLINOIS",
+        "city": "NONE",
+        "city_group": 25,
+        "country_group": 96,
+        "callname": 1097933382,
+        "index": 449
+    },
+    {
+        "country": "USA",
+        "state": "ILLINOIS",
+        "city": "AURORA",
+        "city_group": 25,
+        "country_group": 96,
+        "callname": 903817578,
+        "index": 450
+    },
+    {
+        "country": "USA",
+        "state": "ILLINOIS",
+        "city": "CHICAGO",
+        "city_group": 25,
+        "country_group": 96,
+        "callname": 2105183285,
+        "index": 451
+    },
+    {
+        "country": "USA",
+        "state": "ILLINOIS",
+        "city": "SPRINGFIELD",
+        "city_group": 25,
+        "country_group": 96,
+        "callname": 2106587355,
+        "index": 452
+    },
+    {
+        "country": "USA",
+        "state": "INDIANA",
+        "city": "LAFAYETTE",
+        "city_group": 26,
+        "country_group": 96,
+        "callname": 1447864795,
+        "index": 453
+    },
+    {
+        "country": "USA",
+        "state": "INDIANA",
+        "city": "NONE",
+        "city_group": 26,
+        "country_group": 96,
+        "callname": 1522371316,
+        "index": 454
+    },
+    {
+        "country": "USA",
+        "state": "INDIANA",
+        "city": "EVANSVILLE",
+        "city_group": 26,
+        "country_group": 96,
+        "callname": 2105280447,
+        "index": 455
+    },
+    {
+        "country": "USA",
+        "state": "INDIANA",
+        "city": "FORT WAYNE",
+        "city_group": 26,
+        "country_group": 96,
+        "callname": 3647559546,
+        "index": 456
+    },
+    {
+        "country": "USA",
+        "state": "INDIANA",
+        "city": "INDIANAPOLIS",
+        "city_group": 26,
+        "country_group": 96,
+        "callname": 3361003785,
+        "index": 457
+    },
+    {
+        "country": "USA",
+        "state": "IOWA",
+        "city": "NONE",
+        "city_group": 27,
+        "country_group": 96,
+        "callname": 3645137755,
+        "index": 458
+    },
+    {
+        "country": "USA",
+        "state": "IOWA",
+        "city": "CEDAR RAPIDS",
+        "city_group": 27,
+        "country_group": 96,
+        "callname": 2794205683,
+        "index": 459
+    },
+    {
+        "country": "USA",
+        "state": "IOWA",
+        "city": "DAVENPORT",
+        "city_group": 27,
+        "country_group": 96,
+        "callname": 168686778,
+        "index": 460
+    },
+    {
+        "country": "USA",
+        "state": "IOWA",
+        "city": "DES MOINES",
+        "city_group": 27,
+        "country_group": 96,
+        "callname": 1870487060,
+        "index": 461
+    },
+    {
+        "country": "USA",
+        "state": "IOWA",
+        "city": "SIOUX CITY",
+        "city_group": 27,
+        "country_group": 96,
+        "callname": 2757142612,
+        "index": 810
+    },
+    {
+        "country": "USA",
+        "state": "KANSAS",
+        "city": "NONE",
+        "city_group": 29,
+        "country_group": 96,
+        "callname": 1096487204,
+        "index": 462
+    },
+    {
+        "country": "USA",
+        "state": "KANSAS",
+        "city": "KANSAS CITY",
+        "city_group": 29,
+        "country_group": 96,
+        "callname": 2431317505,
+        "index": 463
+    },
+    {
+        "country": "USA",
+        "state": "KANSAS",
+        "city": "TOPEKA",
+        "city_group": 29,
+        "country_group": 96,
+        "callname": 572329953,
+        "index": 464
+    },
+    {
+        "country": "USA",
+        "state": "KANSAS",
+        "city": "WICHITA",
+        "city_group": 29,
+        "country_group": 96,
+        "callname": 536125561,
+        "index": 465
+    },
+    {
+        "country": "USA",
+        "state": "KENTUCKY",
+        "city": "NONE",
+        "city_group": 30,
+        "country_group": 96,
+        "callname": 4095289900,
+        "index": 466
+    },
+    {
+        "country": "USA",
+        "state": "KENTUCKY",
+        "city": "LEXINGTON-FAYETTE",
+        "city_group": 30,
+        "country_group": 96,
+        "callname": 369707428,
+        "index": 467
+    },
+    {
+        "country": "USA",
+        "state": "KENTUCKY",
+        "city": "LOUISVILLE",
+        "city_group": 30,
+        "country_group": 96,
+        "callname": 4254099481,
+        "index": 468
+    },
+    {
+        "country": "USA",
+        "state": "LOUISIANA",
+        "city": "NONE",
+        "city_group": 31,
+        "country_group": 96,
+        "callname": 288300006,
+        "index": 470
+    },
+    {
+        "country": "USA",
+        "state": "LOUISIANA",
+        "city": "BATON ROUGE",
+        "city_group": 31,
+        "country_group": 96,
+        "callname": 2464475216,
+        "index": 471
+    },
+    {
+        "country": "USA",
+        "state": "LOUISIANA",
+        "city": "NEW ORLEANS",
+        "city_group": 31,
+        "country_group": 96,
+        "callname": 3620805077,
+        "index": 472
+    },
+    {
+        "country": "USA",
+        "state": "LOUISIANA",
+        "city": "SHREVEPORT",
+        "city_group": 31,
+        "country_group": 96,
+        "callname": 3068528103,
+        "index": 473
+    },
+    {
+        "country": "USA",
+        "state": "MAINE",
+        "city": "NONE",
+        "city_group": 32,
+        "country_group": 96,
+        "callname": 286512302,
+        "index": 474
+    },
+    {
+        "country": "USA",
+        "state": "MAINE",
+        "city": "AUGUSTA",
+        "city_group": 32,
+        "country_group": 96,
+        "callname": 1608139689,
+        "index": 475
+    },
+    {
+        "country": "USA",
+        "state": "MAINE",
+        "city": "BANGOR",
+        "city_group": 32,
+        "country_group": 96,
+        "callname": 2359408810,
+        "index": 476
+    },
+    {
+        "country": "USA",
+        "state": "MAINE",
+        "city": "WESTBROOK",
+        "city_group": 32,
+        "country_group": 96,
+        "callname": 4184102189,
+        "index": 477
+    },
+    {
+        "country": "USA",
+        "state": "MARYLAND",
+        "city": "NONE",
+        "city_group": 33,
+        "country_group": 96,
+        "callname": 4009853178,
+        "index": 478
+    },
+    {
+        "country": "USA",
+        "state": "MARYLAND",
+        "city": "ANNAPOLIS",
+        "city_group": 33,
+        "country_group": 96,
+        "callname": 41096608,
+        "index": 479
+    },
+    {
+        "country": "USA",
+        "state": "MARYLAND",
+        "city": "BALTIMORE",
+        "city_group": 33,
+        "country_group": 96,
+        "callname": 1480731663,
+        "index": 480
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "ARKHAM",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 1691099304,
+        "index": 481
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "BOSTON",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 2598522642,
+        "index": 482
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "NEW BEDFORD",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 558599923,
+        "index": 809
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "NORTH EASTON",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 1554790903,
+        "index": 804
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "SALEM",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 3239881078,
+        "index": 483
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "WEST NEWBURY",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 4255468548,
+        "index": 484
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "WORCESTER",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 2544860105,
+        "index": 485
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "NONE",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 3391381096,
+        "index": 486
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "CHELSEA",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 2965238942,
+        "index": 808
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "ANN ARBOR",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 3180936520,
+        "index": 487
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "BATTLE CREEK",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 819218384,
+        "index": 488
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "DETROIT",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 1054033705,
+        "index": 489
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "GRAND RAPIDS",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 3066410991,
+        "index": 490
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "HOPE",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 228396161,
+        "index": 491
+    },
+    {
+        "country": "USA",
+        "state": "MICHIGAN",
+        "city": "TRAVERSE CITY",
+        "city_group": 35,
+        "country_group": 96,
+        "callname": 455392036,
+        "index": 492
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "CHAMPLIN",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 2658266707,
+        "index": 493
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "NONE",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 3797907440,
+        "index": 494
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "MILWAUKEE",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 2504157685,
+        "index": 495
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "MINNEAPOLIS",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 3797419842,
+        "index": 496
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "OSSEO",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 2118199483,
+        "index": 807
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "PRIOR LAKE",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 3982693285,
+        "index": 794
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "ROBBINSDALE",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 3714690363,
+        "index": 497
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "ST. PAUL",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 290622925,
+        "index": 498
+    },
+    {
+        "country": "USA",
+        "state": "MISSISSIPPI",
+        "city": "NONE",
+        "city_group": 37,
+        "country_group": 96,
+        "callname": 3599856715,
+        "index": 499
+    },
+    {
+        "country": "USA",
+        "state": "MISSISSIPPI",
+        "city": "BILOXI",
+        "city_group": 37,
+        "country_group": 96,
+        "callname": 3110961604,
+        "index": 500
+    },
+    {
+        "country": "USA",
+        "state": "MISSISSIPPI",
+        "city": "JACKSON",
+        "city_group": 37,
+        "country_group": 96,
+        "callname": 3445428588,
+        "index": 501
+    },
+    {
+        "country": "USA",
+        "state": "MISSISSIPPI",
+        "city": "PEARL RIVER",
+        "city_group": 37,
+        "country_group": 96,
+        "callname": 3852674930,
+        "index": 502
+    },
+    {
+        "country": "USA",
+        "state": "MISSOURI",
+        "city": "NONE",
+        "city_group": 38,
+        "country_group": 96,
+        "callname": 817417120,
+        "index": 503
+    },
+    {
+        "country": "USA",
+        "state": "MISSOURI",
+        "city": "JEFFERSON CITY",
+        "city_group": 38,
+        "country_group": 96,
+        "callname": 5636942,
+        "index": 504
+    },
+    {
+        "country": "USA",
+        "state": "MISSOURI",
+        "city": "KANSAS CITY",
+        "city_group": 38,
+        "country_group": 96,
+        "callname": 635554889,
+        "index": 505
+    },
+    {
+        "country": "USA",
+        "state": "MISSOURI",
+        "city": "ST. LOUIS",
+        "city_group": 38,
+        "country_group": 96,
+        "callname": 1366901152,
+        "index": 506
+    },
+    {
+        "country": "USA",
+        "state": "MONTANA",
+        "city": "NONE",
+        "city_group": 39,
+        "country_group": 96,
+        "callname": 1014634853,
+        "index": 507
+    },
+    {
+        "country": "USA",
+        "state": "MONTANA",
+        "city": "BILLINGS",
+        "city_group": 39,
+        "country_group": 96,
+        "callname": 207380222,
+        "index": 508
+    },
+    {
+        "country": "USA",
+        "state": "MONTANA",
+        "city": "GREAT FALLS",
+        "city_group": 39,
+        "country_group": 96,
+        "callname": 1488196227,
+        "index": 509
+    },
+    {
+        "country": "USA",
+        "state": "MONTANA",
+        "city": "HELENA",
+        "city_group": 39,
+        "country_group": 96,
+        "callname": 1763654815,
+        "index": 510
+    },
+    {
+        "country": "USA",
+        "state": "NEBRASKA",
+        "city": "NONE",
+        "city_group": 40,
+        "country_group": 96,
+        "callname": 624112442,
+        "index": 511
+    },
+    {
+        "country": "USA",
+        "state": "NEBRASKA",
+        "city": "LINCOLN",
+        "city_group": 40,
+        "country_group": 96,
+        "callname": 3622182346,
+        "index": 512
+    },
+    {
+        "country": "USA",
+        "state": "NEBRASKA",
+        "city": "OMAHA",
+        "city_group": 40,
+        "country_group": 96,
+        "callname": 303542530,
+        "index": 513
+    },
+    {
+        "country": "USA",
+        "state": "NEVADA",
+        "city": "NONE",
+        "city_group": 41,
+        "country_group": 96,
+        "callname": 1601868168,
+        "index": 514
+    },
+    {
+        "country": "USA",
+        "state": "NEVADA",
+        "city": "CARSON CITY",
+        "city_group": 41,
+        "country_group": 96,
+        "callname": 4199184889,
+        "index": 515
+    },
+    {
+        "country": "USA",
+        "state": "NEVADA",
+        "city": "LAS VEGAS",
+        "city_group": 41,
+        "country_group": 96,
+        "callname": 2852277678,
+        "index": 516
+    },
+    {
+        "country": "USA",
+        "state": "NEVADA",
+        "city": "RENO",
+        "city_group": 41,
+        "country_group": 96,
+        "callname": 2097484831,
+        "index": 517
+    },
+    {
+        "country": "USA",
+        "state": "NEW HAMPSHIRE",
+        "city": "NONE",
+        "city_group": 42,
+        "country_group": 96,
+        "callname": 3273684229,
+        "index": 518
+    },
+    {
+        "country": "USA",
+        "state": "NEW HAMPSHIRE",
+        "city": "CONCORD",
+        "city_group": 42,
+        "country_group": 96,
+        "callname": 1006791628,
+        "index": 519
+    },
+    {
+        "country": "USA",
+        "state": "NEW HAMPSHIRE",
+        "city": "MANCHESTER",
+        "city_group": 42,
+        "country_group": 96,
+        "callname": 3358204079,
+        "index": 520
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "RUTHERFORD",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 624063492,
+        "index": 521
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "NONE",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3874319467,
+        "index": 522
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "CHERRY HILL",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 2287965998,
+        "index": 523
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "ASBURY PARK",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3282754571,
+        "index": 524
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "CAMDEN",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3489600521,
+        "index": 525
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "ELMWOOD PARK",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3115055704,
+        "index": 526
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "HACKENSACK",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 1143033092,
+        "index": 527
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "JERSEY CITY",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 692837365,
+        "index": 528
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "NEWARK",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 4234632984,
+        "index": 529
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "NUTLEY",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3860568021,
+        "index": 530
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "SHAMONG",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 2951030952,
+        "index": 531
+    },
+    {
+        "country": "USA",
+        "state": "NEW MEXICO",
+        "city": "NONE",
+        "city_group": 44,
+        "country_group": 96,
+        "callname": 966382732,
+        "index": 532
+    },
+    {
+        "country": "USA",
+        "state": "NEW MEXICO",
+        "city": "ALBUQUERQUE",
+        "city_group": 44,
+        "country_group": 96,
+        "callname": 1331762143,
+        "index": 533
+    },
+    {
+        "country": "USA",
+        "state": "NEW MEXICO",
+        "city": "ROSWELL",
+        "city_group": 44,
+        "country_group": 96,
+        "callname": 2670772042,
+        "index": 534
+    },
+    {
+        "country": "USA",
+        "state": "NEW MEXICO",
+        "city": "SANTA FE",
+        "city_group": 44,
+        "country_group": 96,
+        "callname": 4147335055,
+        "index": 535
+    },
+    {
+        "country": "USA",
+        "state": "NEW MEXICO",
+        "city": "TRUTH OR CONSEQUENCES",
+        "city_group": 44,
+        "country_group": 96,
+        "callname": 436187791,
+        "index": 536
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "NONE",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 3669228415,
+        "index": 537
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "AMENIA",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 1204307982,
+        "index": 538
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "BROOKLYN",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 3857351872,
+        "index": 539
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "BUFFALO",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 31938032,
+        "index": 540
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "GLENS FALLS",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 4273501237,
+        "index": 541
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "HARLEM",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 260668729,
+        "index": 542
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "LONG ISLAND",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 1916081192,
+        "index": 543
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "MANHASSET",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 1534656134,
+        "index": 544
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "MANHATTAN",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 167726289,
+        "index": 545
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "MOUNT SINAI",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 675796517,
+        "index": 546
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "NEW YORK",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 2616902067,
+        "index": 547
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "OZONE PARK",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 1820666305,
+        "index": 548
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "QUEENS",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 4163750099,
+        "index": 549
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "ROCHESTER",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 2862485403,
+        "index": 550
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "SCARSDALE",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 1033352037,
+        "index": 551
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "STATEN ISLAND",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 2016897499,
+        "index": 552
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "YONKERS",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 2700842049,
+        "index": 553
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "YORKTOWN HEIGHTS",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 205791664,
+        "index": 554
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "NONE",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 1358563800,
+        "index": 556
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "ASHEVILLE",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 4069853300,
+        "index": 557
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "CAMERON",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 3910657789,
+        "index": 558
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "CHARLOTTE",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 3365395239,
+        "index": 559
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "DURHAM",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 3835996687,
+        "index": 560
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "GREENSBORO",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 1010097116,
+        "index": 561
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "KILL DEVIL HILLS",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 1054159719,
+        "index": 562
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "PEMBROKE",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 956416100,
+        "index": 563
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "RALEIGH",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 3537028285,
+        "index": 564
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "SANFORD",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 2042039579,
+        "index": 565
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "SMITHFIELD",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 1477477244,
+        "index": 566
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "THE PORT CITY",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 3391913529,
+        "index": 567
+    },
+    {
+        "country": "USA",
+        "state": "NORTH DAKOTA",
+        "city": "NONE",
+        "city_group": 47,
+        "country_group": 96,
+        "callname": 4129716470,
+        "index": 568
+    },
+    {
+        "country": "USA",
+        "state": "NORTH DAKOTA",
+        "city": "BISMARCK",
+        "city_group": 47,
+        "country_group": 96,
+        "callname": 4104518607,
+        "index": 569
+    },
+    {
+        "country": "USA",
+        "state": "NORTH DAKOTA",
+        "city": "FARGO",
+        "city_group": 47,
+        "country_group": 96,
+        "callname": 2043181751,
+        "index": 570
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "DAYTON",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 2694560395,
+        "index": 571
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "NONE",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 3954671133,
+        "index": 572
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "AKRON",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 2235854067,
+        "index": 573
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "CINCINNATI",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 3548560489,
+        "index": 574
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "CLEVELAND",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 465860612,
+        "index": 575
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "COLUMBUS",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 807149943,
+        "index": 576
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "LEXINGTON",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 56067687,
+        "index": 806
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "TOLEDO",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 2445486656,
+        "index": 577
+    },
+    {
+        "country": "USA",
+        "state": "OKLAHOMA",
+        "city": "PERRY",
+        "city_group": 49,
+        "country_group": 96,
+        "callname": 1292282885,
+        "index": 578
+    },
+    {
+        "country": "USA",
+        "state": "OKLAHOMA",
+        "city": "NONE",
+        "city_group": 49,
+        "country_group": 96,
+        "callname": 1255638522,
+        "index": 579
+    },
+    {
+        "country": "USA",
+        "state": "OKLAHOMA",
+        "city": "EDMOND",
+        "city_group": 49,
+        "country_group": 96,
+        "callname": 1726813687,
+        "index": 580
+    },
+    {
+        "country": "USA",
+        "state": "OKLAHOMA",
+        "city": "NORMAN",
+        "city_group": 49,
+        "country_group": 96,
+        "callname": 2023430410,
+        "index": 581
+    },
+    {
+        "country": "USA",
+        "state": "OKLAHOMA",
+        "city": "OKLAHOMA CITY",
+        "city_group": 49,
+        "country_group": 96,
+        "callname": 2103815761,
+        "index": 582
+    },
+    {
+        "country": "USA",
+        "state": "OKLAHOMA",
+        "city": "TULSA",
+        "city_group": 49,
+        "country_group": 96,
+        "callname": 3133491604,
+        "index": 583
+    },
+    {
+        "country": "USA",
+        "state": "OREGON",
+        "city": "NONE",
+        "city_group": 50,
+        "country_group": 96,
+        "callname": 892892004,
+        "index": 584
+    },
+    {
+        "country": "USA",
+        "state": "OREGON",
+        "city": "EUGENE",
+        "city_group": 50,
+        "country_group": 96,
+        "callname": 4196555103,
+        "index": 585
+    },
+    {
+        "country": "USA",
+        "state": "OREGON",
+        "city": "HUBBARD",
+        "city_group": 50,
+        "country_group": 96,
+        "callname": 1512786377,
+        "index": 586
+    },
+    {
+        "country": "USA",
+        "state": "OREGON",
+        "city": "PORTLAND",
+        "city_group": 50,
+        "country_group": 96,
+        "callname": 2519865908,
+        "index": 587
+    },
+    {
+        "country": "USA",
+        "state": "OREGON",
+        "city": "SALEM",
+        "city_group": 50,
+        "country_group": 96,
+        "callname": 4096501104,
+        "index": 588
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "ERIE",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 3589859491,
+        "index": 589
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "NONE",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 2761293513,
+        "index": 590
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "ALLENTOWN",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 432537153,
+        "index": 591
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "HARRISBURG",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 1104861158,
+        "index": 592
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "NESQUEHONING",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 1475149107,
+        "index": 593
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "PHILADELPHIA",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 2623246730,
+        "index": 594
+    },
+    {
+        "country": "USA",
+        "state": "PENNSYLVANIA",
+        "city": "PITTSBURGH",
+        "city_group": 51,
+        "country_group": 96,
+        "callname": 297124975,
+        "index": 595
+    },
+    {
+        "country": "USA",
+        "state": "RHODE ISLAND",
+        "city": "NONE",
+        "city_group": 52,
+        "country_group": 96,
+        "callname": 3246271460,
+        "index": 596
+    },
+    {
+        "country": "USA",
+        "state": "RHODE ISLAND",
+        "city": "PAWTUCKET",
+        "city_group": 52,
+        "country_group": 96,
+        "callname": 3939027262,
+        "index": 597
+    },
+    {
+        "country": "USA",
+        "state": "RHODE ISLAND",
+        "city": "PROVIDENCE",
+        "city_group": 52,
+        "country_group": 96,
+        "callname": 3638202156,
+        "index": 598
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH CAROLINA",
+        "city": "PARRIS ISLAND",
+        "city_group": 53,
+        "country_group": 96,
+        "callname": 1220073273,
+        "index": 599
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH CAROLINA",
+        "city": "NONE",
+        "city_group": 53,
+        "country_group": 96,
+        "callname": 1590374435,
+        "index": 600
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH CAROLINA",
+        "city": "CHARLESTON",
+        "city_group": 53,
+        "country_group": 96,
+        "callname": 678459582,
+        "index": 601
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH CAROLINA",
+        "city": "COLUMBIA",
+        "city_group": 53,
+        "country_group": 96,
+        "callname": 1942042560,
+        "index": 602
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH CAROLINA",
+        "city": "ORANGEBURG",
+        "city_group": 53,
+        "country_group": 96,
+        "callname": 4276887202,
+        "index": 603
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH DAKOTA",
+        "city": "NONE",
+        "city_group": 54,
+        "country_group": 96,
+        "callname": 3464772372,
+        "index": 604
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH DAKOTA",
+        "city": "PIERRE",
+        "city_group": 54,
+        "country_group": 96,
+        "callname": 2526138052,
+        "index": 605
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH DAKOTA",
+        "city": "RAPID CITY",
+        "city_group": 54,
+        "country_group": 96,
+        "callname": 1727900766,
+        "index": 606
+    },
+    {
+        "country": "USA",
+        "state": "SOUTH DAKOTA",
+        "city": "SIOUX FALLS",
+        "city_group": 54,
+        "country_group": 96,
+        "callname": 2420280230,
+        "index": 607
+    },
+    {
+        "country": "USA",
+        "state": "TENNESSEE",
+        "city": "NONE",
+        "city_group": 55,
+        "country_group": 96,
+        "callname": 2712487693,
+        "index": 608
+    },
+    {
+        "country": "USA",
+        "state": "TENNESSEE",
+        "city": "CHATTANOOGA",
+        "city_group": 55,
+        "country_group": 96,
+        "callname": 787739965,
+        "index": 811
+    },
+    {
+        "country": "USA",
+        "state": "TENNESSEE",
+        "city": "KNOXVILLE",
+        "city_group": 55,
+        "country_group": 96,
+        "callname": 2426904117,
+        "index": 609
+    },
+    {
+        "country": "USA",
+        "state": "TENNESSEE",
+        "city": "MEMPHIS",
+        "city_group": 55,
+        "country_group": 96,
+        "callname": 277560035,
+        "index": 610
+    },
+    {
+        "country": "USA",
+        "state": "TENNESSEE",
+        "city": "NASHVILLE",
+        "city_group": 55,
+        "country_group": 96,
+        "callname": 3153303916,
+        "index": 611
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "NONE",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 68866852,
+        "index": 612
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "ARLINGTON",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3756086356,
+        "index": 613
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "AMARILLO",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 1421623922,
+        "index": 614
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "AUSTIN",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3754505271,
+        "index": 615
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "BORGER",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3214628531,
+        "index": 616
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "DALLAS",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 2053828908,
+        "index": 617
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "DENTON",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3495904156,
+        "index": 618
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "EL PASO",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 1188797259,
+        "index": 619
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "FORT WORTH",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3061778683,
+        "index": 620
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "HARLINGEN",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3244765717,
+        "index": 621
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "HOUSTON",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3642919731,
+        "index": 622
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "SAN ANTONIO",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3152575760,
+        "index": 623
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "SILSBEE",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 1784732085,
+        "index": 624
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "VICTORIA",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 3147007596,
+        "index": 625
+    },
+    {
+        "country": "USA",
+        "state": "UTAH",
+        "city": "NONE",
+        "city_group": 57,
+        "country_group": 96,
+        "callname": 6577474,
+        "index": 626
+    },
+    {
+        "country": "USA",
+        "state": "UTAH",
+        "city": "SALT LAKE CITY",
+        "city_group": 57,
+        "country_group": 96,
+        "callname": 2990757105,
+        "index": 627
+    },
+    {
+        "country": "USA",
+        "state": "UTAH",
+        "city": "SANDY",
+        "city_group": 57,
+        "country_group": 96,
+        "callname": 3261781055,
+        "index": 628
+    },
+    {
+        "country": "USA",
+        "state": "VERMONT",
+        "city": "NONE",
+        "city_group": 58,
+        "country_group": 96,
+        "callname": 1414252328,
+        "index": 629
+    },
+    {
+        "country": "USA",
+        "state": "VERMONT",
+        "city": "ESSEX",
+        "city_group": 58,
+        "country_group": 96,
+        "callname": 3359031971,
+        "index": 630
+    },
+    {
+        "country": "USA",
+        "state": "VERMONT",
+        "city": "MONTPELIER",
+        "city_group": 58,
+        "country_group": 96,
+        "callname": 3017680595,
+        "index": 631
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "NONE",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 473198655,
+        "index": 632
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "ALEXANDRIA",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 3823690773,
+        "index": 633
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "ARLINGTON",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 2717811025,
+        "index": 634
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "BURKE",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 2194137761,
+        "index": 635
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "CHARLOTTESVILLE",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 2666090139,
+        "index": 636
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "CHESAPEAKE",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 4122700144,
+        "index": 637
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "NORFOLK",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 2362971853,
+        "index": 638
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "RICHMOND",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 643547548,
+        "index": 639
+    },
+    {
+        "country": "USA",
+        "state": "VIRGINIA",
+        "city": "VIRGINIA BEACH",
+        "city_group": 59,
+        "country_group": 96,
+        "callname": 1557835570,
+        "index": 640
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "ABERDEEN",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 388938285,
+        "index": 641
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "KENT",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 459335750,
+        "index": 642
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "NONE",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 3437120144,
+        "index": 643
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "EVERETT",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 3998629669,
+        "index": 644
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "SEATTLE",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 1597732594,
+        "index": 645
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "SPOKANE",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 2308971813,
+        "index": 646
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON",
+        "city": "TACOMA",
+        "city_group": 60,
+        "country_group": 96,
+        "callname": 1051071586,
+        "index": 647
+    },
+    {
+        "country": "USA",
+        "state": "WEST VIRGINIA",
+        "city": "PINEVILLE",
+        "city_group": 61,
+        "country_group": 96,
+        "callname": 4076359112,
+        "index": 648
+    },
+    {
+        "country": "USA",
+        "state": "WEST VIRGINIA",
+        "city": "NONE",
+        "city_group": 61,
+        "country_group": 96,
+        "callname": 2045875027,
+        "index": 649
+    },
+    {
+        "country": "USA",
+        "state": "WEST VIRGINIA",
+        "city": "CHARLESTON",
+        "city_group": 61,
+        "country_group": 96,
+        "callname": 1130906612,
+        "index": 650
+    },
+    {
+        "country": "USA",
+        "state": "WEST VIRGINIA",
+        "city": "HANOVER",
+        "city_group": 61,
+        "country_group": 96,
+        "callname": 4231216306,
+        "index": 651
+    },
+    {
+        "country": "USA",
+        "state": "WISCONSIN",
+        "city": "FOND DU LAC",
+        "city_group": 62,
+        "country_group": 96,
+        "callname": 1651318146,
+        "index": 652
+    },
+    {
+        "country": "USA",
+        "state": "WISCONSIN",
+        "city": "SUPERIOR",
+        "city_group": 62,
+        "country_group": 96,
+        "callname": 3907554972,
+        "index": 653
+    },
+    {
+        "country": "USA",
+        "state": "WISCONSIN",
+        "city": "NONE",
+        "city_group": 62,
+        "country_group": 96,
+        "callname": 2172010082,
+        "index": 654
+    },
+    {
+        "country": "USA",
+        "state": "WISCONSIN",
+        "city": "GREEN BAY",
+        "city_group": 62,
+        "country_group": 96,
+        "callname": 1833596583,
+        "index": 655
+    },
+    {
+        "country": "USA",
+        "state": "WISCONSIN",
+        "city": "MADISON",
+        "city_group": 62,
+        "country_group": 96,
+        "callname": 2029847120,
+        "index": 656
+    },
+    {
+        "country": "USA",
+        "state": "WISCONSIN",
+        "city": "MILWAUKEE",
+        "city_group": 62,
+        "country_group": 96,
+        "callname": 4134215783,
+        "index": 657
+    },
+    {
+        "country": "USA",
+        "state": "WYOMING",
+        "city": "NONE",
+        "city_group": 63,
+        "country_group": 96,
+        "callname": 2118533161,
+        "index": 658
+    },
+    {
+        "country": "USA",
+        "state": "WYOMING",
+        "city": "CHEYENNE",
+        "city_group": 63,
+        "country_group": 96,
+        "callname": 1816986057,
+        "index": 659
+    },
+    {
+        "country": "UZBEKISTAN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 97,
+        "callname": 1546219862,
+        "index": 660
+    },
+    {
+        "country": "UZBEKISTAN",
+        "state": " ",
+        "city": "TASHKENT",
+        "country_group": 97,
+        "callname": 832033530,
+        "index": 661
+    },
+    {
+        "country": "VENEZUELA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 98,
+        "callname": 2041442034,
+        "index": 662
+    },
+    {
+        "country": "VENEZUELA",
+        "state": " ",
+        "city": "CARACAS",
+        "country_group": 98,
+        "callname": 1604215771,
+        "index": 663
+    },
+    {
+        "country": "VIETNAM",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 99,
+        "callname": 178518872,
+        "index": 664
+    },
+    {
+        "country": "VIETNAM",
+        "state": " ",
+        "city": "HANOI",
+        "country_group": 99,
+        "callname": 909858451,
+        "index": 665
+    },
+    {
+        "country": "VIETNAM",
+        "state": " ",
+        "city": "HO CHI MINH CITY",
+        "country_group": 99,
+        "callname": 4125924787,
+        "index": 666
+    },
+    {
+        "country": "WALES",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 100,
+        "callname": 2748012971,
+        "index": 667
+    },
+    {
+        "country": "WALES",
+        "state": " ",
+        "city": "CARDIFF",
+        "country_group": 100,
+        "callname": 1646711203,
+        "index": 668
+    },
+    {
+        "country": "WALES",
+        "state": " ",
+        "city": "NEWPORT",
+        "country_group": 100,
+        "callname": 1658370890,
+        "index": 669
+    },
+    {
+        "country": "WALES",
+        "state": " ",
+        "city": "SWANSEA",
+        "country_group": 100,
+        "callname": 218159604,
+        "index": 670
+    },
+    {
+        "country": "WEST AFRICA",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 101,
+        "callname": 4253520658,
+        "index": 671
+    },
+    {
+        "country": "WEST AFRICA",
+        "state": " ",
+        "city": "GHANA",
+        "country_group": 101,
+        "callname": 2327905522,
+        "index": 672
+    },
+    {
+        "country": "YEMEN",
+        "state": " ",
+        "city": "NONE",
+        "country_group": 103,
+        "callname": 2279480291,
+        "index": 674
+    },
+    {
+        "country": "YEMEN",
+        "state": " ",
+        "city": "SANA'A",
+        "country_group": 103,
+        "callname": 867041788,
+        "index": 675
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "ANOTHER TIME",
+        "country_group": 30,
+        "callname": 1852882054,
+        "index": 84
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "AREA 51",
+        "country_group": 30,
+        "callname": 3771265745,
+        "index": 85
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "ASGARD",
+        "country_group": 30,
+        "callname": 854200987,
+        "index": 86
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "AVALON",
+        "country_group": 30,
+        "callname": 2808610575,
+        "index": 87
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "BABYLON",
+        "country_group": 30,
+        "callname": 3843111818,
+        "index": 88
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "CAMELOT",
+        "country_group": 30,
+        "callname": 3446197632,
+        "index": 89
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "CHROMA CITY",
+        "country_group": 30,
+        "callname": 2336880339,
+        "index": 90
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE CITY OF ATLANTIS",
+        "country_group": 30,
+        "callname": 1613913576,
+        "index": 91
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "DUDLEYVILLE",
+        "country_group": 30,
+        "callname": 2050189144,
+        "index": 92
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE EDGE OF REALITY",
+        "country_group": 30,
+        "callname": 2744280168,
+        "index": 93
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "EL DORADO",
+        "country_group": 30,
+        "callname": 1585178753,
+        "index": 94
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "ELYSIAN FIELDS",
+        "country_group": 30,
+        "callname": 683406731,
+        "index": 95
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "EVERY MAN'S NIGHTMARE",
+        "country_group": 30,
+        "callname": 3422667686,
+        "index": 96
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE GARDEN OF EDEN",
+        "country_group": 30,
+        "callname": 1106457174,
+        "index": 97
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "LIMBO",
+        "country_group": 30,
+        "callname": 3750558545,
+        "index": 98
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "MOUNT OLYMPUS",
+        "country_group": 30,
+        "callname": 65840072,
+        "index": 99
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE NORTH POLE",
+        "country_group": 30,
+        "callname": 1874760475,
+        "index": 100
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE OTHER SIDE OF DARKNESS",
+        "country_group": 30,
+        "callname": 3087846287,
+        "index": 101
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "OUT OF THIS WORLD",
+        "country_group": 30,
+        "callname": 3936847847,
+        "index": 102
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "PANGAEA",
+        "country_group": 30,
+        "callname": 3243247452,
+        "index": 103
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE PITS OF HELL",
+        "country_group": 30,
+        "callname": 3064003393,
+        "index": 104
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE QUEEN CITY",
+        "country_group": 30,
+        "callname": 1322374426,
+        "index": 105
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "STANDING 7 FEET TALL",
+        "country_group": 30,
+        "callname": 1932349955,
+        "index": 106
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "SHANGRI-LA",
+        "country_group": 30,
+        "callname": 1200939932,
+        "index": 107
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "STILLWATER",
+        "country_group": 30,
+        "callname": 721157753,
+        "index": 108
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "THE FIFTH DIMENSION",
+        "country_group": 30,
+        "callname": 2870447377,
+        "index": 109
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "VALHALLA",
+        "country_group": 30,
+        "callname": 1394524618,
+        "index": 110
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "YOUR DARKEST FEARS",
+        "country_group": 30,
+        "callname": 3978434643,
+        "index": 111
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "ALBANIA",
+        "country_group": 59,
+        "callname": 3905479793,
+        "index": 3
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE AMAZON",
+        "country_group": 59,
+        "callname": 1212166098,
+        "index": 193
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "AMSTERDAM",
+        "country_group": 59,
+        "callname": 193711331,
+        "index": 194
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "ATLANTA",
+        "country_group": 59,
+        "callname": 3318977130,
+        "index": 195
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "BALTIMORE",
+        "country_group": 59,
+        "callname": 650883349,
+        "index": 196
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "PITTSBURGH (BORN IN)",
+        "country_group": 59,
+        "callname": 3172660476,
+        "index": 197
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "BOSTON",
+        "country_group": 59,
+        "callname": 2536892606,
+        "index": 198
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE BRONZE AGE",
+        "country_group": 59,
+        "callname": 3809650970,
+        "index": 199
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "TOKYO (BY WAY OF)",
+        "country_group": 59,
+        "callname": 1926663255,
+        "index": 200
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "HOLLYWOOD, CA (RESIDING)",
+        "country_group": 59,
+        "callname": 1520218824,
+        "index": 201
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE CARIBBEAN",
+        "country_group": 59,
+        "callname": 650429725,
+        "index": 202
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "CHICAGO",
+        "country_group": 59,
+        "callname": 2182555015,
+        "index": 203
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE CITY OF ANGELS",
+        "country_group": 59,
+        "callname": 3924136902,
+        "index": 204
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "CLEVELAND",
+        "country_group": 59,
+        "callname": 2932176390,
+        "index": 205
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE COPPER AGE",
+        "country_group": 59,
+        "callname": 4174874318,
+        "index": 206
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "DEATH VALLEY",
+        "country_group": 59,
+        "callname": 4077983945,
+        "index": 207
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "DEEP IN THE JUNGLE",
+        "country_group": 59,
+        "callname": 704335702,
+        "index": 208
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "DETROIT",
+        "country_group": 59,
+        "callname": 1393025142,
+        "index": 209
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE DISTRICT OF COLUMBIA",
+        "country_group": 59,
+        "callname": 3686072192,
+        "index": 210
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE EAST SIDE",
+        "country_group": 59,
+        "callname": 235010377,
+        "index": 211
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE 80'S",
+        "country_group": 59,
+        "callname": 571201834,
+        "index": 212
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE 50'S",
+        "country_group": 59,
+        "callname": 4084076002,
+        "index": 213
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE FUTURE",
+        "country_group": 59,
+        "callname": 1040537555,
+        "index": 214
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE GOOD 'OLE USA",
+        "country_group": 59,
+        "callname": 1123334560,
+        "index": 215
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE GREAT BARRIER REEF",
+        "country_group": 59,
+        "callname": 3008518048,
+        "index": 216
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "HOUSTON",
+        "country_group": 59,
+        "callname": 783302642,
+        "index": 217
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "INDIANAPOLIS",
+        "country_group": 59,
+        "callname": 640689779,
+        "index": 218
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE IRON AGE",
+        "country_group": 59,
+        "callname": 3219064412,
+        "index": 219
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE ISLE OF SAMOA",
+        "country_group": 59,
+        "callname": 3921906003,
+        "index": 220
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE JERSEY SHORE",
+        "country_group": 59,
+        "callname": 2259151759,
+        "index": 221
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "JERUSALEM",
+        "country_group": 59,
+        "callname": 469205244,
+        "index": 222
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "KANSAS CITY",
+        "country_group": 59,
+        "callname": 2071241473,
+        "index": 223
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "KOREA",
+        "country_group": 59,
+        "callname": 450487314,
+        "index": 224
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE LAND OF THE RISING SUN",
+        "country_group": 59,
+        "callname": 1317296454,
+        "index": 225
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "LONDON",
+        "country_group": 59,
+        "callname": 3360375683,
+        "index": 226
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "LOS ANGELES",
+        "country_group": 59,
+        "callname": 1763617389,
+        "index": 227
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE MACHINE AGE",
+        "country_group": 59,
+        "callname": 2973058141,
+        "index": 228
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MARS",
+        "country_group": 59,
+        "callname": 2845510198,
+        "index": 229
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MEXICO CITY",
+        "country_group": 59,
+        "callname": 1860601243,
+        "index": 230
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MIAMI",
+        "country_group": 59,
+        "callname": 379292081,
+        "index": 231
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE MIDDLE AGES",
+        "country_group": 59,
+        "callname": 178371936,
+        "index": 232
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MILWAUKEE",
+        "country_group": 59,
+        "callname": 2550044629,
+        "index": 233
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MINNEAPOLIS",
+        "country_group": 59,
+        "callname": 3773102434,
+        "index": 234
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MONTREAL",
+        "country_group": 59,
+        "callname": 2169144294,
+        "index": 235
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MOSCOW",
+        "country_group": 59,
+        "callname": 3942942225,
+        "index": 236
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE NAVAJO NATION",
+        "country_group": 59,
+        "callname": 2790489581,
+        "index": 237
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE NEAREST NIGHTCLUB",
+        "country_group": 59,
+        "callname": 1164102256,
+        "index": 238
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "NEW YORK CITY",
+        "country_group": 59,
+        "callname": 2694209876,
+        "index": 239
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "NIAGARA FALLS",
+        "country_group": 59,
+        "callname": 660015226,
+        "index": 240
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE 90'S",
+        "country_group": 59,
+        "callname": 2112816501,
+        "index": 241
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "NO PLACE IN PARTICULAR",
+        "country_group": 59,
+        "callname": 4153775892,
+        "index": 242
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE NORTH SIDE",
+        "country_group": 59,
+        "callname": 1576127052,
+        "index": 243
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "HALL OF FAME CITY",
+        "country_group": 59,
+        "callname": 646384007,
+        "index": 244
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE OLD COUNTRY",
+        "country_group": 59,
+        "callname": 1901919512,
+        "index": 245
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "PACIFIC ISLANDS",
+        "country_group": 59,
+        "callname": 3011144683,
+        "index": 246
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE PAST",
+        "country_group": 59,
+        "callname": 2355801104,
+        "index": 247
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "PHILADELPHIA",
+        "country_group": 59,
+        "callname": 810361039,
+        "index": 248
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "PITTSBURGH",
+        "country_group": 59,
+        "callname": 3265566953,
+        "index": 249
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "PLAZA DE TOROS",
+        "country_group": 59,
+        "callname": 3605837220,
+        "index": 250
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE RENAISSANCE",
+        "country_group": 59,
+        "callname": 84031486,
+        "index": 251
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE ROCKY MOUNTAINS",
+        "country_group": 59,
+        "callname": 2200971838,
+        "index": 252
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "SAN DIEGO",
+        "country_group": 59,
+        "callname": 2468593157,
+        "index": 253
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "SAN FRANCISCO",
+        "country_group": 59,
+        "callname": 415728126,
+        "index": 254
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "SEASONAL RESIDENCES",
+        "country_group": 59,
+        "callname": 2343697756,
+        "index": 255
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE 70'S",
+        "country_group": 59,
+        "callname": 1286059356,
+        "index": 256
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE SHANG DYNASTY",
+        "country_group": 59,
+        "callname": 2673421479,
+        "index": 257
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "SIN CITY",
+        "country_group": 59,
+        "callname": 2232133851,
+        "index": 258
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE 60'S",
+        "country_group": 59,
+        "callname": 323184899,
+        "index": 259
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE SOUTH SIDE",
+        "country_group": 59,
+        "callname": 1034396770,
+        "index": 260
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE FORMER SOVIET UNION",
+        "country_group": 59,
+        "callname": 2554627688,
+        "index": 261
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "ST. LOUIS",
+        "country_group": 59,
+        "callname": 3766634586,
+        "index": 262
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE STONE AGE",
+        "country_group": 59,
+        "callname": 3456076200,
+        "index": 263
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "SYDNEY",
+        "country_group": 59,
+        "callname": 2991259264,
+        "index": 264
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE WASTELAND",
+        "country_group": 59,
+        "callname": 821117578,
+        "index": 265
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "TORONTO",
+        "country_group": 59,
+        "callname": 2132277783,
+        "index": 266
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE UNITED KINGDOM",
+        "country_group": 59,
+        "callname": 133961679,
+        "index": 267
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "MAIN STREET, USA",
+        "country_group": 59,
+        "callname": 2351076995,
+        "index": 268
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "SMALLTOWN, USA",
+        "country_group": 59,
+        "callname": 3661452009,
+        "index": 269
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "VATICAN CITY",
+        "country_group": 59,
+        "callname": 3127106777,
+        "index": 270
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "WALL STREET",
+        "country_group": 59,
+        "callname": 2544047883,
+        "index": 271
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "CAPITAL HILL",
+        "country_group": 59,
+        "callname": 4283830784,
+        "index": 272
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE WEST SIDE",
+        "country_group": 59,
+        "callname": 1358992864,
+        "index": 273
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "WHEREVER HE WANTS",
+        "country_group": 59,
+        "callname": 1898007704,
+        "index": 274
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "WHEREVER SHE WANTS",
+        "country_group": 59,
+        "callname": 3633894754,
+        "index": 275
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE WILD WEST",
+        "country_group": 59,
+        "callname": 2371714453,
+        "index": 276
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "BIRMINGHAM",
+        "country_group": 28,
+        "callname": 3792590168,
+        "index": 81
+    },
+    {
+        "country": "NEW ZEALAND",
+        "state": " ",
+        "city": "AUCKLAND",
+        "country_group": 63,
+        "callname": 687951986,
+        "index": 285
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "RIVERSIDE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 2547489190,
+        "index": 399
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "PANAMA CITY",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 3746234740,
+        "index": 429
+    },
+    {
+        "country": "USA",
+        "state": "KENTUCKY",
+        "city": "PADUCAH",
+        "city_group": 30,
+        "country_group": 96,
+        "callname": 4119134017,
+        "index": 469
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "SARATOGA SPRINGS",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 1509989237,
+        "index": 555
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "PARTS UNKNOWN",
+        "country_group": 30,
+        "callname": 3007600262,
+        "index": 112
+    },
+    {
+        "country": "USA",
+        "state": "FLORIDA",
+        "city": "PALM SPRINGS",
+        "city_group": 21,
+        "country_group": 96,
+        "callname": 2527959320,
+        "index": 430
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": "SOUTH AUSTRALIA",
+        "city": "ADELAIDE",
+        "country_group": 6,
+        "callname": 3417975983,
+        "index": 690
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "FONTANA",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 3810505026,
+        "index": 677
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": " ",
+        "city": "GOLD COAST",
+        "country_group": 6,
+        "callname": 3035906448,
+        "index": 678
+    },
+    {
+        "country": "GERMANY",
+        "state": " ",
+        "city": "HAMBURG",
+        "country_group": 34,
+        "callname": 4075382496,
+        "index": 679
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "HICKORY",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 2910833280,
+        "index": 680
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "MONTERREY",
+        "country_group": 58,
+        "callname": 2909180330,
+        "index": 681
+    },
+    {
+        "country": "USA",
+        "state": "KENTUCKY",
+        "city": "WHITESBURG",
+        "city_group": 30,
+        "country_group": 96,
+        "callname": 2122704209,
+        "index": 682
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "WICHITA FALLS",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 1967575538,
+        "index": 683
+    },
+    {
+        "country": "ENGLAND",
+        "state": "WEST MIDLANDS",
+        "city": "WOLVERHAMPTON",
+        "country_group": 28,
+        "callname": 3521485177,
+        "index": 684
+    },
+    {
+        "country": "MEXICO",
+        "state": "VERACRUZ",
+        "city": "C\u00c3\u0093RDOBA",
+        "country_group": 58,
+        "callname": 800258183,
+        "index": 685
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "HACKETTSTOWN",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 2524198918,
+        "index": 686
+    },
+    {
+        "country": "WALES",
+        "state": " ",
+        "city": "BRYNMAWR",
+        "country_group": 100,
+        "callname": 725049834,
+        "index": 687
+    },
+    {
+        "country": "WALES",
+        "state": " ",
+        "city": "WELSH VALLEYS",
+        "country_group": 100,
+        "callname": 1838289392,
+        "index": 732
+    },
+    {
+        "country": "USA",
+        "state": "ALABAMA",
+        "city": "WADLEY",
+        "city_group": 13,
+        "country_group": 96,
+        "callname": 1736809568,
+        "index": 747
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "BURLINGTON",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 3012352138,
+        "index": 783
+    },
+    {
+        "country": "IRELAND",
+        "state": " ",
+        "city": "BRAY",
+        "country_group": 47,
+        "callname": 3368004422,
+        "index": 688
+    },
+    {
+        "country": "SCOTLAND",
+        "state": " ",
+        "city": "AYRSHIRE",
+        "country_group": 75,
+        "callname": 3120592912,
+        "index": 689
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "BELLVILLE",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 3184282662,
+        "index": 691
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "CHINATOWN",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 2487353393,
+        "index": 699
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": "MAINLAND CHINA",
+        "city": "CHONGQING",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 2512615650,
+        "index": 711
+    },
+    {
+        "country": "INDIA",
+        "state": " ",
+        "city": "UTTAR PRADESH",
+        "country_group": 43,
+        "callname": 607717860,
+        "index": 793
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "THE BRONX",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 421525404,
+        "index": 795
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "RANCHO CUCAMONGA",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 1577662948,
+        "index": 692
+    },
+    {
+        "country": "USA",
+        "state": "NEW YORK",
+        "city": "ALBANY",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 3846560285,
+        "index": 693
+    },
+    {
+        "country": "ITALY",
+        "state": " ",
+        "city": "SOUTH TYROL",
+        "country_group": 49,
+        "callname": 1241819767,
+        "index": 728
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "OVERSEAS",
+        "country_group": 30,
+        "callname": 1974184,
+        "index": 734
+    },
+    {
+        "country": "NORTHERN IRELAND",
+        "state": " ",
+        "city": "BELFAST",
+        "country_group": 47,
+        "callname": 3206404772,
+        "index": 733
+    },
+    {
+        "country": "USA",
+        "state": "WASHINGTON, D.C.",
+        "city": "CAPITOL HILL",
+        "country_group": 96,
+        "callname": 4069213181,
+        "index": 272
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "VENICE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 308870986,
+        "index": 735
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "MOUSTACHE MOUNTAIN",
+        "country_group": 30,
+        "callname": 281159125,
+        "index": 695
+    },
+    {
+        "country": "JAPAN",
+        "state": "KANAGAWA",
+        "city": "KAMAKURA",
+        "country_group": 51,
+        "callname": 2836014072,
+        "index": 696
+    },
+    {
+        "country": "USA",
+        "state": "MINNESOTA",
+        "city": "FOREST LAKE",
+        "city_group": 36,
+        "country_group": 96,
+        "callname": 3659920382,
+        "index": 697
+    },
+    {
+        "country": "USA",
+        "state": "CALIFORNIA",
+        "city": "TOLUCA LAKE",
+        "city_group": 17,
+        "country_group": 96,
+        "callname": 687051867,
+        "index": 698
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": "REDONDO BEACH",
+        "callname": 3304343841,
+        "index": 700
+    },
+    {
+        "country": "MEXICO",
+        "state": " ",
+        "city": "PUERTO VALLARTA",
+        "country_group": 58,
+        "callname": 4078884212,
+        "index": 701
+    },
+    {
+        "country": "NEW YORK",
+        "state": " ",
+        "city": "FULTON",
+        "city_group": 45,
+        "country_group": 96,
+        "callname": 2109012337,
+        "index": 702
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": " AUTHORITY MEGACORP HQ",
+        "country_group": 30,
+        "callname": 3518083555,
+        "index": 707
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": " THE INTERNET",
+        "country_group": 30,
+        "callname": 919700784,
+        "index": 717
+    },
+    {
+        "country": "FICTIONAL",
+        "state": " ",
+        "city": " NEO-OSAKA",
+        "country_group": 30,
+        "callname": 3352335743,
+        "index": 722
+    },
+    {
+        "country": "USA",
+        "state": "WYOMING",
+        "city": "RECLUSE",
+        "city_group": 63,
+        "country_group": 96,
+        "callname": 3780211825,
+        "index": 784
+    },
+    {
+        "country": "ENGLAND",
+        "state": " ",
+        "city": "EAST LONDON",
+        "country_group": 59,
+        "callname": 2329500710,
+        "index": 712
+    },
+    {
+        "country": "USA",
+        "state": "MASSACHUSETTS",
+        "city": "TYNGSBORO",
+        "city_group": 34,
+        "country_group": 96,
+        "callname": 322525291,
+        "index": 785
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "RIO GRANDE VALLEY",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 2674678028,
+        "index": 752
+    },
+    {
+        "country": "USA",
+        "state": "ILLINOIS",
+        "city": "LAKE FOREST",
+        "city_group": 25,
+        "country_group": 96,
+        "callname": 485629405,
+        "index": 760
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE POLYNESIAN ISLANDS",
+        "country_group": 59,
+        "callname": 3135523739,
+        "index": 781
+    },
+    {
+        "country": "AUSTRALIA",
+        "state": " ",
+        "city": "BLACK FOREST",
+        "country_group": 6,
+        "callname": 2736643482,
+        "index": 776
+    },
+    {
+        "country": "POLAND",
+        "state": " ",
+        "city": "OLE\u00c5\u009aNICA",
+        "country_group": 69,
+        "callname": 706001455,
+        "index": 766
+    },
+    {
+        "country": "GREATER CHINA",
+        "state": " ",
+        "city": "THE PEOPLE'S REPUBLIC OF CHINA",
+        "city_group": 11,
+        "country_group": 36,
+        "callname": 3033551955,
+        "index": 780
+    },
+    {
+        "country": "USA",
+        "state": "MARYLAND",
+        "city": "HAGERSTOWN",
+        "city_group": 33,
+        "country_group": 96,
+        "callname": 3058007450,
+        "index": 778
+    },
+    {
+        "country": "USA",
+        "state": "NEW JERSEY",
+        "city": "GLEN RIDGE",
+        "city_group": 43,
+        "country_group": 96,
+        "callname": 668377014,
+        "index": 777
+    },
+    {
+        "country": "USA",
+        "state": "OHIO",
+        "city": "BAYWOOD",
+        "city_group": 48,
+        "country_group": 96,
+        "callname": 293901965,
+        "index": 775
+    },
+    {
+        "country": "MISCELLANEOUS",
+        "state": " ",
+        "city": "THE BOTTOMLESS PIT",
+        "country_group": 59,
+        "callname": 2565483753,
+        "index": 741
+    },
+    {
+        "country": "JAPAN",
+        "state": "HIROSHIMA",
+        "city": "HIROSHIMA",
+        "country_group": 51,
+        "callname": 1043227772,
+        "index": 746
+    },
+    {
+        "country": "USA",
+        "state": "TEXAS",
+        "city": "SWEETWATER",
+        "city_group": 56,
+        "country_group": 96,
+        "callname": 2604293968,
+        "index": 786
+    },
+    {
+        "country": "USA",
+        "state": "NORTH CAROLINA",
+        "city": "SHERILLS FORD",
+        "city_group": 46,
+        "country_group": 96,
+        "callname": 1313228312,
+        "index": 787
+    }
+]

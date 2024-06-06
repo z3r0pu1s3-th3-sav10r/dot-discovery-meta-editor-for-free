@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "IYO SKY Rope Climb 1",
+        "Value": 11
+    },
+    {
+        "Name": "Slow Rope Climb",
+        "Value": 60
+    },
+    {
+        "Name": "Quick Rope Climb",
+        "Value": 6
+    },
+    {
+        "Name": "Normal Rope Climb",
+        "Value": 0
+    },
+    {
+        "Name": "Five Star Rope Climb",
+        "Value": 10
+    }
+]

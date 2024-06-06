@@ -1,0 +1,418 @@
+Build 11.5.3
+---------------
+ - [Meta]
+ - Fixed Creation Suite opening corrupted profiles
+ - Fixed visual glitch not showing paybacks in Creation Suite
+ - Fixed memory motion importing for Universe (most likely requires new Universe save) - Do not touch The Rock
+ - Fixed gender importing with profiles
+ - Updated Creation Suite database with patch 1.08 Entrance and Victory motions
+ - Fixed entrance music not assigning to victory
+ - Changed profile engine to dynamic search
+
+ # Additional Supported JSFB
+- CopyrightData.jsfb // WWE 2K24
+- PlayerDefaultRoster.jsfb // WWE 2K24
+- MatchTypeData.jsfb // WWE 2K24
+- GameTypeData.jsfb // WWE 2K24
+- StableAnnounceStrings.jsfb // WWE 2K24
+- AudioStableSoundIds.jsfb // WWE 2K24
+
+Build 11.5.2
+---------------
+- [Meta]
+- Creation Suite crash fixed
+- SDB id duplication fixed
+- Memory regions patched for motions
+- Default game set to WWE 2K24 (@triilium)
+- MusicList.jsfb values updated *REQUIRES EXPORT* (credit: @thepersianwizard)
+
+# Additional Supported JSFB
+- WatermarkDisplayAreaMenuAssetData.jsfb // WWE 2K24
+
+Build 11.5.1
+---------------
+- [Meta]
+- Orion hash fix (correctly generates hashes if your game folder is called "Orion")
+- Updated ArenaTronPackages, MovieDataTable schemas *REQUIRES EXPORT*
+
+Build 11.5
+---------------
+- [Meta]
+- Light show added to character creation
+- Fixed issue with screen filter not importing
+- Fixed crash when serializing with syntax errors
+- Fixed SDB crash when using override id
+- UI tweaks & fixes
+- <NEW> JSFB engine type added, useful for alternate JSFB serialization
+- Arena_Preload LED issue fixed (requires new export)
+- Moveset injection temporarily disabled due to region changes
+- <NEW> Discord rich presence
+
+# Additional Supported JSFB
+- ArenaData.jsfb // WWE 2K24
+- ArenaDef.jsfb // WWE 2K24
+- Arena_Preload.jsfb // WWE 2K24
+- ArenaTronPackages.jsfb // WWE 2K24
+- BloodDecalPlacements.jsfb // WWE 2K24
+- BloodGroups.jsfb // WWE 2K24
+- BeltsDataTable.jsfb // WWE 2K24
+- BeltsData_AssetMap.jsfb // WWE 2K24
+- CharacterBlood.jsfb // WWE 2K24
+- CharacterMapping.jsfb // WWE 2K24
+- CharProfileTable.roster.jsfb // WWE 2K24
+- FaceTextures.jsfb // WWE 2K24
+- HideCtrlData.hidelink.jsfb // WWE 2K24
+- MovieDataTable.jsfb // WWE 2K24
+- MovieRegistry.jsfb // WWE 2K24
+- PropsData_AssetMap.jsfb // WWE 2K24
+- RefereeSelect.jsfb // WWE 2K24
+- Soundtracks.jsfb // WWE 2K24
+- SpecialArenasData.jsfb // WWE 2K24
+- SuperstarTronPackages.jsfb // WWE 2K24
+- MatchUpScreenAsset.jsfb // WWE 2K24
+- MatchupMenuAssetData.jsfb // WWE 2K24
+- NameplateAnimeData.jsfb // WWE 2K24 
+- NameplateData.jsfb // WWE 2K24 
+- EtcDesignData.jsfb  // WWE 2K24
+- EtcDesignMenuAssetData.jsfb  // WWE 2K24
+- UIPresentationElementsData.jsfb // WWE 2K24
+- TransitionMenuAssetData.jsfb // WWE 2K24
+- TransitionData.jsfb // WWE 2K24
+- TemplateMenuAssetData.jsfb // WWE 2K24
+- TemplateAssetData.jsfb // WWE 2K24
+- ShowLoadMenuAssetData.jsfb // WWE 2K24
+- ShowLoadData.jsfb // WWE 2K24
+- ReplayMenuAssetData.jsfb // WWE 2K24
+- ReplayData.jsfb // WWE 2K24
+- NameplateData.jsfb // WWE 2K24
+- NameplateAnimeData.jsfb // WWE 2K24
+- MatchUpScreenAsset.jsfb // WWE 2K24
+- MatchupMenuAssetData.jsfb // WWE 2K24
+- FilterMenuAssetData.jsfb // WWE 2K24
+- FilterData.jsfb // WWE 2K24
+- EtcDesignMenuAssetData.jsfb // WWE 2K24
+- EtcDesignData.jsfb // WWE 2K24
+- DefaultShowParameters.jsfb // WWE 2K24
+- CommentaryData.jsfb // WWE 2K24
+- CommentaryMenuAssetData.jsfb // WWE 2K24
+- BnkPckData.jsfb // WWE 2K24
+- MusicList.jsfb // WWE 2K24
+- PropsData_RTCSMapping.jsfb // WWE 2K24
+- PropsData_MiscWeaponsTagsList.jsfb // WWE 2K24
+- PropsData_Tag.jsfb // WWE 2K24
+- PropsData_Skins.jsfb // WWE 2K24
+- PropsData_ReplaceTexture.jsfb // WWE 2K24
+- MusicData.jsfb // WWE 2K24
+- Managers.jsfb // WWE 2K24
+- Stars.jsfb // WWE 2K24
+- ArenaLogos.jsfb // WWE 2K24
+- SuperstarLogos.jsfb // WWE 2K24
+- MiscLogos.jsfb // WWE 2K24
+- LetterOther.jsfb // WWE 2K24
+- Flags.jsfb // WWE 2K24
+- Designs.jsfb // WWE 2K24
+
+Build 10.1
+---------------
+
+- [Meta]
+- Refactored engine for quicker iteration of new JSFB(s) support
+- WWE 2K24 schematics added
+- New schema library engine, due to the increased support of JSFBs (some using the same identifier) the user must select the schema to deserialize with if there are duplicates
+- Rebranded as dot.Meta (Meta for short, no numbers)
+- Queue system implemented for serialization/deserialization
+- Serialization/deserialization speed dramatically improved
+- Import button has been removed, will be refactored into something more useful in the future
+- Tabs can now be re-arranged
+- Changing game type fixed (this will close all active files)
+- Plug-in engine is slowly being implemented - the active plugins are disabled until the API is finished
+- Running the editor as Admin has now been enforced to prevent prime memory user error
+- SDB button added to toolbar for ease of access
+
+# Additional Supported JSFB
+- ColorEtcDesignMenuAssetData.jsfb // WWE 2K23
+- ColorMatchupMenuAssetData.jsfb // WWE 2K23
+- ColorReplayMenuAssetData.jsfb // WWE 2K23
+- LogoAnime.jsfb // WWE 2K23
+- LogoInfoData.jsfb // WWE 2K23
+- TransitionLogoAnimeData.jsfb // WWE 2K23
+- TransitionLogoAnimeMenuAssetData.jsfb // WWE 2K23
+- WatermarkDisplayAreaMenuAssetData.jsfb // WWE 2K23
+- GlobalRootTable.jsfb // WWE 2K23
+- Soundtracks.jsfb // WWE 2K23
+- TagRuleData.jsfb // WWE 2K23
+- GameTypeData.jsfb // WWE 2K23
+- MatchTypeData.jsfb // WWE 2K23
+- ****_a_anim.jsfb // WWE 2K23
+- ****_b_anim.jsfb // WWE 2K23
+
+Build-10.0.17763.21 (Patch)
+---------------
+
+- [Meta]
+- CAMMoveData fixed rear top rope moves
+
+Build-10.0.17763.21
+---------------
+
+- [Meta]
+- NameplateData.jsfb schema fixed (requires re-export)
+
+# Additional Supported JSFB
+- CAMMoveData.jsfb // WWE 2K23
+- CopyrightData.jsfb // WWE 2K23
+- DefaultShowParameters.jsfb // WWE 2K23
+- TemplateMenuAssetData.jsfb // WWE 2K23
+- TemplateAssetData.jsfb // WWE 2K23
+- ***_cdef.jsfb // WWE 2K23
+
+Build-10.0.17763.20
+---------------
+
+- [Meta]
+- New Flatbuffer engine to support advanced JSFB deserialization
+- More error handling checks
+- Bulk importer crash/error fixed
+- crowd_balance, crowd_reaction now added to bulk profile 
+- Regions updated for patch 1.21
+- Fixed SDB crashing when using special characters
+
+# Additional Supported JSFB
+- Arena_Preload.jsfb  // WWE 2K23
+- Barricade.jsfb // WWE 2K23
+- Skydome.jsfb // WWE 2K23
+
+Build-10.0.17763.19 Hotfix
+---------------
+
+- [Meta]
+- Fixed crash on opening profiles without moveset existing
+- Fixed save crash when not including a moveset
+- Fixed misplacement of payback in the profile
+
+# Additional Supported JSFB
+- ReplayData.jsfb // WWE 2K23
+- CommentaryMenuAssetData.jsfb // WWE 2K23 
+- NameplateData.jsfb // WWE 2K23
+
+Build-10.0.17763.19
+---------------
+
+- [Meta]
+- Moveset editor added to character creation
+- Extracting a full profile will now included the moveset
+- Moves.json is still a work in progress
+- Import Moveset only added to the import window - importing movesets will import into both exhibition and all your universe modes at the same time
+
+# Additional Supported JSFB
+- EtcDesignData.jsfb  // WWE 2K23
+- EtcDesignMenuAssetData.jsfb  // WWE 2K23
+- MatchupMenuAssetData.jsfb  // WWE 2K23
+- ReplayMenuAssetData.jsfb  // WWE 2K23
+- ShowLoadData.jsfb  // WWE 2K23
+- ShowLoadMenuAssetData.jsfb  // WWE 2K23
+- TransitionData.jsfb  // WWE 2K23
+- TransitionMenuAssetData.jsfb  // WWE 2K23
+- CommentaryData.jsfb  // WWE 2K23
+- FilterData.jsfb  // WWE 2K23
+- FilterMenuAssetData.jsfb  // WWE 2K23
+- MusicData.jsfb  // WWE 2K23
+- MusicMenuAssetData.jsfb  // WWE 2K23
+- Crowd_Def (Crowd_mexican.jsfb etc) // WWE 2K23
+- CharMoveSetDataTable.jsfb // WWE 2K23
+
+Build-10.0.17763.18.5
+---------------
+
+- [Meta]
+- Patch 1.17 memory regions updated
+- Small naming convention change to profiles (old values will still work)
+
+Build-10.0.17763.18
+---------------
+
+- [Meta]
+- EntranceListData.jsfb values updated | Credit @itwistedspartan
+
+# Additional Supported JSFB
+- Managers.jsfb (MyGM.jsfb) // WWE 2K23
+- Brands.jsfb (MyGM.jsfb) // WWE 2K23
+- BeltsData.jsfb (MyGM.jsfb) // WWE 2K23
+
+Build-10.0.17763.17
+---------------
+
+- [Meta]
+- Fixed crash when saving profile with empty values
+
+# Additional Supported JSFB
+- EntranceListData.jsfb // WWE 2K23
+- CutsceneNoRegistry.jsfb // WWE 2K23
+- Stars.jsfb // WWE 2K23 [Beta]
+- PropsData_RTCSMapping.jsfb // WWE 2K23
+- PropsData_MiscWeaponsTagsList.jsfb // WWE 2K23
+- PropsData_Tag.jsfb // WWE 2K23
+- PropsData_Skins.jsfb // WWE 2K23
+- PropsData_ReplaceTexture.jsfb // WWE 2K23
+- CutsceneIdTable.jsfb // WWE 2K23
+
+Build-10.0.17763.16
+---------------
+
+- [Meta]
+- Height is now calculated to be more accurate with 2K range values. Creation suite height is now capped to reflect 2K limited heights
+- Profile imports now null the manager lock
+- UIPresentationElementsData values update with new discoveries: Credit @chucketcharls64
+- Patch 1.16 memory regions updated
+- Removed Unlock All from utility; please use the hide file to unlock them permanently
+
+# Additional Supported JSFB
+- Logo/{***}.jsfb // WWE 2K23
+- AudienceTextureParameters_{***}.jsfb // WWE 2K23
+- RosterConverter.jsfb // WWE 2K23
+
+Build-10.0.17763.15
+---------------
+
+- [Meta]
+- ArenaData values update with new discoveries: Credit @jackcrimsoncaws, @jj2001  [Requires re-Export]
+- PropsSet values update with new discoveries: Credit @chainsawcharlie  [Requires re-Export]
+- PropsData_AssetMap values update with new discoveries: Credit @chainsawcharlie [Requires re-Export]
+- Fix to Hash Generator for incorrect hashes with uppercase .DDS
+- Entrance and Victory motions updated with missing entries
+- Memory Engine reworked, allowing for faster (almost instant!) profile importing
+- Addressed issue with Import/Export of profile setting incorrect slot/wrestler_id_2 values
+- Relaxed the profile export JSON restrictions to include default values (this helps Gender override)
+- Exit button on the CC now correctly closes (oversight from last build)
+- Switched the Attire & Basemodel positions in Creation Suite for easier navigation
+
+# Additional Supported JSFB
+- HideCtrlData.hidelink.jsfb // WWE 2K23 
+- NameplateAnimeData.jsfb // WWE 2K23 
+- NameplateStableData.jsfb // WWE 2K23
+- MatchUpScreenAsset.jsfb // WWE 2K23
+- BnkPckData.jsfb // WWE 2K23
+- UIPresentationElementsData.jsfb // WWE 2K23
+
+Build-10.0.17763.14
+---------------
+
+- [Meta]
+- Patch 1.14 memory regions updated
+- Fixed crash when closing currently opened JSFBs
+- ArenaData values update with new discoveries {DLC Flag} { Stage Geometry}: Credit @Tragiic, @blxckheart
+- New notification engine implemented, Windows notifications are a binned.
+- Collections now correctly saves opened JSFBs. (oversight from new input engine)
+- Exit button now closes the tool when clicked (Hurrah!)
+- Fixed region grabs for exported profiles (Wrestler ID, Slot ID)
+
+# Additional Supported JSFB
+- MusicList.jsfb // WWE 2K23 
+
+Build-10.0.17763.12
+---------------
+
+- Belt universe division added to belt creation data (divisions now save)
+- Refactored input engine to adapt for more JSFB files
+- Fixed social media string injection (this was only visual, a reboot would have fixed it for you)
+- Popout windows are now independent, allowing you to have creation suite open and interact with an SDB at the same time.
+- SDB id correctly generates when updating the collection
+- JSON file clean-up and refactor
+
+# Additional Supported JSFB
+- RefereeSelect.jsfb // WWE 2K23 [Beta]
+- ArenaData.jsfb // WWE 2K23 [Beta]
+- PropSet***.jsfb // WWE 2K23
+- ArenaDefinition_***.jsfb // WWE 2K23 [Beta]
+
+Build-10.0.17763.11
+---------------
+
+- Patch 1.12 memory regions and engine updated
+- [Export All] now an option on the roster table to export all character profiles
+- Fixed Belt creation crashing when opening a belt that uses BK2s
+
+Build-10.0.17763.10
+---------------
+
+- [SDB Editor]
+ - Meta can now open SDB files directly
+ - SDB editor has a cache engine, any changes or additions you make will be saved in the {Install Dir}/Cache/ directory.
+ - Cache files can be used with 'Patch SDB' to merge previous changes to a new SDB file (during patch cycles)
+ - Meta will automatically generate you an ID so all that is required is the text, you can of course override the ID to whatever you want
+ - Engine upgrades to the SDB have made the time to save almost instant
+ - Standard features such as add and filter remain the same.
+
+- [Meta]
+- Bulk Import now available, uses a unique structure to import mass attributes - check the Discord for usage.
+- Refactored memory injection allowing you to import only the motion or info regions independently if you require that.
+- More log clarity when importing
+
+Build-10.0.17763.9
+---------------
+
+- Patch 1.10 memory regions updated
+- Victory Motions updated
+- Creation suite now has create a belt.
+- Serialization of BeltDataTable.jsfb now rebuilt
+- Victory motion memory injection fixed (flag clearance)
+
+Build-10.0.17763.8
+---------------
+
+- Resolved issue where Meta was accessing the wrong file to serialize/deserialize based on the config cache
+- Hash generator overhauled, now includes a Select File, Select Folder to help generate hashes faster
+- Hash generator will auto-format, .dds => .tex, there is a preview of the formatting below the input.
+- Fonts fixed for UI elements
+
+Build-10.0.17763.7
+---------------
+
+- [Character] Creation studio locations updated for WWE 2K23
+- Unlock everything added
+- .profile renamed to .json to help syntax highlighting in visual code
+- character_class renamed to wrestler_type for better understanding
+
+# Additional Supported JSFB
+- PropsData_AssetMap.jsfb // WWE 2K23
+
+Build-10.0.17763.6.5
+---------------
+
+- [Character] Creation studio Movie mapping added
+
+Build-10.0.17763.6
+---------------
+
+- [Character] Creation studio info added
+- [Character] Creation studio mapping added
+- Option to enable changed file check on load (enabled by default)
+- Prime memory implemented
+- Import/Export for profile information implemented
+- Exposed memory offsets to JSON (game.json)
+
+# Additional Supported JSFB
+- MovieDataTable.jsfb // WWE 2K23
+
+Build-10.0.17763.5
+---------------
+
+# Additional Supported JSFB
+- CharProfileTable.roster.jsfb // WWE 2K23
+- CharacterMapping.jsfb // WWE 2K23
+- FaceTextures.jsfb // WWE 2K23
+- BeltsData_AssetMap.jsfb // WWE 2K23
+- BeltDataTable // WWE 2K23
+
+Build-10.0.17763.4
+---------------
+
+- Added JSON import/export
+- Added Flatcrawler deserialization
+- Added JSON watcher
+- Added Recently opened 
+- Added Multi-instance file opening for JSFB
+
+# Additional Supported JSFB
+- CharacterMapping.jsfb // WWE 2K22
+- MovieDataTable.jsfb // WWE 2K22

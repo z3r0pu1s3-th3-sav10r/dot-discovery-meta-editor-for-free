@@ -1,0 +1,62 @@
+[
+  {
+    "Value": 0,
+    "Name": "None"
+  },
+  {
+    "Value": 1,
+    "Name": "Resiliency"
+  },
+  {
+    "Value": 2,
+    "Name": "Low Blow"
+  },
+  {
+    "Value": 3,
+    "Name": "Poison Mist"
+  },
+  {
+    "Value": 4,
+    "Name": "Power of the Punch"
+  },
+  {
+    "Value": 5,
+    "Name": "Run-In"
+  },
+  {
+    "Value": 6,
+    "Name": "Blackout"
+  },
+  {
+    "Value": 7,
+    "Name": "Comeback"
+  },  
+  {
+    "Value": 8,
+    "Name": "Move Thief"
+  },
+  {
+    "Value": 9,
+    "Name": "Soul Syphon"
+  },
+  {
+    "Value": 10,
+    "Name": "Rage"
+  },
+  {
+    "Value": 11,
+    "Name": "Freeze"
+  },
+  {
+    "Value": 12,
+    "Name": "Iron Jaw"
+  },
+  {
+    "Value": 13,
+    "Name": "Fireball"
+  },
+  {
+    "Value": 14,
+    "Name": "Paparazzi"
+  }  
+]

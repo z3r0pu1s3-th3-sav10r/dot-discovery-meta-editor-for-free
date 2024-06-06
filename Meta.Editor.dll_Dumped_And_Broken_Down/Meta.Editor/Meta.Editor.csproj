@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: \\Mac\Home\Documents\Dev\Other_Projects\Meta__Build_11.5.3\Meta.Editor.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CBF15F91-63BC-49EC-B351-388A91A16EF1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Meta.Editor</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.5.32</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ControlzEx, Version=4.0.0.0, Culture=neutral, PublicKeyToken=69f1c32f803d307e, processorArchitecture=MSIL">
+      <HintPath>packages\ControlzEx.4.4.0\lib\net462\ControlzEx.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro, Version=2.0.0.0, Culture=neutral, PublicKeyToken=51482d6f650b2b3f, processorArchitecture=MSIL">
+      <HintPath>packages\MahApps.Metro.2.4.10\lib\net47\MahApps.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=3.0.0.0, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialDesignColors.3.0.0\lib\net462\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=5.0.0.0, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>packages\MaterialDesignThemes.5.0.0\lib\net462\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Meta.Editor">
+      <HintPath>..\..\Meta.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Win32.Registry" />
+    <Reference Include="Microsoft.Xaml.Behaviors, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Xaml.Behaviors.Wpf.1.1.39\lib\net45\Microsoft.Xaml.Behaviors.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Collections" />
+    <Reference Include="System.Collections.Concurrent" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.ComponentModel.Primitives" />
+    <Reference Include="System.ComponentModel.TypeConverter" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Diagnostics.Process" />
+    <Reference Include="System.Diagnostics.TraceSource" />
+    <Reference Include="System.IO.FileSystem.Watcher" />
+    <Reference Include="System.Linq" />
+    <Reference Include="System.Linq.Expressions" />
+    <Reference Include="System.ObjectModel" />
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Runtime.InteropServices" />
+    <Reference Include="System.Security.Cryptography.Algorithms" />
+    <Reference Include="System.Security.Cryptography.Primitives" />
+    <Reference Include="System.Text.RegularExpressions" />
+    <Reference Include="System.Threading" />
+    <Reference Include="System.Threading.Thread" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.XML" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=4.6.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>packages\Extended.Wpf.Toolkit.4.6.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=4.6.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>packages\Extended.Wpf.Toolkit.4.6.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=4.6.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>packages\Extended.Wpf.Toolkit.4.6.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=4.6.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>packages\Extended.Wpf.Toolkit.4.6.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>packages\Extended.Wpf.Toolkit.4.6.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DiscordRPCManager.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="FNV1A.cs" />
+    <Compile Include="Meta\Structures\Flatbuffers\MetaSerializerCallback.cs" />
+    <Compile Include="Meta\Structures\Flatbuffers\MetaSerializerFailedCallback.cs" />
+    <Compile Include="Meta\Structures\Flatbuffers\FlatbufferSerializeQueue.cs" />
+    <Compile Include="Meta\Core\MetaLogger.cs" />
+    <Compile Include="Meta\Core\PluginManager.cs" />
+    <Compile Include="Meta\Core\Converters\StatusToImageConverter.cs" />
+    <Compile Include="Meta\Editor\MetaTaskManager.cs" />
+    <Compile Include="Meta\Editor\MenuExtension.cs" />
+    <Compile Include="Meta\Editor\PluginLoadStatus.cs" />
+    <Compile Include="Meta\Editor\Windows\HashGenWindow.cs" />
+    <Compile Include="Meta\Editor\Windows\InputWindow.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaSchemaCallback.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaSchemaFailedCallback.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaSchemaWindow.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaTaskCallback.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaTaskWindow.cs" />
+    <Compile Include="Meta\Editor\Windows\OptionsWindow.cs" />
+    <Compile Include="Meta\Editor\Windows\SchemaNameConverter.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaSchemaTaskCallback.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaSchemaOkCallback.cs" />
+    <Compile Include="Meta\Editor\Windows\MetaSchemaCancelCallback.cs" />
+    <Compile Include="Meta\Editor\Windows\SchemaWindow.cs" />
+    <Compile Include="Meta\Editor\Properties\Resources.cs" />
+    <Compile Include="Meta\Editor\Plugin\Plugin.cs" />
+    <Compile Include="Meta\Editor\Plugin\Attributes\PluginAuthorAttribute.cs" />
+    <Compile Include="Meta\Editor\Plugin\Attributes\PluginDisplayNameAttribute.cs" />
+    <Compile Include="Meta\Editor\Plugin\Attributes\PluginIconAttribute.cs" />
+    <Compile Include="Meta\Editor\Plugin\Attributes\PluginVersionAttribute.cs" />
+    <Compile Include="Meta\Editor\Plugin\Attributes\RegisterMenuExtensionAttribute.cs" />
+    <Compile Include="Meta\Editor\IO\WWE2K23\ProfileExtensions.cs" />
+    <Compile Include="Meta\Editor\IO\WWE2K23\ProfileRender.cs" />
+    <Compile Include="Meta\Editor\IO\WWE2K23\MovesetReader.cs" />
+    <Compile Include="Meta\Editor\IO\WWE2K23\MotionRender.cs" />
+    <Compile Include="Meta\Editor\Extensions\GameUnlocker.cs" />
+    <Compile Include="Meta\Editor\Extensions\MetaCacheFile.cs" />
+    <Compile Include="Meta\Editor\Extensions\Cache`1.cs" />
+    <Compile Include="Meta\Editor\Extensions\Tuple`1.cs" />
+    <Compile Include="Meta\Editor\Extensions\Tuple`2.cs" />
+    <Compile Include="Meta\Editor\Extensions\Tuple.cs" />
+    <Compile Include="Meta\Editor\Extensions\OptionsExtension.cs" />
+    <Compile Include="Meta\Editor\Extensions\TextExtension.cs" />
+    <Compile Include="Meta\Editor\Converters\DelegateBasedValueConverter.cs" />
+    <Compile Include="Meta\Editor\Converters\HeightConverter.cs" />
+    <Compile Include="Meta\Editor\Converters\InfoConverter.cs" />
+    <Compile Include="Meta\Editor\Controls\AutoFilteredComboBox.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationWindow.cs" />
+    <Compile Include="Meta\Editor\Controls\Editor.cs" />
+    <Compile Include="Meta\Editor\Controls\EditorCharProfileTable.cs" />
+    <Compile Include="Meta\Editor\Controls\EditorCharProfileTable_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaFlatbufferItem.cs" />
+    <Compile Include="Meta\Editor\Controls\FlatbufferControl.cs" />
+    <Compile Include="Meta\Editor\Controls\JObject.cs" />
+    <Compile Include="Meta\Editor\Controls\JObjectCrowdSign.cs" />
+    <Compile Include="Meta\Editor\Controls\JObjectMove.cs" />
+    <Compile Include="Meta\Editor\Controls\JObjectExtensions.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaAutoSizedGridView.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaEngineChangeCallback.cs" />
+    <Compile Include="Meta\Editor\Controls\ToolbarItem.cs" />
+    <Compile Include="Meta\Editor\Controls\ContextMenuItem.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaBaseControl.cs" />
+    <Compile Include="Meta\Editor\Controls\AccentState.cs" />
+    <Compile Include="Meta\Editor\Controls\AccentPolicy.cs" />
+    <Compile Include="Meta\Editor\Controls\WindowCompositionAttributeData.cs" />
+    <Compile Include="Meta\Editor\Controls\WindowCompositionAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaBlurWindow.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaDetachedTabControl.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaDirectorySelect.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaDockableWindow.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaSaveFileDialog.cs" />
+    <Compile Include="Meta\Editor\Controls\MessageBoxClickCommand.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaMessageBox.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaSpinner.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaTabControl.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaTabItem.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaWatermarkTextbox.cs" />
+    <Compile Include="Meta\Editor\Controls\WindowCloseCommand.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaWindow.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaPropertyGridFactory.cs" />
+    <Compile Include="Meta\Editor\Controls\ToUpperConverter.cs" />
+    <Compile Include="Meta\Editor\Controls\ItemsSourceConverter.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaPropertyGridOperator.cs" />
+    <Compile Include="Meta\Editor\Controls\SDBAsset.cs" />
+    <Compile Include="Meta\Editor\Controls\SDBCache.cs" />
+    <Compile Include="Meta\Editor\Controls\MetaSDBControl.cs" />
+    <Compile Include="Meta\Editor\Controls\MaxIdConverter.cs" />
+    <Compile Include="Meta\Editor\Controls\NullToZeroConverter.cs" />
+    <Compile Include="Meta\Editor\Controls\BoolToVisibilityConverter.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CreationControl.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\BaseEditor.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\BaseEditorExtensions.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\WWE2K23_Generated_Belt.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorBelt.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\WWE2K24_Generated_Belt.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorBelt_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorCharacter.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\WWE2K23_Generated_Character.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\MetaDirectorySelectAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CrowdSignAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\AttireAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorMapping.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\DefaultIndexAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorMotion.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorCharacter_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\Movie_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\WWE2K24_Generated_Character.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorMapping_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\EditorMotion_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\ImportantAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CountryAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\Location.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\MovieConfig.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CreationEditor.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\BeltCreationControl.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CreationControlAttribute.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CharacterCreationControl.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\BeltCreationControl_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Controls\CreationSuite\CharacterCreationControl_WWE2K24.cs" />
+    <Compile Include="Meta\Editor\Commands\ItemDoubleClickCommand.cs" />
+    <Compile Include="Meta\Editor\Commands\RelayCommand.cs" />
+    <Compile Include="MetaEditor\MetaGame.cs" />
+    <Compile Include="MetaEditor\MemoryConfig.cs" />
+    <Compile Include="MetaEditor\App.cs" />
+    <Compile Include="MetaEditor\MainWindow.cs" />
+    <Compile Include="XamlGeneratedNamespace\GeneratedInternalTypeHelper.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="appicon.ico" />
+    <Resource Include="changelog.txt" />
+    <Resource Include="images\add.png" />
+    <Resource Include="images\addbookmark.png" />
+    <Resource Include="images\addfolder.png" />
+    <Resource Include="images\appicon.png" />
+    <Resource Include="images\assign.png" />
+    <Resource Include="images\back.png" />
+    <Resource Include="images\classref.png" />
+    <Resource Include="images\clear.png" />
+    <Resource Include="images\closeall.png" />
+    <Resource Include="images\closefolder.png" />
+    <Resource Include="images\closewindow.png" />
+    <Resource Include="images\compile.png" />
+    <Resource Include="images\database.png" />
+    <Resource Include="images\editlabel.png" />
+    <Resource Include="images\exit.png" />
+    <Resource Include="images\export.png" />
+    <Resource Include="images\filter.png" />
+    <Resource Include="images\forward.png" />
+    <Resource Include="images\grid.png" />
+    <Resource Include="images\home.png" />
+    <Resource Include="images\import.png" />
+    <Resource Include="images\interface.png" />
+    <Resource Include="images\key.png" />
+    <Resource Include="images\maximizewindow.png" />
+    <Resource Include="images\mesh.png" />
+    <Resource Include="images\minimizewindow.png" />
+    <Resource Include="images\more.png" />
+    <Resource Include="images\movie.png" />
+    <Resource Include="images\new.png" />
+    <Resource Include="images\open.png" />
+    <Resource Include="images\openasset.png" />
+    <Resource Include="images\openfolder.png" />
+    <Resource Include="images\pause.png" />
+    <Resource Include="images\play.png" />
+    <Resource Include="images\properties.png" />
+    <Resource Include="images\reference.png" />
+    <Resource Include="images\remove.png" />
+    <Resource Include="images\removebookmark.png" />
+    <Resource Include="images\rename.png" />
+    <Resource Include="images\renderdoc.png" />
+    <Resource Include="images\restorewindow.png" />
+    <Resource Include="images\revert.png" />
+    <Resource Include="images\save.png" />
+    <Resource Include="images\saveas.png" />
+    <Resource Include="images\skybox.png" />
+    <Resource Include="images\splashscreen.png" />
+    <Resource Include="images\stop.png" />
+    <Resource Include="images\threed.png" />
+    <Resource Include="images\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Meta\Editor\Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="app.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="controls\creationsuite\controls\games\editors\themes\editorcharacter.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="controls\creationsuite\controls\games\editors\themes\editormapping.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="controls\creationsuite\controls\games\editors\themes\editormotion.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="controls\creationsuite\creationwindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="controls\flatbuffer\themes\generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="controls\sdb\themes\generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="themes\generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\hashgenwindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\inputwindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\mainwindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\metaschemawindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\metataskwindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\optionswindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="windows\schemawindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\MaterialDesignThemes.5.0.0\build\MaterialDesignThemes.targets" Condition="Exists('packages\MaterialDesignThemes.5.0.0\build\MaterialDesignThemes.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\MaterialDesignThemes.5.0.0\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\MaterialDesignThemes.5.0.0\build\MaterialDesignThemes.targets'))" />
+  </Target>
+</Project>

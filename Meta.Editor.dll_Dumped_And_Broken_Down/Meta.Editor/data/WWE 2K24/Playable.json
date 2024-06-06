@@ -1,0 +1,14 @@
+[
+  {
+    "Value": 1,
+    "Name": "Fully Playable"
+  },
+  {
+    "Value": 0,
+    "Name": "Unplayable"
+  },
+  {
+    "Value": 3,
+    "Name": "Manager only"
+  }
+]

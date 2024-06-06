@@ -1,0 +1,38 @@
+[
+  {
+    "Value": 0,
+    "Name": "None"
+  },
+  {
+    "Value": 1,
+    "Name": "Resiliency"
+  },
+  {
+    "Value": 2,
+    "Name": "Low Blow"
+  },
+  {
+    "Value": 3,
+    "Name": "Poison Mist"
+  },
+  {
+    "Value": 4,
+    "Name": "Power of the Punch"
+  },
+  {
+    "Value": 5,
+    "Name": "Run-In"
+  },
+  {
+    "Value": 8,
+    "Name": "Move Thief"
+  },
+  {
+    "Value": 6,
+    "Name": "Blackout"
+  },
+  {
+    "Value": 7,
+    "Name": "Comeback"
+  }
+]

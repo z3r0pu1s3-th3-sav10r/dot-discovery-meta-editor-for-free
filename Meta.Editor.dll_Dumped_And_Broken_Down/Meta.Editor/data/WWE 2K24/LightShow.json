@@ -1,0 +1,410 @@
+[
+  {
+    "value": 100,
+    "name": "DEFAULT"
+  },
+  {
+    "value": 101,
+    "name": "THE ROCK"
+  },
+  {
+    "value": 102,
+    "name": "\"STONE COLD\" STEVE AUSTIN"
+  },
+  {
+    "value": 103,
+    "name": "TRIPLE H"
+  },
+  {
+    "value": 104,
+    "name": "UNDERTAKER"
+  },
+  {
+    "value": 105,
+    "name": "KANE"
+  },
+  {
+    "value": 106,
+    "name": "OPPORTUNIST"
+  },
+  {
+    "value": 107,
+    "name": "TWIN MAGIC 2"
+  },
+  {
+    "value": 108,
+    "name": "LIGHTING 13"
+  },
+  {
+    "value": 109,
+    "name": "REY MYSTERIO"
+  },
+  {
+    "value": 111,
+    "name": "LIGHTING 02"
+  },
+  {
+    "value": 112,
+    "name": "\"DEMON\" FINN BALOR 2"
+  },
+  {
+    "value": 113,
+    "name": "JOHN CENA 2"
+  },
+  {
+    "value": 114,
+    "name": "CORVUS ICONICUS"
+  },
+  {
+    "value": 115,
+    "name": "RANDY ORTON"
+  },
+  {
+    "value": 116,
+    "name": "FINN BALOR 2"
+  },
+  {
+    "value": 117,
+    "name": "LIGHTING 03"
+  },
+  {
+    "value": 118,
+    "name": "KOFI KINGSTON"
+  },
+  {
+    "value": 119,
+    "name": "LIGHTING 08"
+  },
+  {
+    "value": 120,
+    "name": "LIGHTING 04"
+  },
+  {
+    "value": 121,
+    "name": "LIGHTING 05"
+  },
+  {
+    "value": 122,
+    "name": "LIGHTING 06"
+  },
+  {
+    "value": 123,
+    "name": "THE MIZ"
+  },
+  {
+    "value": 124,
+    "name": "LONG ISLAND BROSKI"
+  },
+  {
+    "value": 125,
+    "name": "LIGHTING 14"
+  },
+  {
+    "value": 126,
+    "name": "SHEAMUS 1"
+  },
+  {
+    "value": 127,
+    "name": "LIGHTING 07"
+  },
+  {
+    "value": 128,
+    "name": "LIGHTING 36"
+  },
+  {
+    "value": 129,
+    "name": "LIGHTING 10"
+  },
+  {
+    "value": 130,
+    "name": "LIGHTING 19"
+  },
+  {
+    "value": 131,
+    "name": "R-TRUTH"
+  },
+  {
+    "value": 132,
+    "name": "SHOW OFF"
+  },
+  {
+    "value": 133,
+    "name": "CAPTAIN CHARISMA"
+  },
+  {
+    "value": 134,
+    "name": "GOLDEN ONE 1"
+  },
+  {
+    "value": 135,
+    "name": "DREW McINTYRE"
+  },
+  {
+    "value": 136,
+    "name": "SHEAMUS 2"
+  },
+  {
+    "value": 137,
+    "name": "LIGHTING 01"
+  },
+  {
+    "value": 138,
+    "name": "LIGHTING 09"
+  },
+  {
+    "value": 139,
+    "name": "LIGHTING 15"
+  },
+  {
+    "value": 140,
+    "name": "LIGHTING 16"
+  },
+  {
+    "value": 141,
+    "name": "THE YES MOVEMENT 1"
+  },
+  {
+    "value": 142,
+    "name": "LIGHTING 17"
+  },
+  {
+    "value": 143,
+    "name": "KEVIN NASH"
+  },
+  {
+    "value": 144,
+    "name": "BARON CORBIN"
+  },
+  {
+    "value": 145,
+    "name": "\"DEMON\" FINN BALOR 1"
+  },
+  {
+    "value": 146,
+    "name": "KING BOOKER"
+  },
+  {
+    "value": 147,
+    "name": "FACELESS"
+  },
+  {
+    "value": 148,
+    "name": "LIGHTING 18"
+  },
+  {
+    "value": 150,
+    "name": "LIGHTING 34"
+  },
+  {
+    "value": 151,
+    "name": "ROBERT ROODE 1"
+  },
+  {
+    "value": 152,
+    "name": "ROBERT ROODE 2"
+  },
+  {
+    "value": 153,
+    "name": "CONGA KING"
+  },
+  {
+    "value": 154,
+    "name": "LIGHTING 37"
+  },
+  {
+    "value": 155,
+    "name": "KURT ANGLE"
+  },
+  {
+    "value": 156,
+    "name": "SAMI ZAYN"
+  },
+  {
+    "value": 157,
+    "name": "LIGHTING 27"
+  },
+  {
+    "value": 158,
+    "name": "LIGHTING 11"
+  },
+  {
+    "value": 159,
+    "name": "LIGHTING 29"
+  },
+  {
+    "value": 161,
+    "name": "JOHN CENA 1"
+  },
+  {
+    "value": 162,
+    "name": "THE NEW DAY"
+  },
+  {
+    "value": 163,
+    "name": "LIGHTING 21"
+  },
+  {
+    "value": 165,
+    "name": "PERFECT 10"
+  },
+  {
+    "value": 166,
+    "name": "LIGHTING 22"
+  },
+  {
+    "value": 167,
+    "name": "LIGHTING 23"
+  },
+  {
+    "value": 168,
+    "name": "LIGHTING 25"
+  },
+  {
+    "value": 169,
+    "name": "AJ STYLES"
+  },
+  {
+    "value": 170,
+    "name": "LIGHTING 26"
+  },
+  {
+    "value": 171,
+    "name": "BAYLEY"
+  },
+  {
+    "value": 172,
+    "name": "D-GENERATION X"
+  },
+  {
+    "value": 174,
+    "name": "RAZOR RAMON"
+  },
+  {
+    "value": 175,
+    "name": "BRET \"HIT MAN\" HART"
+  },
+  {
+    "value": 176,
+    "name": "FINN BALOR 1"
+  },
+  {
+    "value": 177,
+    "name": "CHA CHA WITH ME 1"
+  },
+  {
+    "value": 178,
+    "name": "BATISTA"
+  },
+  {
+    "value": 179,
+    "name": "FULL MOON 1"
+  },
+  {
+    "value": 180,
+    "name": "NOT LIKE MOST"
+  },
+  {
+    "value": 181,
+    "name": "BIG METAL 1"
+  },
+  {
+    "value": 182,
+    "name": "ENIGMATIC 1"
+  },
+  {
+    "value": 183,
+    "name": "LIGHTING 28"
+  },
+  {
+    "value": 184,
+    "name": "RANDY SAVAGE"
+  },
+  {
+    "value": 185,
+    "name": "SETH \"FREAKIN\" ROLLINS"
+  },
+  {
+    "value": 186,
+    "name": "SHINSUKE NAKAMURA 1"
+  },
+  {
+    "value": 187,
+    "name": "SHINSUKE NAKAMURA 2"
+  },
+  {
+    "value": 188,
+    "name": "LIGHTING 24"
+  },
+  {
+    "value": 189,
+    "name": "LIGHTING 33"
+  },
+  {
+    "value": 191,
+    "name": "LIGHTING 12"
+  },
+  {
+    "value": 195,
+    "name": "LIGHTING 35"
+  },
+  {
+    "value": 196,
+    "name": "LIGHTING 20"
+  },
+  {
+    "value": 197,
+    "name": "ULTIMATE WARRIOR"
+  },
+  {
+    "value": 198,
+    "name": "BAYOU CULTISTS"
+  },
+  {
+    "value": 201,
+    "name": "LIGHTING 30"
+  },
+  {
+    "value": 202,
+    "name": "LIGHTING 31"
+  },
+  {
+    "value": 213,
+    "name": "\"DEMON\" FINN BALOR 3"
+  },
+  {
+    "value": 214,
+    "name": "\"DEMON\" FINN BALOR 4"
+  },
+  {
+    "value": 215,
+    "name": "BOBBY LASHLEY"
+  },
+  {
+    "value": 217,
+    "name": "THE ONE PERCENT"
+  },
+  {
+    "value": 218,
+    "name": "DISPUTED AGE"
+  },
+  {
+    "value": 220,
+    "name": "DAKOTA KAI"
+  },
+  {
+    "value": 221,
+    "name": "WOMAN'S RIGHT"
+  },
+  {
+    "value": 222,
+    "name": "HYPE MAN"
+  },
+  {
+    "value": 223,
+    "name": "LOVESICK 1"
+  },
+  {
+    "value": 224,
+    "name": "RICOCHET"
+  }
+]

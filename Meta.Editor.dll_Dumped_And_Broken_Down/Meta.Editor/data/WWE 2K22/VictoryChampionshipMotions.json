@@ -1,0 +1,274 @@
+[
+    {
+      "Value": 8040,
+      "Name": "Chamber Title Win (Hidden)"
+    },
+    {
+      "Value": 8041,
+      "Name": "Chamber Title Win 0 (Hidden)"
+    },
+    {
+      "Value": 8101,
+      "Name": "Ladder Title Victory (Laying On The Floor) (Hidden)"
+    },
+    {
+      "Value": 8700,
+      "Name": "Generic Champion 1"
+    },
+    {
+      "Value": 8701,
+      "Name": "Generic Champion 2"
+    },
+    {
+      "Value": 8702,
+      "Name": "Generic Champion 3"
+    },
+    {
+      "Value": 8703,
+      "Name": "Generic Champion 4"
+    },
+    {
+      "Value": 8704,
+      "Name": "Generic Champion 7"
+    },
+    {
+      "Value": 8705,
+      "Name": "Generic Champion 5"
+    },
+    {
+      "Value": 8706,
+      "Name": "Generic Champion 8"
+    },
+    {
+      "Value": 8707,
+      "Name": "Generic Champion 6"
+    },
+    {
+      "Value": 8708,
+      "Name": "Generic Champion 9"
+    },
+    {
+      "Value": 8709,
+      "Name": "Generic Champion 10"
+    },
+    {
+      "Value": 8712,
+      "Name": "Double Champion Victory 1 (Hidden)"
+    },
+    {
+      "Value": 8714,
+      "Name": "Double Champion Victory 2 (Hidden)"
+    },
+    {
+      "Value": 8750,
+      "Name": "Generic Champion 11"
+    },
+    {
+      "Value": 8751,
+      "Name": "Generic Champion 12"
+    },
+    {
+      "Value": 8752,
+      "Name": "Possesed Champion"
+    },
+    {
+      "Value": 8810,
+      "Name": "Double Title Female"
+    },
+    {
+      "Value": 9100,
+      "Name": "The Rock"
+    },
+    {
+      "Value": 9101,
+      "Name": "Stone Cold Steve Austin"
+    },
+    {
+      "Value": 9103,
+      "Name": "The Undertaker"
+    },
+    {
+      "Value": 9110,
+      "Name": "Edge"
+    },
+    {
+      "Value": 9111,
+      "Name": "Kurt Angle"
+    },
+    {
+      "Value": 9133,
+      "Name": "Santos Escobar"
+    },
+    {
+      "Value": 9136,
+      "Name": "Drew Mcintyre Champion"
+    },
+    {
+      "Value": 9139,
+      "Name": "John Cena Champion"
+    },
+    {
+      "Value": 9140,
+      "Name": "Fiendish Champion"
+    },
+    {
+      "Value": 9145,
+      "Name": "Shawn Michaels '97"
+    },
+    {
+      "Value": 9152,
+      "Name": "Shane Mcmahon Champion"
+    },
+    {
+      "Value": 9159,
+      "Name": "Batista Champion"
+    },
+    {
+      "Value": 9161,
+      "Name": "Randy Orton Champion"
+    },
+    {
+      "Value": 9163,
+      "Name": "Keith Lee Champion"
+    },
+    {
+      "Value": 9168,
+      "Name": "Pete Dunne"
+    },
+    {
+      "Value": 9177,
+      "Name": "Bret Hart Champion"
+    },
+    {
+      "Value": 9179,
+      "Name": "World Strongest Man Champion"
+    },
+    {
+      "Value": 9227,
+      "Name": "Ms. Texas Champion"
+    },
+    {
+      "Value": 9239,
+      "Name": "Jordan Delvin"
+    },
+    {
+      "Value": 9254,
+      "Name": "Ultiamte Warrior"
+    },
+    {
+      "Value": 9269,
+      "Name": "Jinder Mahal Champion"
+    },
+    {
+      "Value": 9324,
+      "Name": "The Yest Movement Champion"
+    },
+    {
+      "Value": 9325,
+      "Name": "Generic Champion 5"
+    },
+    {
+      "Value": 9326,
+      "Name": "Earths Champion"
+    },
+    {
+      "Value": 9343,
+      "Name": "Brock Lesnar Champion"
+    },
+    {
+      "Value": 9346,
+      "Name": "Yokozuna Champion"
+    },
+    {
+      "Value": 9361,
+      "Name": "Goldberg Champion"
+    },
+    {
+      "Value": 9368,
+      "Name": "Roman Reigns Champion"
+    },
+    {
+      "Value": 9369,
+      "Name": "Roman Reigns & Paul Heyman (Hidden)"
+    },
+    {
+      "Value": 9379,
+      "Name": "Tommaso Ciampa Champion"
+    },
+    {
+      "Value": 9412,
+      "Name": "Rey Mysterio Championship Victory (Hidden)"
+    },
+    {
+      "Value": 9413,
+      "Name": "Eddie Guerrero Champion"
+    },
+    {
+      "Value": 9414,
+      "Name": "Hollywood Hogan Champion"
+    },
+    {
+      "Value": 9434,
+      "Name": "Knight Rider Champion"
+    },
+    {
+      "Value": 9441,
+      "Name": "Kay Lee Ray Champion"
+    },
+    {
+      "Value": 9443,
+      "Name": "Finn Balor Champion"
+    },
+    {
+      "Value": 9448,
+      "Name": "Kevin Owens Champion"
+    },
+    {
+      "Value": 9455,
+      "Name": "Happy Corbin Champion"
+    },
+    {
+      "Value": 9460,
+      "Name": "Alexa Bliss Champion (Hidden)"
+    },
+    {
+      "Value": 9461,
+      "Name": "Asuka Champion"
+    },
+    {
+      "Value": 9462,
+      "Name": "Sasha Banks Champion"
+    },
+    {
+      "Value": 9463,
+      "Name": "Charllote Champion"
+    },
+    {
+      "Value": 9464,
+      "Name": "Bayley Champion"
+    },
+    {
+      "Value": 9465,
+      "Name": "Becky Lynch Champion"
+    },
+    {
+      "Value": 9466,
+      "Name": "Sky Pirate"
+    },
+    {
+      "Value": 9467,
+      "Name": "Bayley 1 Champion"
+    },
+    {
+      "Value": 9627,
+      "Name": "Rowdy Rebel Champion"
+    },
+    {
+      "Value": 9630,
+      "Name": "Hulk Hogan Champion"
+    },
+    {
+      "Value": 9700,
+      "Name": "Yes Double Championship Victory Yes! (Hidden)"
+    }
+]
